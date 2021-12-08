@@ -1,5 +1,5 @@
 ---
-title: Ana + ERIC BARAHONA | ST. PAUL HOTEL WEDDING
+title: Ana + Eric BARAHONA | ST. PAUL HOTEL WEDDING
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
