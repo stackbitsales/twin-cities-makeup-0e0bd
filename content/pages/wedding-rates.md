@@ -101,12 +101,10 @@ sections:
     colors: colors-e
     title: Bridal Party Service Rates
     subtitle: >-
-      Minimum of bride + 3 people during our peak season (May-October)
-
-      Inquiry about special discounts for off-peak weddings (November-April)
-
-      Bridal party hair and makeup consults are not included in any bridal party
-      rates listed.
+      We require a minimum of bride and 3 people during our peak season
+      (May-October). Inquire about special discounts for off-peak weddings
+      (November-April). Bridal party hair and makeup consults are not included
+      in any bridal party rates listed.
 
       All rates listed below are per person.
     items:
