@@ -140,7 +140,7 @@
             },
             {
                 "type": "Link",
-                "label": "Photos",
+                "label": "Rates",
                 "url": "/photos",
                 "altText": ""
             },
