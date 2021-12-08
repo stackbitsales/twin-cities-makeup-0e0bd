@@ -308,7 +308,6 @@ sections:
           disappointed! One of the things that I really loved about Lisa and her
           team is that they work onsite. Lisa sent two of her team members to…"
         name: '-Claire'
-        title: Happy customer
         image:
           type: ImageBlock
           url: /images/carla.jpg
