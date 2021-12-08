@@ -31,6 +31,10 @@ sections:
           - type: JobListItem
             text: >
               The consultation fee.
+            actions: [] 
+          - type: JobListItem
+            text: >
+              The consultation fee.
             actions: []            
     styles:
       self:
