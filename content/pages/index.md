@@ -246,6 +246,7 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
+    title: Awards
   - elementId: ''
     customClass: ''
     colors: colors-a
