@@ -54,6 +54,7 @@ sections:
         label: Book now
         url: /contact
         style: primary
+        altText: Book now
       - type: Link
         label: Learn More
         url: /
