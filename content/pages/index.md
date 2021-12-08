@@ -6,7 +6,10 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Look beautiful on your wedding day
-    subtitle: 'One platform, one comunity.'
+    subtitle: >-
+      Minimize your wedding day stress – let Lisa and her team work their magic
+      for you. Sit back, relax, have fun with your bridal party, and get
+      gorgeous!
     actions:
       - type: Button
         label: Get Started
