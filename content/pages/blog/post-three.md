@@ -1,7 +1,7 @@
 ---
 title: Ana + Eric Barahona | St. Paul Hotel Wedding
 layout: PostLayout
-date: '2021-12-08'
+date: '2021-12-07'
 author: content/data/team/hilary-ouse.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
