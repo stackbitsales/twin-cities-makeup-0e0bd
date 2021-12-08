@@ -122,7 +122,7 @@ sections:
           Late starts will throw off the timeline, and services may be cut short
           due to tardiness.
       - question: >-
-          Should you add Tip/Gratuities to your final bill for makeup and hair
+          Should you add a tip/gratuities to your final bill for makeup and hair
           services?
         answer: >
           For your convenience, an industry standard 18% gratuity will be added
