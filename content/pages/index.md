@@ -260,7 +260,7 @@ sections:
       Minnesota for wedding hair and makeup.
     actions:
       - type: Button
-        label: Sign Up
+        label: Read more
         url: /
         style: primary
     media:
