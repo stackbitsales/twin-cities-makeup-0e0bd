@@ -41,16 +41,19 @@ author: content/data/team/hilary-ouse.json
 ---
 What a way to bring in the New Year with style by getting [married on NYE in Minneapolis](http://blog.ericvestphotography.com/windows-on-minnesota-wedding-stew-alex-minneapolis-wedding-photographer/)? That’s just what Alex & Stew did for their Minneapolis wedding. Lisa Reinhardt and her team joined in on the celebration and made the bridal party look great with a [**bridal party makeup application**](https://www.twincitiesmakeup.com/wedding-rates/).
 
-
 ![](/images/minneapolis-bridal-makeup2-twincitiesmakeup.jpg)
 
 [Lisa and two others from her team](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) got together with the bride and her bridal party for an airbrush application session.
 
 ![](/images/minneapolis-bridal-makeup-twincitiesmakeup.jpg)
 
+### ![](/images/minneapolis-bride-makeup-lisa-reinhardt.jpg)
 
+![](/images/minneapolis-wedding-makeup-lisa-reinhardt.jpg)
 
+Prior to the wedding, the bride received a full set of false eyelashes to get that dramatic look for the wedding day. [**More about our Minneapolis Eyelash Extension services here**](https://www.twincitiesmakeup.com/eyelash-extensions/).
 
+![](/images/minneapolis-bride-makeup-twincitiesmakeup.jpg)
 
 ### Minneapolis Wedding Vendors
 
