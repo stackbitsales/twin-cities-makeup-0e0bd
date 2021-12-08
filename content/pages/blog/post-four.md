@@ -8,6 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-makeup-winter-bride-1024x598.jpeg
+  altText: Minneapolis new year's eve wedding
 bottomSections:
   - elementId: ''
     variant: variant-c
