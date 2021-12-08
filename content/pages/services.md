@@ -4,7 +4,7 @@ sections:
   - colors: colors-f
     elementId: ''
     customClass: ''
-    title: Key value propositions
+    title: Services
     subtitle: ''
     items:
       - type: FeaturedItem
