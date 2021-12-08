@@ -270,7 +270,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/minneapolis-bridal-makeup-twincitiesmakeup-1024x683.jpeg
-      altText: Twin Cities Makeup Hair
+      altText: Twin Cities Makeup hair services
     styles:
       self:
         height: auto
