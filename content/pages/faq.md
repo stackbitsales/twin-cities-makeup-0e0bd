@@ -60,7 +60,7 @@ sections:
         answer: >
           We can accommodate a bridal party of any size for makeup and hair.
           There are NO additional fees for extra makeup artist or stylist.
-      - question: When should the consultation be booked? How far in advance?
+      - question: How long does each person’s service take on the wedding day?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
