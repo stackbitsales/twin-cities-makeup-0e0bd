@@ -73,7 +73,7 @@ sections:
         - name: email
           hideLabel: false
           placeholder: Your email address
-          isRequired: false
+          isRequired: true
           width: full
           type: TextFormControl
         - name: reason-for-contact
