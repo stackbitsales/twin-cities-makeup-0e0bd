@@ -79,7 +79,7 @@ sections:
           the wedding day. The account that you used to for the deposit, will be
           charged if there are any cancelled services within the 3 week grace
           period.
-      - question: When should the consultation be booked? How far in advance?
+      - question: Wet Hair?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
