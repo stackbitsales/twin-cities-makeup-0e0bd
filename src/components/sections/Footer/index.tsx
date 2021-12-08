@@ -46,7 +46,7 @@ export default function Footer(props) {
                         {(socialLinks.length > 0 || props.contacts) && (
                             <div className="mb-6">
                                 {socialLinks.length > 0 && (
-                                    <ul className="flex items-center mb-6 space-x-10" data-sb-field-path=".socialLinks">
+                                    <ul className="flex items-end mb-6 space-x-10" data-sb-field-path=".socialLinks">
                                         {socialLinks.map((link, index) => (
                                             <li key={index}>
                                                 <Social {...link} data-sb-field-path={`.${index}`} />
