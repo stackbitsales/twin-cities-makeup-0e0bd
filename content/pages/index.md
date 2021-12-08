@@ -307,7 +307,6 @@ sections:
         title: Happy customer
         image:
           type: ImageBlock
-          url: /images/carla.jpg
           altText: Photo of Carla Rogers
     styles:
       self:
