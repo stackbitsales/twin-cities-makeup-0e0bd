@@ -92,7 +92,7 @@ sections:
           them, a $25 additional fee will be assessed to their hair service.
           This will throw off the timeline also, due to extra time placing the
           clip in’s and curling of the additional hair.
-      - question: When should the consultation be booked? How far in advance?
+      - question: How is payment accepted?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
