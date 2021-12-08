@@ -101,7 +101,6 @@ sections:
           isRequired: 'false'
           width: full
         - name: description
-          label: Description
           hideLabel: false
           placeholder: Please describe
           isRequired: false
