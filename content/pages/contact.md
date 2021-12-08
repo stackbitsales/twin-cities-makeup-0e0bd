@@ -100,7 +100,7 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
-        - name: description
+        - name: comments-questions
           hideLabel: false
           placeholder: Please describe
           isRequired: false
