@@ -78,7 +78,7 @@ sections:
           type: TextFormControl
         - name: reason-for-contact
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: Se
           options:
             - New York
             - San Francisco
