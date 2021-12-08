@@ -9,7 +9,6 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/st-paul-wedding-lisa-reinhardt4.jpeg
-  altText: Post Image
 bottomSections: []
 ---
 
