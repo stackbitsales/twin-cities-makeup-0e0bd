@@ -89,7 +89,7 @@ sections:
     items:
       - question: '''Queen for the Day'' Bridal Airbrush Makeup Application ~$215'
         answer: "Bride’s makeup consult (in-studio) and on-site makeup application on the wedding day.\_*Both the consult and wedding day are full makeup applications with synthetic strip eyelashes and airbrush foundation.*\n"
-      - question: Bridal Eyelash Extension Application~$200
+      - question: Bridal Eyelash Extension Application ~$200
         answer: >
           Full Set of Novalash Eyelash Extensions. Appointment is made the week
           of the wedding day (normally a $250 value)
