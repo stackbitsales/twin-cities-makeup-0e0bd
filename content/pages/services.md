@@ -156,7 +156,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Jeannine-Marie-Photography-400x500.jpeg
-      altText: 'Twin Cities Makeup '
+      altText: Twin Cities Makeup photo sessions
     styles:
       self:
         height: auto
