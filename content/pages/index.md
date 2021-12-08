@@ -40,6 +40,7 @@ sections:
         borderRadius: xx-large
         borderColor: border-dark
         borderWidth: 7
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
