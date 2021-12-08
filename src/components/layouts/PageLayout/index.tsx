@@ -17,7 +17,7 @@ export default function PageLayout(props) {
                     </h1>
                 )}
                 {sections.length > 0 && (
-                    <div className="bg-" data-sb-field-path="sections">
+                    <div className="bg-blue-400" data-sb-field-path="sections">
                         {sections.map((section, index) => {
                             const Component = getComponent(section.type);
                             if (!Component) {
