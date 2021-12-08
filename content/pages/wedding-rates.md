@@ -256,6 +256,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderRadius: xx-large
       title:
         textAlign: left
       text:
