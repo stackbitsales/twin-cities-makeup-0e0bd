@@ -155,7 +155,7 @@ sections:
         altText: View more about special event photo sessions
     media:
       type: ImageBlock
-      url: /images/Jeannine-Marie-Photography-450x600-64bd5ebf.png
+      url: /images/Jeannine-Marie-Photography-450x600.png
       altText: Twin Cities Makeup photo sessions
     styles:
       self:
