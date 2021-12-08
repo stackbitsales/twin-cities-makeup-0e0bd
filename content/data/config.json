@@ -106,7 +106,6 @@
     "footer": {
         "colors": "colors-h",
         "logo": {
-            "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": "",
             "styles": {
