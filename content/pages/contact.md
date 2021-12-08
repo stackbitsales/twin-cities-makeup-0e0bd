@@ -1,32 +1,6 @@
 ---
 title: Contact
 sections:
-  - type: QuoteSection
-    colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together :)
-    name: Carla Rogers
-    title: Someone from the team
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - type: MediaGallerySection
     colors: colors-a
     title: ''
