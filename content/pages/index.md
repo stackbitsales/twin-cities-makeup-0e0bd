@@ -250,7 +250,6 @@ sections:
     title: Meet Lisa
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
