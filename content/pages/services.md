@@ -42,7 +42,7 @@ sections:
           text:
             textAlign: center
     actions: []
-    columns: 3
+    columns: 2
     enableHover: false
     styles:
       self:
