@@ -81,7 +81,7 @@ sections:
       will be ready on time and looking fabulous for pictures.
     badge:
       type: Badge
-      label: Case study
+      label: Look amazing on your wedding day
       styles:
         self:
           textAlign: left
