@@ -4,7 +4,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-a
-    title: Love where you work
+    title: Lisa Reinhardt Makeup and Hair Artistry
     subtitle: ''
     badge:
       label: COntact
