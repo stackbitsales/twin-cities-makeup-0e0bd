@@ -85,12 +85,13 @@ sections:
           to their stylist on the wedding day with wet hair. This will throw off
           the timeline also, due to extra time blowing out the hair.
       - question: Can I bring my own clip in extensions for the stylist?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          If a member of the bridal party wishes to bring their own clip in
+          extensions they must have them already placed on their head prior to
+          starting hair services. If they want the stylist to place and curl
+          them, a $25 additional fee will be assessed to their hair service.
+          This will throw off the timeline also, due to extra time placing the
+          clip in’s and curling of the additional hair.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
