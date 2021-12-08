@@ -93,7 +93,7 @@ sections:
         - type: CheckboxFormControl
           name: type-other
           label: Other service
-          isRequired: true
+          isRequired: false
           width: full
         - type: TextFormControl
           name: date-of-service
