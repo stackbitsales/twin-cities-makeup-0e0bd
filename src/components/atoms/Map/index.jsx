@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function Social(props) {
+export default function Map(props) {
     const { label, altText, url } = props;
     const icon = props.icon || 'facebook';
     const IconComponent = iconMap[icon];
