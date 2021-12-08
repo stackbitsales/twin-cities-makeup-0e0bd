@@ -86,7 +86,7 @@ sections:
           width: full
           type: SelectFormControl
         - name: type-wedding
-          label: Sign me up to receive updates
+          label: Wedding
           isRequired: false
           width: full
           type: CheckboxFormControl
