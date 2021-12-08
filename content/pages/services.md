@@ -212,7 +212,7 @@ sections:
         style: primary
         showIcon: true
         icon: arrowRight
-        altText: View more about professional airbrush makeup benefits
+        altText: 'View more about professional airbrush makeup '
     media:
       type: ImageBlock
       url: /images/Aga-and-John-Wedding-333x500.jpeg
