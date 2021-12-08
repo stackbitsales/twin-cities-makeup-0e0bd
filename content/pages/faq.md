@@ -66,7 +66,7 @@ sections:
     type: JobsSection
   - colors: colors-a
     elementId: ''
-    title: Need Answers?
+    title: FAQ
     items:
       - question: >-
           Do the makeup and hair rates for the bride include a consultation
