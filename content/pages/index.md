@@ -195,7 +195,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/apple.svg
+        url: /images/best-minnesota-wedding-makeup-2021-the-knot.png
         altText: Apple
         caption: Apple
       - type: ImageBlock
