@@ -210,7 +210,7 @@ sections:
           - pt-24
           - pb-24
           - pl-6
-          - pr-9
+          - pr-6
         justifyContent: center
       title:
         textAlign: center
