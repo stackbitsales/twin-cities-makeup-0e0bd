@@ -1,7 +1,7 @@
 ---
 title: Services
 sections:
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     customClass: ''
     title: Services
