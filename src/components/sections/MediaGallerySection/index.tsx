@@ -174,6 +174,7 @@ function MediaGalleryImageGrid(props: MediaGallerySectionProps) {
                 maxWidth: '100%'
             }}
         >
+            <p>123</p>
             {images.map((image, index) => (
                 <div
                     key={`image-${index}`}
