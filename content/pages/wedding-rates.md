@@ -121,8 +121,9 @@ sections:
           requirement)
       - question: Makeup Consult for Members of Bridal Party $90 per person
         answer: >
-          Full Set of Novalash Eyelash Extensions. Appointment is made the week
-          of the wedding day (normally a $250 value)
+          Consults are not included in any bridal party rates. Consult would
+          include 1-hour pre-wedding (in-studio) application; this includes
+          airbrush and false lashes.
       - question: Day of Bridal Makeup* ~$160
         answer: "Bride’s on-site airbrush makeup and false lash application on\_the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a makeup consult prior to her wedding day.*\n\n*\\*Studio consultation not included in this packag*e\n"
       - question: ‘Queen for the Day’ Bridal Hair Package ~$215
