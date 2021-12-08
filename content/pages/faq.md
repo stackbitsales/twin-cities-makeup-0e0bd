@@ -28,24 +28,6 @@ sections:
               consultation that may also hinder the styling options available at
               the consultation.
             actions: []
-      - type: JobList
-        title: Sales
-        items:
-          - type: JobListItem
-            title: Sales Development Representative
-            location: San Francisco
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
-            actions:
-              - type: Link
-                label: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
     styles:
       self:
         height: auto
