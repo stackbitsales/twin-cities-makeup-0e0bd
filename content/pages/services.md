@@ -95,6 +95,7 @@ sections:
         style: primary
         showIcon: true
         icon: arrowRight
+        altText: 'View more '
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
