@@ -69,7 +69,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-f
     backgroundSize: inset
-    title: Where did everyone go?
+    title: Bridal airbrush makeup and hair styling
     text: >
       You deserve to look amazing on your wedding day. We want you to look and
       feel beautiful for YOU, your groom, your guest and also for your pictures.
