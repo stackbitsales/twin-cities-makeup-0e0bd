@@ -59,7 +59,6 @@ sections:
           product.
         featuredImage:
           url: /images/services.jpeg
-          altText: altText of the image
           caption: Caption of the image
           elementId: ''
           styles:
