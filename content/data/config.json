@@ -171,7 +171,8 @@
             {
                 "type": "Link",
                 "label": "Site Design by 3200 Creative",
-                "url": "/"
+                "url": "/",
+                "altText": "Site Design by 3200 Creative"
             },
             {
                 "type": "Link",
