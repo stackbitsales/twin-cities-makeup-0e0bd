@@ -262,7 +262,7 @@ sections:
     actions:
       - type: Button
         label: View more
-        url: /
+        url: /hair-services
         style: primary
         showIcon: true
         icon: arrowRight
