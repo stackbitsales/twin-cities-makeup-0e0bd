@@ -163,10 +163,7 @@ sections:
           Consultations are NOT included in the rates for the bridal party. If they request a in-studio consult before the wedding day; that amount is $80 (per requested service) and then full service rates would be charged on the wedding day.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+          The consultations are done about 5-6 weeks prior to the wedding day and are held at Lisa’s studio. Consultations are done Monday-Friday during the days/evenings.  Saturday is the busiest day for weddings and therefore we do not book consultations at any time on Saturdays. The studio is closed all day Sundays.
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
