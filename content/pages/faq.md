@@ -29,7 +29,7 @@ sections:
               the consultation.
             actions: []
       - type: JobList
-        title: Do the makeup?
+        title: What should you bring to the consultation?
         items:
           - type: JobListItem
             text: "Bring along any hair pictures of styles you want to try and\_the hair\_accessories that you plan on wearing\_(ex: headpiece, flower, combs, fascinators) and makeup pictures that inspire the look you want. Please do not bring your veil.\_ You should come without makeup on, and have clean hair. Bring friends and family along, if you prefer!\n"
