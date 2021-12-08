@@ -41,6 +41,83 @@ sections:
           during the days/evenings.  Saturday is the busiest day for weddings
           and therefore we do not book consultations at any time on Saturdays.
           The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
+      - question: When should the consultation be booked? How far in advance?
+        answer: >-
+          The consultations are done about 5-6 weeks prior to the wedding day
+          and are held at Lisa’s studio. Consultations are done Monday-Friday
+          during the days/evenings.  Saturday is the busiest day for weddings
+          and therefore we do not book consultations at any time on Saturdays.
+          The studio is closed all day Sundays.
     styles:
       self:
         height: auto
