@@ -165,7 +165,7 @@ function MediaGalleryImageGrid(props: MediaGallerySectionProps) {
 
     return (
         <div
-            className={classNames('grid', 'place-items-center', 'bg-blue-500', '', { 'mt-12': props.title || props.subtitle })}
+            className={classNames('grid', 'place-items-center', 'bg-blue-500', { 'mt-12': props.title || props.subtitle })}
             data-sb-field-path=".images"
             style={{
                 gridTemplateColumns: `repeat(${columns}, minmax(0, 1fr))`,
