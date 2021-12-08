@@ -152,7 +152,7 @@
             },
             {
                 "label": "Contact",
-                "altText": "",
+                "altText": "Contact",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
