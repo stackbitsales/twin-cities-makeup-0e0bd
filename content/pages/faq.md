@@ -107,12 +107,12 @@ sections:
           \*\*All parking or valet charges are to be paid by the bride PER
           artist/stylist that is required for wedding day services.
       - question: Is all travel included in the rates?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          The first 30 miles (ROUND TRIP) from Roseville is free of charge.
+          Anything after that is charged at $0.60 per additional mile per
+          stylist/artist that is required for the wedding day.  There are not
+          extra fees for time taken to travel to the client’s location just for
+          the mileage.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
