@@ -13,11 +13,7 @@ sections:
         self:
           textAlign: left
     text: "Call us at (763) 656-8688. Or email us at colormebeautiful01@yahoo.com.\n\nOr visit us at 7860 Vinewood LN N, Suite #20, Maple Grove,\_MN\_55369. We are located inside Salons by JC.\n"
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.png
