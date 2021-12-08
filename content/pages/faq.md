@@ -161,7 +161,7 @@ sections:
       - question: Are consultations for the bridal party too?
         answer: >-
           Consultations are NOT included in the rates for the bridal party. If they request a in-studio consult before the wedding day; that amount is $80 (per requested service) and then full service rates would be charged on the wedding day.
-      - question: How it this different from what we have today?
+      - question: When should the consultation be booked? How far in advance?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
