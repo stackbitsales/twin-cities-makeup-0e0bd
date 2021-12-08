@@ -49,7 +49,7 @@ sections:
     customClass: overlap
     colors: colors-f
     backgroundSize: inset
-    title: Where did everyone go?
+    title: Look beautiful on your wedding day
     text: >
       Learn how top tech companies have learned working remote using our
       product.
