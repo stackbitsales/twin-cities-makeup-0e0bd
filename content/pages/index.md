@@ -49,7 +49,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-a
+  - colors: colors-h
     elementId: ''
     items:
       - type: FeaturedItem
