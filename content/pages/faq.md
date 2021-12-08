@@ -152,7 +152,7 @@ sections:
     elementId: ''
     title: Need Answers?
     items:
-      - question: How it this different from what we have today?
+      - question: Do the makeup and hair rates for the bride include a consultation before the wedding day? What does the consultation include?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
