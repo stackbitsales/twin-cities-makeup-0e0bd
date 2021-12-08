@@ -206,7 +206,6 @@ sections:
       - type: ImageBlock
         url: /images/gatsby.svg
         altText: The Knot's Best of Weddings Hall of Wedding
-        caption: Gatsby
       - type: ImageBlock
         url: /images/xbox.svg
         altText: Xbox
