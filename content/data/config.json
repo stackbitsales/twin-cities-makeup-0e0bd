@@ -74,7 +74,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Contact",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
