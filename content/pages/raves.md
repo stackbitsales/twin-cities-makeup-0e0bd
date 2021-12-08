@@ -4,7 +4,7 @@ sections:
   - colors: colors-a
     elementId: ''
     customClass: ''
-    title: Open roles
+    title: Raves for Lisa Reinhardt
     subtitle: ''
     jobLists:
       - type: JobList
