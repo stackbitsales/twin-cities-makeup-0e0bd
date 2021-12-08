@@ -9,12 +9,6 @@ sections:
         label: Get Started
         url: /
         style: primary
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
     media:
       type: ImageBlock
       url: /images/hero.png
