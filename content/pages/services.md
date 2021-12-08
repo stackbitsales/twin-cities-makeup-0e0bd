@@ -27,7 +27,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Smarter
+        title: On-Location Services
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
