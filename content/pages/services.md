@@ -252,7 +252,7 @@ sections:
       professionally trained and certified.
     badge:
       type: Badge
-      label: Look amazing on your wedding day
+      label: Personalize your look
       styles:
         self:
           textAlign: left
