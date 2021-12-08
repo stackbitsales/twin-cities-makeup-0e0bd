@@ -136,5 +136,15 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
 layout: PageLayout
 ---
