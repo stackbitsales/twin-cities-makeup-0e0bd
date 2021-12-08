@@ -209,7 +209,7 @@ sections:
         altText: The Knot's Best of Weddings Hall of Wedding
       - type: ImageBlock
         url: /images/xbox.svg
-        altText: Xbox
+        altText: Wedding Wire Couples' Choice Award 2016
         caption: Xbox
       - type: ImageBlock
         url: /images/skype.svg
