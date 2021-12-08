@@ -82,6 +82,7 @@ sections:
           options:
             - Service request
             - General comment/question
+            - lorem-ipsum
           isRequired: false
           width: full
           type: SelectFormControl
