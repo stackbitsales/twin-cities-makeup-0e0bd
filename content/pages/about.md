@@ -97,7 +97,7 @@ sections:
         altText: As seen in TheKnot.com
     spacing: 1
     columns: 3
-    aspectRatio: '3:2'
+    aspectRatio: '4:3'
     imageSizePx: 300
     showCaption: false
     enableHover: false
