@@ -122,44 +122,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedPostsSection
-    colors: colors-a
-    variant: variant-b
-    title: >-
-      We sometimes write things. You should read it, it might shed some  light
-      on why we’re doing what we’re doing
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    showDate: true
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-0
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FaqSection
     colors: colors-f
     title: Need Answers?
