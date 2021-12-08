@@ -72,12 +72,13 @@ sections:
           services, and ensures the bride that timing will flow perfectly for
           her wedding day.
       - question: Cancelling services 3 weeks before the wedding day?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          50% (fifty) payment will  be charged for each cancelled service,
+          includes the bride or bridal party 3 weeks prior to the wedding. 100%
+          payment will be charged for each cancelled service within the week of
+          the wedding day. The account that you used to for the deposit, will be
+          charged if there are any cancelled services within the 3 week grace
+          period.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
