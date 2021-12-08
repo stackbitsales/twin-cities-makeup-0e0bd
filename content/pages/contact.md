@@ -102,7 +102,7 @@ sections:
           width: full
         - name: comments-questions
           hideLabel: false
-          placeholder: Please describe
+          placeholder: Comments/questions
           isRequired: false
           width: full
           type: TextareaFormControl
