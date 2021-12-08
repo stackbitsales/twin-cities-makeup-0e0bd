@@ -169,7 +169,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-cartoon-transparent-background.png
-      altText: Hero image
+      altText: Twin Cities Makeup Cartoon
     styles:
       self:
         height: auto
