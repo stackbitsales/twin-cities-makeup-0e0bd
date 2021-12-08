@@ -88,7 +88,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup1.png
-        altText: Image one
+        altText: As seen in TheKnot.com
         caption: Image one caption
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup2.png
