@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: LOOK BEAUTIFUL ON YOUR WEDDING DAY
+    title: Look beautiful on your wedding day
     subtitle: 'One platform, one comunity.'
     actions:
       - type: Button
