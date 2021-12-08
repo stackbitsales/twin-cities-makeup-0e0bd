@@ -247,7 +247,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-a
-    title: Love where you work
+    title: Meet Lisa
     subtitle: ''
     badge:
       label: This is the badge
