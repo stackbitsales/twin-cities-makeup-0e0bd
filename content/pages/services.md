@@ -5,7 +5,12 @@ sections:
     elementId: ''
     customClass: ''
     title: Services
-    subtitle: ''
+    subtitle: >-
+      Lisa and her highly skilled team of makeup artists and hairstylists offer
+      personalized makeup applications and creative hairstyling. Our specialty
+      areas include Hi-Def makeup and hair artistry for photography and video.
+      Areas of expertise in addition to bridal looks also include runway,
+      fashion shows, special event styling, and personal makeup lessons.
     items:
       - type: FeaturedItem
         title: Faster
