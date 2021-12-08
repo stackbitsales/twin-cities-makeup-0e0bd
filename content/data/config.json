@@ -53,7 +53,7 @@
             {
                 "label": "Raves",
                 "altText": "Raves",
-                "url": "/raves",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -62,7 +62,7 @@
             },
             {
                 "label": "BLOG",
-                "altText": "",
+                "altText": "Blog",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
