@@ -96,9 +96,6 @@ sections:
               - pr-4
       - type: FeaturedItem
         title: Raves
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
         featuredImage:
           url: /images/raves.jpeg
           altText: Lisa Reinhardt Makeup & Hair Artistry Reviews
