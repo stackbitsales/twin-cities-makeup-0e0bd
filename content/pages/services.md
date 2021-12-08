@@ -153,7 +153,7 @@ sections:
         icon: arrowRight
     media:
       type: ImageBlock
-      url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
+      url: /images/Jeannine-Marie-Photography-0076TT-683x1024.jpeg
       altText: Team meeting
     styles:
       self:
