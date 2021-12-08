@@ -43,8 +43,14 @@ sections:
           The studio is closed all day Sundays.
       - question: What is the deposit for?
         answer: >-
-          Non-refundable deposit is due upon booking. This will go toward your final balance for services. The deposit assures your date is reserved by Lisa or a member of her team. Whichever stylist/makeup artist does the bridal consultation will also be the stylist/makeup artist who will be doing the brides wedding day services.
-      - question: When should the consultation be booked? How far in advance?
+          Non-refundable deposit is due upon booking. This will go toward your
+          final balance for services. The deposit assures your date is reserved
+          by Lisa or a member of her team. Whichever stylist/makeup artist does
+          the bridal consultation will also be the stylist/makeup artist who
+          will be doing the brides wedding day services.
+      - question: >-
+          Is there a minimum amount of girls required in the bridal party to
+          book services:
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
