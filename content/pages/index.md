@@ -191,7 +191,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - colors: colors-h
-    subtitle: Trusted by
+    subtitle: Awards
     elementId: ''
     images:
       - type: ImageBlock
