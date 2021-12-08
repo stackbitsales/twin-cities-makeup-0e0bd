@@ -3,7 +3,7 @@ title: Meet Lisa
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: 'Look gorgeous, feel beautiful, be you!'
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
