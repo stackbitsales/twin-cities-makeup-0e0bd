@@ -39,52 +39,6 @@ sections:
       actions:
         justifyContent: flex-start
     text: "Lisa Reinhardt Makeup & Hair Artistry has been rated by local brides and voted\_*“The Knot Best of Weddings 2011-2021”*\_**(10 Years And Counting!)**\_We are the\_**#1 on-location Makeup & Hair\_service offered for\_Weddings\_in\_the Minneapolis and St Paul\_area**.\_\n\n[Read our glowing online reviews from real Brides](https://www.twincitiesmakeup.com/raves/), see our\_awards\_and experience our\_top notch\_service! See why 100’s of Brides voted us one of the Best Beauty Vendors in the entire country!\n"
-  - type: FeatureHighlightSection
-    colors: colors-a
-    title: And a strong value proposition
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        flexDirection: row-reverse
-        alignItems: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedPostsSection
     colors: colors-a
     variant: variant-b
