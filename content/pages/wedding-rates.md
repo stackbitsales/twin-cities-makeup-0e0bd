@@ -109,12 +109,16 @@ sections:
       All rates listed below are per person.
     items:
       - question: Traditional Makeup Application $70 per person
-        answer: |
-          *   Upgrade to Airbrush Foundation +$15 per person
+        answer: >
+          **Upgrade to Airbrush Foundation +$15 per person**
 
-          *   False Strip Lashes +$15 per person
 
-          *   Eyes Only with False Lashes $45
+          **False Strip Lashes +$15 per person ***(added to either traditional
+          or airbrush application)*
+
+
+          **Eyes Only with False Lashes $45 **(does not count toward the minimum
+          requirement)
       - question: False Stripe Las
         answer: >
           Full Set of Novalash Eyelash Extensions. Appointment is made the week
