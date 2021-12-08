@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Love your work. Work loves you.
+    title: LOOK BEAUTIFUL ON YOUR WEDDING DAY
     subtitle: 'One platform, one comunity.'
     actions:
       - type: Button
