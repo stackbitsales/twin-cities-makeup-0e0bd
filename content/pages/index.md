@@ -208,7 +208,7 @@ sections:
           /images/lisa-rienhardt-best-of-weddings-hall-of-fame-the-knot-200px.png
         altText: The Knot's Best of Weddings Hall of Wedding
       - type: ImageBlock
-        url: /images/xbox.svg
+        url: /images/WeddingWire-Couples-Choice-Award-2016.png
         altText: Wedding Wire Couples' Choice Award 2016
         caption: Xbox
       - type: ImageBlock
