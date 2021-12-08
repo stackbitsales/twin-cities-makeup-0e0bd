@@ -100,7 +100,15 @@ sections:
   - type: FaqSection
     colors: colors-e
     title: Bridal Party Service Rates
-    subtitle: ''
+    subtitle: >-
+      Minimum of bride + 3 people during our peak season (May-October)
+
+      Inquiry about special discounts for off-peak weddings (November-April)
+
+      Bridal party hair and makeup consults are not included in any bridal party
+      rates listed.
+
+      All rates listed below are per person.
     items:
       - question: Requirements & Seasonality
         answer: "Bride’s makeup consult (in-studio) and on-site makeup application on the wedding day.\_*Both the consult and wedding day are full makeup applications with synthetic strip eyelashes and airbrush foundation.*\n"
