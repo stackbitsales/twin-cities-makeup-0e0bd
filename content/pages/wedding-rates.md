@@ -139,7 +139,7 @@ sections:
     actions:
       - label: Book now
         altText: Book now
-        url: /
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
