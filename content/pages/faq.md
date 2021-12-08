@@ -61,12 +61,16 @@ sections:
           We can accommodate a bridal party of any size for makeup and hair.
           There are NO additional fees for extra makeup artist or stylist.
       - question: How long does each person’s service take on the wedding day?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          A good rule of thumb is 30 minutes per girl, per service with the
+          exception of the bride. The bride’s hair will take 1 hour, and bride’s
+          makeup will take 45 minutes.  If any member of your bridal party does
+          have longer hair, Lisa will need to know this in advance for timing
+          purposes. There maybe additional fees for \*longer/thicker hair.  Lisa
+          will send out a timeline 2-3 weeks before the wedding for the bride to
+          approve. The timeline will list each girls start/end time for
+          services, and ensures the bride that timing will flow perfectly for
+          her wedding day.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
