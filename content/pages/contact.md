@@ -91,7 +91,7 @@ sections:
           width: full
           type: CheckboxFormControl
         - type: CheckboxFormControl
-          name: updates
+          name: type-other
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
