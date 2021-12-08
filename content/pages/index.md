@@ -204,7 +204,7 @@ sections:
         url: /images/best-minnesota-wedding-makeup-2011-2019-the-knot.png
         altText: The Knot's Best of Weddings 2011-2019 Award
       - type: ImageBlock
-        url: /images/gatsby.svg
+        url: /images/lisa-rienhardt-best-of-weddings-hall-of-fame-the-knot.png
         altText: The Knot's Best of Weddings Hall of Wedding
       - type: ImageBlock
         url: /images/xbox.svg
