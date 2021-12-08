@@ -140,7 +140,7 @@ sections:
       request.
     badge:
       type: Badge
-      label: Look amazing on your wedding day
+      label: Professionally trained makeup artists
       styles:
         self:
           textAlign: left
