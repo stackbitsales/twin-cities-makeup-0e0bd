@@ -119,7 +119,7 @@ sections:
 
           **Eyes Only with False Lashes $45 **(does not count toward the minimum
           requirement)
-      - question: Makeup Consult for Members of Bridal Party $90 per person
+      - question: 'Makeup Consult for Members of Bridal Party: $90'
         answer: >
           Consults are not included in any bridal party rates. Consult would
           include 1-hour pre-wedding (in-studio) application; this includes
