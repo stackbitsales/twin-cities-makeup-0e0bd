@@ -124,7 +124,7 @@ sections:
           Consults are not included in any bridal party rates. Consult would
           include 1-hour pre-wedding (in-studio) application; this includes
           airbrush and false lashes.
-      - question: Day of Bridal Makeup* ~$160
+      - question: 'Day of Hair Styling: $85'
         answer: "Bride’s on-site airbrush makeup and false lash application on\_the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a makeup consult prior to her wedding day.*\n\n*\\*Studio consultation not included in this packag*e\n"
       - question: ‘Queen for the Day’ Bridal Hair Package ~$215
         answer: "Bride’s hair consult (in-studio) and on-site hair styling on the wedding day.\_*Bridal hair consult includes\_1 hour of styling with the wedding day stylist*\n"
