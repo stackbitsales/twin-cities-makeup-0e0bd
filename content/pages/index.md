@@ -318,6 +318,7 @@ sections:
         padding:
           - pt-8
           - pb-8
+          - pl-9
         justifyContent: center
       title:
         textAlign: left
