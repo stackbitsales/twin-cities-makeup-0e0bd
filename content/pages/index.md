@@ -263,6 +263,7 @@ sections:
         label: Read more
         url: /contact
         style: primary
+        altText: Read more
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-artist-lisa-reinhardt-800x500.png
