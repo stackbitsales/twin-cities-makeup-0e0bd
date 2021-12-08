@@ -160,6 +160,7 @@ sections:
         label: Book now
         url: /contact
         style: primary
+        altText: Book now
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-cartoon-transparent-background.png
