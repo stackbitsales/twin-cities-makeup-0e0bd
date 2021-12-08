@@ -92,7 +92,7 @@ sections:
           type: CheckboxFormControl
         - type: CheckboxFormControl
           name: type-other
-          label: Sign me up to receive updates
+          label: Other service
           isRequired: 'false'
           width: full
         - type: TextFormControl
