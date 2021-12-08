@@ -154,7 +154,7 @@ function MediaGalleryImageGrid(props: MediaGallerySectionProps) {
     if (images.length === 0) {
         return null;
     }
-    
+
     const columns = props.columns || 4;
     const aspectRatio = props.aspectRatio || '1:1';
     const numGaps = columns - 1; // 1 image, 0 gaps, 2 images, 1 gap, etc etc
@@ -165,7 +165,7 @@ function MediaGalleryImageGrid(props: MediaGallerySectionProps) {
 
     return (
         <div
-            className={classNames('grid', 'place-items-center', 'bg-blue-500', { 'mt-12': props.title || props.subtitle })}
+            className={classNames('grid', 'place-items-center', { 'mt-12': props.title || props.subtitle })}
             data-sb-field-path=".images"
             style={{
                 gridTemplateColumns: `repeat(${columns}, minmax(0, 1fr))`,
