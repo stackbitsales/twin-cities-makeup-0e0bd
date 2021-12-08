@@ -173,11 +173,6 @@
                 "label": "Site Design by 3200 Creative",
                 "url": "https://3200.pro/",
                 "altText": "Site Design by 3200 Creative"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
             }
         ],
         "styles": {
