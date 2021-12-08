@@ -124,12 +124,9 @@ sections:
       - question: >-
           Should you add Tip/Gratuities to your final bill for makeup and hair
           services?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          For your convenience, an industry standard 18% gratuity will be added
+          to all on-site services.
     styles:
       self:
         height: auto
