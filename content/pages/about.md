@@ -92,7 +92,7 @@ sections:
         caption: Image one caption
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup2.png
-        altText: Image two
+        altText: As seen in TheKnot.com
         caption: Image two caption
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup3.png
