@@ -114,12 +114,13 @@ sections:
           extra fees for time taken to travel to the client’s location just for
           the mileage.
       - question: Late Start or tardiness of any member of the bridal party?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          If we are unable to start wedding day services to due tardiness of the
+          bride or any member of the bridal party, additional fees will apply
+          after 15mins. For each 15mins that a stylist/makeup artist has to wait
+          a $30 fee will be assessed and due before services can be started.
+          Late starts will throw off the timeline, and services may be cut short
+          due to tardiness.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
