@@ -4,7 +4,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-a
-    title: Lisa Reinhardt Makeup and Hair Artistry
+    title: Contact Us
     subtitle: ''
     badge:
       label: COntact
