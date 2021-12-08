@@ -67,7 +67,7 @@ sections:
         justifyContent: center
     type: FeaturedItemsSection
   - type: FeatureHighlightSection
-    colors: colors-f
+    colors: colors-c
     backgroundSize: inset
     title: Bridal airbrush makeup and hair styling
     text: >
