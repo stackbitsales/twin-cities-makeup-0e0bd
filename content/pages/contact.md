@@ -57,7 +57,7 @@ sections:
         - type: TextFormControl
           name: first-name
           placeholder: Your first name
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - name: home-address
           hideLabel: false
