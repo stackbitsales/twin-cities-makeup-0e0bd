@@ -265,7 +265,7 @@ sections:
         icon: arrowRight
     media:
       type: ImageBlock
-      url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
+      url: /images/minneapolis-bridal-makeup-twincitiesmakeup-1024x683.jpeg
       altText: Team meeting
     styles:
       self:
