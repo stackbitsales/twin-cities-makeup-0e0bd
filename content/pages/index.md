@@ -65,6 +65,7 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+          altText: Lisa Reinhardt Makeup & Hair Artistry Services
         styles:
           self:
             textAlign: left
