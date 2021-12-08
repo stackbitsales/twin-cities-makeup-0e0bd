@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Button
         label: Book now
-        url: /
+        url: /contact
         style: primary
       - type: Link
         label: Learn More
