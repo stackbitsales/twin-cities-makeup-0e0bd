@@ -99,7 +99,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
-      altText: 'Twin Cities Makeup '
+      altText: Twin Cities Makeup wedding day services
     styles:
       self:
         height: auto
