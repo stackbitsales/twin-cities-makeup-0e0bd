@@ -37,7 +37,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderRadius: xx-large
+        borderRadius: none
         borderColor: border-dark
         borderWidth: 0
         borderStyle: solid
