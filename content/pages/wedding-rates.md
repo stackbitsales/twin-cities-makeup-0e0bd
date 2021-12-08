@@ -111,7 +111,7 @@ sections:
       - question: Traditional Makeup Application $70 per person
         answer: |
           Upgrade to Airbrush Foundation +$15 per person
-      - question: Upgrade to Airbrush Foundation a...
+      - question: False Stripe Las
         answer: >
           Full Set of Novalash Eyelash Extensions. Appointment is made the week
           of the wedding day (normally a $250 value)
