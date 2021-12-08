@@ -71,7 +71,6 @@ sections:
           isRequired: 'true'
           width: 1/2
         - name: home-address
-          label: Home address
           hideLabel: false
           placeholder: Your home address
           isRequired: false
