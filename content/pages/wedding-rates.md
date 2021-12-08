@@ -145,11 +145,8 @@ sections:
         answer: |
           Includes hair and light makeup
       - question: 'JR Attendant (under 14 years): $55'
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: |
+          Includes hair styling
     styles:
       self:
         height: auto
