@@ -100,6 +100,13 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
+        - name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Send Message
     media: null
     styles:
