@@ -308,9 +308,6 @@ sections:
           disappointed! One of the things that I really loved about Lisa and her
           team is that they work onsite. Lisa sent two of her team members to…"
         name: '-Claire'
-        image:
-          type: ImageBlock
-          altText: Photo of Carla Rogers
     styles:
       self:
         height: auto
