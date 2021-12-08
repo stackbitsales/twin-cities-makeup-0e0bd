@@ -156,7 +156,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Jeannine-Marie-Photography-400x500.jpeg
-      altText: Team meeting
+      altText: 'Twin Cities Makeup '
     styles:
       self:
         height: auto
