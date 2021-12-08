@@ -93,12 +93,19 @@ sections:
           This will throw off the timeline also, due to extra time placing the
           clip in’s and curling of the additional hair.
       - question: How is payment accepted?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          Cash or check only on the wedding day.  Deposit is paid online thru a
+          link provided. Everyone can pay separately or the Bride can pay the
+          total together. Whichever is most convenient for the Bride and her
+          bridal party.
+
+
+          All checks are to be made payable to: Lisa Reinhardt Makeup and Hair
+          Artistry.
+
+
+          \*\*All parking or valet charges are to be paid by the bride PER
+          artist/stylist that is required for wedding day services.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
