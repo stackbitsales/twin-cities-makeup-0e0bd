@@ -5,7 +5,7 @@ sections:
     customClass: ''
     colors: colors-a
     backgroundSize: full
-    title: Let's do this
+    title: Wedding Rates
     text: >
       Rates: May – October
 
