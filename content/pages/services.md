@@ -99,7 +99,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
-      altText: Team meeting
+      altText: 'Twin Cities Makeup '
     styles:
       self:
         height: auto
