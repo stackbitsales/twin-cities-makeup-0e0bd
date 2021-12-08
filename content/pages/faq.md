@@ -139,7 +139,7 @@ sections:
           - type: JobListItem
             text: >
               The consultation fee.
-            actions: []                                                                                                                                                                     
+            actions: []                                                                                                        
     styles:
       self:
         height: auto
