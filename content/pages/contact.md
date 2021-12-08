@@ -56,7 +56,7 @@ sections:
       fields:
         - type: TextFormControl
           name: first-name
-          placeholder: Your name
+          placeholder: Your first name
           isRequired: 'true'
           width: 1/2
         - name: home-address
