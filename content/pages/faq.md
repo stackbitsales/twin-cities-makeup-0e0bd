@@ -14,11 +14,19 @@ sections:
           before the wedding day? What does the consultation include?
         items:
           - type: JobListItem
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: >
+              The consultation fee is built into the bride’s makeup and hair
+              rate.   A consultation before the wedding day is highly
+              recommended so that you are assured that you will have the exact
+              look you want for your big day.  A full makeup application
+              including airbrush makeup with false lashes will be applied for
+              the makeup portion of the consult. Your requested hair style or
+              updo will also be completed at the consult. The stylist will do
+              minor adjustments to the hair style; if need be at that time. The
+              consultations takes about 1 hour. If more than one look is
+              requested, additional fees may apply. If a client is late to a
+              consultation that may also hinder the styling options available at
+              the consultation.
             actions:
               - type: Link
                 label: Apply
