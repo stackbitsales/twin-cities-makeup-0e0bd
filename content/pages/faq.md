@@ -27,7 +27,7 @@ sections:
               requested, additional fees may apply. If a client is late to a
               consultation that may also hinder the styling options available at
               the consultation.
-            actions: []         
+            actions: []      
     styles:
       self:
         height: auto
