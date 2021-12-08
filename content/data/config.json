@@ -165,14 +165,6 @@
                 "url": "https://www.facebook.com/pg/LisaReinhardtMakeup/photos/",
                 "icon": "facebook",
                 "altText": "Lisa Reinhardt Makeup and Hair Artistry on Facebook"
-            },
-            {
-                "label": "Wedding Wire",
-                "altText": "Lisa Reinhardt Makeup & Hair Artistry Services on WeddingWire",
-                "url": "https://www.weddingwire.com/reviews/lisa-reinhardt-makeup-hair-artistry-osseo/954f301ec297f2d0.html",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
             }
         ],
         "legalLinks": [
