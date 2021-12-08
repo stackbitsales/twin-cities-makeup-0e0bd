@@ -5,7 +5,7 @@ sections:
   - colors: colors-a
     elementId: ''
     customClass: ''
-    title: Open roles
+    title: FAQ
     subtitle: ''
     jobLists:
       - type: JobList
