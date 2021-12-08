@@ -222,7 +222,7 @@ sections:
     type: TextSection
   - elementId: ''
     customClass: ''
-    colors: colors-a
+    colors: colors-h
     backgroundSize: full
     title: >-
       Production/Print Work, Engagement Sessions, or Special Event Sessions
