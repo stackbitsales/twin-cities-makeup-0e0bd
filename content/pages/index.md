@@ -203,7 +203,6 @@ sections:
       - type: ImageBlock
         url: /images/playstation.svg
         altText: The Knot's Best of Weddings 2011-2019 Award
-        caption: PlayStation
       - type: ImageBlock
         url: /images/gatsby.svg
         altText: Gatsby
