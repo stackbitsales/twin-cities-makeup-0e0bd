@@ -87,7 +87,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: View more
         url: /
         style: primary
     media:
