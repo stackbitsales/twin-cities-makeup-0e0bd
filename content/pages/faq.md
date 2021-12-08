@@ -51,12 +51,11 @@ sections:
       - question: >-
           Is there a minimum amount of girls required in the bridal party to
           book services:
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          Yes, there is a bride plus 3 minimum required to book. This is due to
+          current business demands; especially during our extremely busy peak
+          summer months. Flower girls and JR attendants do not meet the
+          “additional” those are add on services.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
