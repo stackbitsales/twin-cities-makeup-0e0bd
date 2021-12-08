@@ -41,19 +41,6 @@ sections:
             textAlign: center
           text:
             textAlign: center
-      - type: FeaturedItem
-        title: Focused
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage: null
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
     actions: []
     columns: 3
     enableHover: false
