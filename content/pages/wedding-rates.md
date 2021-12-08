@@ -227,9 +227,12 @@ sections:
     title: >-
       Production/Print Work, Engagement Sessions, or Special Event Sessions
       Rates:
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Please [contact Lisa](/contact) for availability and pricing.
+
+
+      To avoid confusion, I have my off-season rates in the listed in [this
+      PDF](https://www.twincitiesmakeup.com/wp-content/uploads/2021/04/Off-Peak-Rates-2021.pdf).
     actions:
       - type: Button
         label: Try it now
