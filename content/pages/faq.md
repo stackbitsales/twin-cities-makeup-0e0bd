@@ -27,15 +27,7 @@ sections:
               requested, additional fees may apply. If a client is late to a
               consultation that may also hinder the styling options available at
               the consultation.
-            actions: []
-          - type: JobListItem
-            text: >
-              The consultation fee.
-            actions: [] 
-          - type: JobListItem
-            text: >
-              The consultation fee.
-            actions: []            
+            actions: []         
     styles:
       self:
         height: auto
