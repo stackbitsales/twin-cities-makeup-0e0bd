@@ -131,7 +131,7 @@ sections:
           - pt-8
           - pb-8
           - pl-9
-          - pr-4
+          - pr-9
         justifyContent: center
         borderRadius: none
         borderWidth: 0
