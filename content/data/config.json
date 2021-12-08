@@ -114,7 +114,8 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.png"
+            "url": "/images/logo.png",
+            "altText": "Lisa Reinhardt Makeup & Hair Artistry, LLC  |  Twincitiesmakeup.com"
         },
         "contacts": {
             "phoneNumber": "850-123-5021",
