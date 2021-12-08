@@ -181,7 +181,7 @@ sections:
         type: Button
   - elementId: ''
     customClass: ''
-    colors: colors-a
+    colors: colors-h
     title: Additional Fees
     subtitle: ''
     text: >
