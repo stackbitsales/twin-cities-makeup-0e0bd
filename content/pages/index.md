@@ -160,9 +160,6 @@ sections:
         label: Book now
         url: /
         style: primary
-      - type: Link
-        label: Learn More
-        url: /
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-cartoon-transparent-background.png
