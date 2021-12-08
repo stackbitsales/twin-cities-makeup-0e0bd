@@ -107,7 +107,7 @@ sections:
           product.
         featuredImage:
           url: /images/raves.jpeg
-          altText: Lisa Reinhardt Makeup & Hair Artistry Rviews
+          altText: Lisa Reinhardt Makeup & Hair Artistry Reviews
           elementId: ''
           styles:
             self:
