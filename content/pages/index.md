@@ -146,7 +146,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-c
-    title: Love where you work
+    title: Reserve your date today
     subtitle: ''
     badge:
       label: This is the badge
