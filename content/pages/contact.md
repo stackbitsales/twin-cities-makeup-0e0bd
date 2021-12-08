@@ -85,7 +85,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-          defaultValue: st
+          defaultValue: Service request
         - name: type-wedding
           label: Wedding
           isRequired: false
