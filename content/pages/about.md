@@ -11,7 +11,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/twin-cities-makeup-artist-kristen.jpeg
       altText: Hero section image
     styles:
       self:
