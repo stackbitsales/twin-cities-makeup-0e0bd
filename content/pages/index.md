@@ -83,7 +83,7 @@ sections:
           product.
         featuredImage:
           url: /images/photos.jpeg
-          altText: altText of the image
+          altText: Lisa Reinhardt Makeup & Hair Artistry Photos
           caption: Caption of the image
           elementId: ''
           styles:
