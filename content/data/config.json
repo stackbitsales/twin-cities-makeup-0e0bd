@@ -28,7 +28,7 @@
                 "type": "Link",
                 "label": "Photos",
                 "altText": "Photos",
-                "url": "/blog"
+                "url": "/photos"
             },
             {
                 "label": "Rates",
