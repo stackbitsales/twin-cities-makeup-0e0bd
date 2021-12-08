@@ -216,7 +216,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Aga-and-John-Wedding-333x500.jpeg
-      altText: Team meeting
+      altText: Twin Cities Makeup airbrush makeup
     styles:
       self:
         height: auto
