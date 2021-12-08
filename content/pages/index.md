@@ -254,10 +254,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      Lisa Reinhardt has repeatedly been voted "Best Wedding & Hair Makeup
+      Artist in the Twin Cities area." Lisa and her team will travel anywhere in
+      Minnesota for wedding hair and makeup.
     actions:
       - type: Button
         label: Sign Up
