@@ -95,7 +95,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
+        url: /images/as-seen-in-theknow-twin-cities-makeup3.png
         altText: Image three
         caption: Image three caption
     spacing: 1
