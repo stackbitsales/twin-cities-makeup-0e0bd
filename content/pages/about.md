@@ -42,7 +42,6 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-h
-    title: Love where you work
     subtitle: ''
     badge:
       label: This is the badge
