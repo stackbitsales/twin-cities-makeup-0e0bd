@@ -70,7 +70,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
-        - name: home-address
+        - name: email
           hideLabel: false
           placeholder: Your home address
           isRequired: false
