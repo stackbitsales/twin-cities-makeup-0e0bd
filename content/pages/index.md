@@ -168,7 +168,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/twin-cities-makeup-cartoon-transparent-background.png
       altText: Hero image
     styles:
       self:
