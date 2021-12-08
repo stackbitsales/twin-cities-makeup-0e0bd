@@ -76,7 +76,7 @@
                 "type": "Button",
                 "label": "Contact",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Contact",
                 "style": "primary"
             }
         ],
