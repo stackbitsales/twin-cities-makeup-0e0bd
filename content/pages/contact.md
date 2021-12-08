@@ -68,7 +68,7 @@ sections:
         - type: EmailFormControl
           name: phone
           placeholder: Your email
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - name: email
           hideLabel: false
