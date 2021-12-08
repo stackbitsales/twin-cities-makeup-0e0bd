@@ -249,11 +249,11 @@ function PostDate({ post, className = "" }) {
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
     return (
-        // <div className={className ? className : null}>
-        //     <time dateTime={dateTimeAttr} data-sb-field-path="date">
-        //         {formattedDate}
-        //     </time>
-        // </div>
+        <div className={className ? className : null}>
+            <time dateTime={dateTimeAttr} data-sb-field-path="date">
+                {formattedDate}
+            </time>
+        </div>
     );
 }
 
