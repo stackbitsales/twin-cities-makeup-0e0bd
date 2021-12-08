@@ -81,7 +81,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-d
+  - colors: colors-a
     elementId: ''
     customClass: ''
     title: As seen on TheKnot.com
