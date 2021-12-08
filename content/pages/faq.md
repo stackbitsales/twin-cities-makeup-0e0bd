@@ -121,7 +121,9 @@ sections:
           a $30 fee will be assessed and due before services can be started.
           Late starts will throw off the timeline, and services may be cut short
           due to tardiness.
-      - question: When should the consultation be booked? How far in advance?
+      - question: >-
+          Should you add Tip/Gratuities to your final bill for makeup and hair
+          services?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
