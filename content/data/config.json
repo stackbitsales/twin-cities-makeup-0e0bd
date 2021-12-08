@@ -106,7 +106,6 @@
     "footer": {
         "colors": "colors-h",
         "logo": {
-            "caption": "Caption of the image",
             "elementId": "",
             "styles": {
                 "self": {
