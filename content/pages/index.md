@@ -310,7 +310,6 @@ sections:
         name: '-Claire'
         image:
           type: ImageBlock
-          url: /images/carla.jpg
           altText: Photo of Carla Rogers
     styles:
       self:
