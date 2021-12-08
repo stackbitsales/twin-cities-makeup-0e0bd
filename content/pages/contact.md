@@ -82,7 +82,7 @@ sections:
           options:
             - Service request
             - General comment/question
-            - lorem-ipsum
+            - Submit a testimonial
           isRequired: false
           width: full
           type: SelectFormControl
