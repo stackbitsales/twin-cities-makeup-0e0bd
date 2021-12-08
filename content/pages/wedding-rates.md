@@ -99,12 +99,6 @@ sections:
         answer: "Bride’s hair consult (in-studio) and on-site hair styling on the wedding day.\_*Bridal hair consult includes\_1 hour of styling with the wedding day stylist*\n"
       - question: Day of Bridal Hair Styling~ $160
         answer: "Bride’s on-site hairstyling on the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a hair consult, prior to her wedding day.*\n"
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
     styles:
       self:
         height: auto
