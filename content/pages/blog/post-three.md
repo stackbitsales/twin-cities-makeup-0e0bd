@@ -8,7 +8,7 @@ excerpt: >-
   and the moms all had their hair and makeup done by Lisa and her team.
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/st-paul-wedding-lisa-reinhardt4.jpeg
   altText: Post Image
 bottomSections: []
 ---
