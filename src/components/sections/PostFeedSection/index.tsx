@@ -137,7 +137,7 @@ function postsVariantA(props) {
                                 {post.excerpt}
                             </p>
                         )}
-                        <PostAttribution showAuthor={props.showAuthor} post={post} className={classNames(props.showExcerpt && post.excerpt ? 'mt-6': 'mt-2')} />
+                        <PostAttribution showAuthor={props.showAuthor} post={post} className={classNames(props.showExcerpt && post.excerpt ? 'mt-6' : 'mt-2')} />
                     </div>
                 </article>
             ))}
@@ -155,7 +155,7 @@ function postsVariantB(props) {
             {posts.map((post, index) => (
                 <article
                     key={index}
-                    className={classNames( (index % 4 === 0 || (index + 1) % 4 === 0) ? 'md:col-span-3': 'md:col-span-2')}
+                    className={classNames((index % 4 === 0 || (index + 1) % 4 === 0) ? 'md:col-span-3' : 'md:col-span-2')}
                     data-sb-object-id={post.__metadata?.id}
                 >
                     {post.featuredImage && (
@@ -179,7 +179,7 @@ function postsVariantB(props) {
                                 {post.excerpt}
                             </p>
                         )}
-                        <PostAttribution showAuthor={props.showAuthor} post={post} className={classNames(props.showExcerpt && post.excerpt ? 'mt-6': 'mt-2')} />
+                        <PostAttribution showAuthor={props.showAuthor} post={post} className={classNames(props.showExcerpt && post.excerpt ? 'mt-6' : 'mt-2')} />
                     </div>
                 </article>
             ))}
@@ -227,10 +227,10 @@ function postsVariantC(props) {
                                     )}
                                 </div>
                                 <div className="mt-3">
-                                <Link href={getPageUrlPath(post)} className="sb-component sb-component-block sb-component-link">
-                                    <span>Read post</span>
-                                    <ArrowRightIcon className="fill-current h-5 w-5 ml-3" />
-                                </Link>
+                                    <Link href={getPageUrlPath(post)} className="sb-component sb-component-block sb-component-link">
+                                        <span>Read post</span>
+                                        <ArrowRightIcon className="fill-current h-5 w-5 ml-3" />
+                                    </Link>
                                 </div>
                             </div>
                         </div>
@@ -241,7 +241,7 @@ function postsVariantC(props) {
     );
 }
 
-function PostDate({ post, className="" }) {
+function PostDate({ post, className = "" }) {
     if (!post.date) {
         return null;
     }
@@ -249,15 +249,15 @@ function PostDate({ post, className="" }) {
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
     return (
-        <div className={className ? className : null}>
-            <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                {formattedDate}
-            </time>
-        </div>
+        // <div className={className ? className : null}>
+        //     <time dateTime={dateTimeAttr} data-sb-field-path="date">
+        //         {formattedDate}
+        //     </time>
+        // </div>
     );
 }
 
-function PostAttribution({ showAuthor, post, className="" }) {
+function PostAttribution({ showAuthor, post, className = "" }) {
     const author = showAuthor ? postAuthor(post) : null;
     const category = postCategory(post);
     if (!author && !category) {
