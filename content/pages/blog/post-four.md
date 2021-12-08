@@ -8,7 +8,6 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-makeup-winter-bride-1024x598.jpeg
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-c
