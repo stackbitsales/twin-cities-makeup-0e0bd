@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2021-12-07'
 author: content/data/team/hilary-ouse.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Have a look at this beautiful bride and bridal party! Ana, her bridesmaids,
+  and the moms all had their hair and makeup done by Lisa and her team.
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
