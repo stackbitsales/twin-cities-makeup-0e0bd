@@ -87,5 +87,44 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
+  - type: FaqSection
+    colors: colors-e
+    title: For the Bride
+    subtitle: ''
+    items:
+      - question: '''Queen for the Day'' Bridal Airbrush Makeup Application ~$215'
+        answer: "Bride’s makeup consult (in-studio) and on-site makeup application on the wedding day.\_*Both the consult and wedding day are full makeup applications with synthetic strip eyelashes and airbrush foundation.*\n"
+      - question: Bridal Eyelash Extension Application ~$200
+        answer: >
+          Full Set of Novalash Eyelash Extensions. Appointment is made the week
+          of the wedding day (normally a $250 value)
+      - question: Day of Bridal Makeup* ~$160
+        answer: "Bride’s on-site airbrush makeup and false lash application on\_the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a makeup consult prior to her wedding day.*\n\n*\\*Studio consultation not included in this packag*e\n"
+      - question: ‘Queen for the Day’ Bridal Hair Package ~$215
+        answer: "Bride’s hair consult (in-studio) and on-site hair styling on the wedding day.\_*Bridal hair consult includes\_1 hour of styling with the wedding day stylist*\n"
+      - question: Day of Bridal Hair Styling* ~$160
+        answer: "Bride’s on-site hairstyling on the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a hair consult, prior to her wedding day.*\n\n*\\*Studio consultation not included in this package*\n"
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-9
+          - mr-9
+        padding:
+          - pt-24
+          - pb-12
+          - pl-6
+          - pr-6
+        justifyContent: center
+        borderRadius: xx-large
+      title:
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left        
 layout: PageLayout
 ---
