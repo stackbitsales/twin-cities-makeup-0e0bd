@@ -141,7 +141,7 @@ sections:
         answer: >
           Consult includes 1-hour pre-wedding (in-studio) hairstyling with the
           same wedding day stylist
-      - question: Day of Bridal Hair Styling* ~$160
+      - question: 'Flower Girl (8 years and under): $45'
         answer: "Bride’s on-site hairstyling on the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a hair consult, prior to her wedding day.*\n\n*\\*Studio consultation not included in this package*\n"
     styles:
       self:
