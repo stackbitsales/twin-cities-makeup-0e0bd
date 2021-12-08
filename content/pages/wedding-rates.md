@@ -99,7 +99,7 @@ sections:
         type: Button
   - type: FaqSection
     colors: colors-e
-    title: For the Bride
+    title: Bridal party service rates
     subtitle: ''
     items:
       - question: '''Queen for the Day'' Bridal Airbrush Makeup Application ~$215'
