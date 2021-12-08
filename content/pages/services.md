@@ -187,17 +187,14 @@ sections:
     backgroundSize: inset
     title: Benefits of airbrush makeup
     text: >
-      You deserve to look amazing on your wedding day. We want you to look and
-      feel beautiful for YOU, your groom, your guest and also for your pictures.
-      We only use top of the line cosmetics that are specially formulated for
-      photography or film. On Location services allow you to get ready at your
-      home, hotel, church or ceremony site. You choose! 
-
-
-      On location services will minimize your wedding day stress by allowing you
-      and your wedding party the time to sit back, relax and have fun. We
-      guarantee that everyone will be ready on time and looking fabulous for
-      pictures.
+      Airbrush can create the illusion of perfect skin for you. Every airbrush
+      foundation application is custom mixed based on the clients’ skin color.
+      The end result is a natural look that covers skin imperfections
+      effortlessly and flawlessly never heavy or thick. Airbrush makeup is
+      sprayed on through an air compressor as a fine mist of color that gently
+      covers the skin. Since airbrush makeup rests on the surface and is not
+      rubbed into the skin you can achieve a flawless, radiant complexion that
+      every woman wants.
     badge:
       type: Badge
       label: Look amazing on your wedding day
