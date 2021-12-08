@@ -185,7 +185,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-c
     backgroundSize: inset
-    title: Bridal airbrush makeup and hair styling
+    title: Benefits of airbrush makeup
     text: >
       You deserve to look amazing on your wedding day. We want you to look and
       feel beautiful for YOU, your groom, your guest and also for your pictures.
