@@ -72,7 +72,7 @@ sections:
           width: 1/2
         - name: email
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Your email address
           isRequired: false
           width: full
           type: TextFormControl
