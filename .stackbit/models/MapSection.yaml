@@ -1,6 +1,6 @@
 type: object
-name: MediaGallerySection
-label: Media gallery
+name: MapSection
+label: Map gallery
 labelField: title
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
@@ -8,20 +8,3 @@ extends:
 groups:
   - sectionComponent
 fields:
-    default:
-      self:
-        width: full
-        height: auto
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pl-4', 'pr-4']
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
