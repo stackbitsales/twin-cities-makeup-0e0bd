@@ -109,7 +109,8 @@ sections:
       All rates listed below are per person.
     items:
       - question: Traditional Makeup Application $70 per person
-        answer: "Bride’s makeup consult (in-studio) and on-site makeup application on the wedding day.\_*Both the consult and wedding day are full makeup applications with synthetic strip eyelashes and airbrush foundation.*\n"
+        answer: |
+          Upgrade to Airbrush Foundation +$15 per person
       - question: Upgrade to Airbrush Foundation a...
         answer: >
           Full Set of Novalash Eyelash Extensions. Appointment is made the week
