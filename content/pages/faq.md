@@ -106,7 +106,7 @@ sections:
 
           \*\*All parking or valet charges are to be paid by the bride PER
           artist/stylist that is required for wedding day services.
-      - question: When should the consultation be booked? How far in advance?
+      - question: Is all travel included in the rates?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
