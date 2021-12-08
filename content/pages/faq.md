@@ -80,12 +80,10 @@ sections:
           charged if there are any cancelled services within the 3 week grace
           period.
       - question: Wet Hair?
-        answer: >-
-          The consultations are done about 5-6 weeks prior to the wedding day
-          and are held at Lisa’s studio. Consultations are done Monday-Friday
-          during the days/evenings.  Saturday is the busiest day for weddings
-          and therefore we do not book consultations at any time on Saturdays.
-          The studio is closed all day Sundays.
+        answer: >
+          A $20 additional blow out fee will be assessed to anyone who arrives
+          to their stylist on the wedding day with wet hair. This will throw off
+          the timeline also, due to extra time blowing out the hair.
       - question: When should the consultation be booked? How far in advance?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
