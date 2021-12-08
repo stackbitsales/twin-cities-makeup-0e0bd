@@ -97,7 +97,7 @@ sections:
           width: full
         - type: TextFormControl
           name: date-of-service
-          placeholder: Your home address
+          placeholder: Date of service
           isRequired: 'false'
           width: full
         - name: comments-questions
