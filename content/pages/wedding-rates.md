@@ -119,7 +119,7 @@ sections:
 
           **Eyes Only with False Lashes $45 **(does not count toward the minimum
           requirement)
-      - question: Makeup Consult for Any Member in Bridal Party $90
+      - question: Makeup Consult for Members of Bridal Party $90 per person
         answer: >
           Full Set of Novalash Eyelash Extensions. Appointment is made the week
           of the wedding day (normally a $250 value)
