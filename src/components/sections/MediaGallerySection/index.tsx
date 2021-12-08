@@ -155,9 +155,8 @@ function MediaGalleryImageGrid(props: MediaGallerySectionProps) {
         return null;
     }
 
-    const columns = props.columns || 4;
     console.log(columns);
-
+    const columns = props.columns || 4;
     const aspectRatio = props.aspectRatio || '1:1';
     const numGaps = columns - 1; // 1 image, 0 gaps, 2 images, 1 gap, etc etc
     const spacing = props.spacing || 0;
