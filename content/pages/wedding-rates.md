@@ -3,7 +3,7 @@ title: Rates
 sections:
   - elementId: ''
     customClass: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: Let's do this
     text: >-
