@@ -7,7 +7,7 @@ sections:
     title: Contact Us
     subtitle: ''
     badge:
-      label: COntact
+      label: Lisa Reinhardt Makeup and Hair Artistry
       elementId: ''
       styles:
         self:
