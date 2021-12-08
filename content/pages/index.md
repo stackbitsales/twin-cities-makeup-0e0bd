@@ -17,7 +17,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/minnesota-makeup-artist-scaled-arch.png
+      url: /images/minnesota-makeup-artist-scaled-arch-transparent-bg-lg.png
       altText: Image alt text
       caption: Image caption
     styles:
