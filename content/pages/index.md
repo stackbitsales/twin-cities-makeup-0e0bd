@@ -296,36 +296,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    variant: variant-a
-    testimonials:
-      - quote: >
-          Such a great experience to be using this product. It really helped
-          with what I needed help with.
-        name: Carla Rogers
-        title: Happy customer
-        image:
-          type: ImageBlock
-          altText: Photo of Carla Rogers
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-24
-        padding:
-          - pt-28
-          - pb-64
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
   - type: ContactSection
     customClass: overlap
     colors: colors-f
