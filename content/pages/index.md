@@ -149,7 +149,6 @@ sections:
     title: Reserve your date today
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
