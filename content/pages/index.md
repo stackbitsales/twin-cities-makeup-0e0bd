@@ -75,9 +75,6 @@ sections:
               - pr-4
       - type: FeaturedItem
         title: Photos
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
         featuredImage:
           url: /images/photos.jpeg
           altText: Lisa Reinhardt Makeup & Hair Artistry Photos
