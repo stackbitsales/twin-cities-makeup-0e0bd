@@ -214,7 +214,7 @@ sections:
         url: /images/WeddingWire-Couples-Choice-Award-2014.jpg
         altText: Wedding Wire Couples' Choice Award 2014
       - type: ImageBlock
-        url: /images/zcool.svg
+        url: /images/WeddingWire-Couples-Choice-Award-2013.jpg
         altText: Wedding Wire Couples' Choice Award 2013
     spacing: 3
     columns: 7
