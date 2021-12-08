@@ -145,7 +145,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     customClass: ''
-    colors: colors-h
+    colors: colors-c
     title: Love where you work
     subtitle: ''
     badge:
