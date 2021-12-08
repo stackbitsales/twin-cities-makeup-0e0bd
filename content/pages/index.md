@@ -261,7 +261,7 @@ sections:
     actions:
       - type: Button
         label: Read more
-        url: /
+        url: /contact
         style: primary
     media:
       type: ImageBlock
