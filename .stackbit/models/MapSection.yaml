@@ -7,11 +7,6 @@ extends:
   - Section
 groups:
   - sectionComponent
-fieldGroups:
-  - name: styles
-    label: Styles
-  - name: settings
-    label: Settings
 fields:
   - type: string
     name: title
