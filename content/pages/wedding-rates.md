@@ -27,7 +27,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-start
       title:
         textAlign: center
       subtitle:
