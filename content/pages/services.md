@@ -246,17 +246,10 @@ sections:
     backgroundSize: inset
     title: Hair services
     text: >
-      You deserve to look amazing on your wedding day. We want you to look and
-      feel beautiful for YOU, your groom, your guest and also for your pictures.
-      We only use top of the line cosmetics that are specially formulated for
-      photography or film. On Location services allow you to get ready at your
-      home, hotel, church or ceremony site. You choose! 
-
-
-      On location services will minimize your wedding day stress by allowing you
-      and your wedding party the time to sit back, relax and have fun. We
-      guarantee that everyone will be ready on time and looking fabulous for
-      pictures.
+      Whether the desired hair style is classic or modern, glamorous or
+      romantic, we will incorporate your ideas to create your own personalized
+      look. Stylist on the team are experienced and talented in all ethnicities,
+      professionally trained and certified.
     badge:
       type: Badge
       label: Look amazing on your wedding day
