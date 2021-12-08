@@ -153,7 +153,7 @@ sections:
         icon: arrowRight
     media:
       type: ImageBlock
-      url: /images/Jeannine-Marie-Photography-0076TT-683x1024.jpeg
+      url: /images/Jeannine-Marie-Photography-400x500.jpeg
       altText: Team meeting
     styles:
       self:
