@@ -44,7 +44,6 @@ sections:
     colors: colors-h
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
