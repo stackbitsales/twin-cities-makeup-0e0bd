@@ -14,7 +14,6 @@ sections:
           before the wedding day? What does the consultation include?
         items:
           - type: JobListItem
-            location: San Francisco
             text: >-
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
