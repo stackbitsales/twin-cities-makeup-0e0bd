@@ -63,7 +63,7 @@
             {
                 "label": "BLOG",
                 "altText": "Blog",
-                "url": "/",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
