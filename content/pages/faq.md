@@ -158,7 +158,7 @@ sections:
       - question: What should you bring to the consultation?
         answer: >-
           Bring along any hair pictures of styles you want to try and the hair accessories that you plan on wearing (ex: headpiece, flower, combs, fascinators) and makeup pictures that inspire the look you want. Please do not bring your veil.  You should come without makeup on, and have clean hair. Bring friends and family along, if you prefer!
-      - question: How it this different from what we have today?
+      - question: Are consultations for the bridal party too?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
