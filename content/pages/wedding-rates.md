@@ -126,7 +126,7 @@ sections:
           airbrush and false lashes.
       - question: 'Day of Hair Styling: $85'
         answer: >
-          ********Add $15 for long hair** *(Hair that is past the bra line or
+          **Add $15 for long hair** *(Hair that is past the bra line or
           extremely thick hair)*
 
 
