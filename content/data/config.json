@@ -75,7 +75,7 @@
             {
                 "type": "Button",
                 "label": "Contact",
-                "url": "/",
+                "url": "/contact",
                 "altText": "Contact",
                 "style": "primary"
             }
