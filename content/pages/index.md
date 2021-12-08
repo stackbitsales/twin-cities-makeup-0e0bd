@@ -197,7 +197,6 @@ sections:
       - type: ImageBlock
         url: /images/best-minnesota-wedding-makeup-2021-the-knot.png
         altText: Apple
-        caption: Apple
       - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
