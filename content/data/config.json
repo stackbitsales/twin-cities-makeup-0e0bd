@@ -163,7 +163,8 @@
                 "type": "Social",
                 "label": "Facebook",
                 "url": "https://www.facebook.com/pg/LisaReinhardtMakeup/photos/",
-                "icon": "facebook"
+                "icon": "facebook",
+                "altText": "Lisa Reinhardt Makeup and Hair Artistry Facebook"
             }
         ],
         "legalLinks": [
