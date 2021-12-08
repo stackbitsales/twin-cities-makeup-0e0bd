@@ -185,16 +185,16 @@ sections:
     title: Additional Fees
     subtitle: ''
     text: >
-      *   For your convenience, an industry-standard 18% gratuity will be added
-      to all on-site services; per client that is serviced.
+      For your convenience, an industry-standard 18% gratuity will be added to
+      all on-site services; per client that is serviced.
 
 
-      *   Travel within a 30 miles radius from Roseville, MN is included in
-      above rates. Mileage over that is calculated at .60 per mile per
-      stylist/artist required for the wedding day.
+      Travel within a 30 miles radius from Roseville, MN is included in above
+      rates. Mileage over that is calculated at .60 per mile per stylist/artist
+      required for the wedding day.
 
 
-      *   Non-refundable $160 deposit is due upon booking the wedding date. This
+      Non-refundable $160 deposit is due upon booking the wedding date. This
       will go toward the final Bridal balance due. Deposit assures your date is
       reserved with Lisa or a member of her team.
     styles:
