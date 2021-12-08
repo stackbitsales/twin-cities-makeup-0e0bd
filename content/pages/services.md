@@ -152,6 +152,7 @@ sections:
         style: primary
         showIcon: true
         icon: arrowRight
+        altText: View more about special event photo sessions
     media:
       type: ImageBlock
       url: /images/Jeannine-Marie-Photography-400x500.jpeg
