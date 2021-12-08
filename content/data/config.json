@@ -52,7 +52,7 @@
             },
             {
                 "label": "Raves",
-                "altText": "",
+                "altText": "Raves",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
