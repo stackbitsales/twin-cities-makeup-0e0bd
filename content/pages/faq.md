@@ -71,7 +71,7 @@ sections:
           approve. The timeline will list each girls start/end time for
           services, and ensures the bride that timing will flow perfectly for
           her wedding day.
-      - question: When should the consultation be booked? How far in advance?
+      - question: Cancelling services 3 weeks before the wedding day?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
