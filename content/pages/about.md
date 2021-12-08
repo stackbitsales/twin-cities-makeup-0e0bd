@@ -84,7 +84,7 @@ sections:
   - colors: colors-f
     elementId: ''
     customClass: ''
-    title: Gallery
+    title: As seen on TheKnot.com
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
