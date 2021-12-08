@@ -205,7 +205,7 @@ sections:
         altText: The Knot's Best of Weddings 2011-2019 Award
       - type: ImageBlock
         url: /images/gatsby.svg
-        altText: The Knot's Best of Weddings 2021 Award
+        altText: The Knot's Best of Weddings Hall of Wedding
         caption: Gatsby
       - type: ImageBlock
         url: /images/xbox.svg
