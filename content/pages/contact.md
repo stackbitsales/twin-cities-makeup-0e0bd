@@ -78,7 +78,6 @@ sections:
           type: TextFormControl
         - name: reason-for-contact
           hideLabel: false
-          defaultValue: Se
           options:
             - Service request
             - General comment/question
