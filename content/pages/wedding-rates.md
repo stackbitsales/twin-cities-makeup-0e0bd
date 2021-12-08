@@ -144,6 +144,12 @@ sections:
       - question: 'Flower Girl (8 years and under): $45'
         answer: |
           Includes hair and light makeup
+      - question: How it this different from what we have today?
+        answer: >-
+          At the office, working together is often a distruction, on remote, it
+          could be motivation. At the office, working together is often a
+          distruction, on remote, it could be motivation. At the office, working
+          together is often a distruction, on remote, it could be motivation.
     styles:
       self:
         height: auto
