@@ -82,7 +82,7 @@ sections:
             - Service request
             - General comment/question
             - Submit a testimonial
-          isRequired: false
+          isRequired: true
           width: full
           type: SelectFormControl
           defaultValue: Service request
