@@ -138,7 +138,7 @@ sections:
         textAlign: left
     actions:
       - label: Book now
-        altText: ''
+        altText: Book now
         url: /
         showIcon: false
         icon: arrowRight
