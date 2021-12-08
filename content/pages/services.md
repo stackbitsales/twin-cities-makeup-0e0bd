@@ -90,6 +90,7 @@ sections:
         label: View more
         url: /
         style: primary
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/hero-3.jpg
