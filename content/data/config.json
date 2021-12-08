@@ -43,7 +43,7 @@
             {
                 "label": "FAQ",
                 "altText": "",
-                "url": "/",
+                "url": "/faq",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
