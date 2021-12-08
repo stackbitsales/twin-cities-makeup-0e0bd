@@ -158,7 +158,7 @@ sections:
     actions:
       - type: Button
         label: Book now
-        url: /
+        url: /contact
         style: primary
     media:
       type: ImageBlock
