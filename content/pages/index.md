@@ -199,7 +199,7 @@ sections:
         altText: The Knot's Best of Weddings 2021 Award
       - type: ImageBlock
         url: /images/google-play.svg
-        altText: The Knot's Best of Weddings 2021 Award
+        altText: The Knot's Best of Weddings 2020 Award
       - type: ImageBlock
         url: /images/playstation.svg
         altText: PlayStation
