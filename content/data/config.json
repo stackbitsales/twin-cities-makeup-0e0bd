@@ -141,7 +141,7 @@
             {
                 "type": "Link",
                 "label": "Rates",
-                "url": "/photos",
+                "url": "/rates",
                 "altText": "Rates"
             },
             {
