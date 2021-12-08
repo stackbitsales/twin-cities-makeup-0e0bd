@@ -98,7 +98,7 @@ sections:
         - type: TextFormControl
           name: date-of-service
           placeholder: Date of service
-          isRequired: 'false'
+          isRequired: false
           width: full
         - name: comments-questions
           hideLabel: false
