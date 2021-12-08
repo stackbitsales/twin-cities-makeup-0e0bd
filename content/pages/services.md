@@ -14,9 +14,10 @@ sections:
     items:
       - type: FeaturedItem
         title: In-Studio Services
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >+
+          Personal makeup lessons, makeup/hair consults for bridal clients, and
+          prom and special event makeup and hairstyling.
+
         featuredImage: null
         styles:
           title:
