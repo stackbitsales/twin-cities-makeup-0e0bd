@@ -129,7 +129,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-c
     backgroundSize: inset
-    title: Bridal airbrush makeup and hair styling
+    title: Special event & photo session makeup and hair
     text: >
       All makeup artists and stylists have been professionally trained to work
       specifically for print or film services. Includes, but not limited to,
