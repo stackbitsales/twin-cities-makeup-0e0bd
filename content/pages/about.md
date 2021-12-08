@@ -57,9 +57,6 @@ sections:
       - type: Link
         label: Learn More
         url: /
-    media:
-      type: ImageBlock
-      altText: Hero image
     styles:
       self:
         height: auto
