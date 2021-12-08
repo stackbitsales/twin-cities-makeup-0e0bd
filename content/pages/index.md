@@ -201,7 +201,7 @@ sections:
         url: /images/best-minnesota-wedding-makeup-2020-the-knot.png
         altText: The Knot's Best of Weddings 2020 Award
       - type: ImageBlock
-        url: /images/playstation.svg
+        url: /images/best-minnesota-wedding-makeup-2011-2019-the-knot.png
         altText: The Knot's Best of Weddings 2011-2019 Award
       - type: ImageBlock
         url: /images/gatsby.svg
