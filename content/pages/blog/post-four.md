@@ -55,7 +55,9 @@ Prior to the wedding, the bride received a full set of false eyelashes to get th
 
 ![](/images/minneapolis-bride-makeup-twincitiesmakeup.jpg)
 
-### Minneapolis Wedding Vendors
+###
+
+Minneapolis Wedding Vendors
 
 *   **Photography:** [Eric Vest Photography](http://ericvestphotography.com/)
 
@@ -81,4 +83,4 @@ Prior to the wedding, the bride received a full set of false eyelashes to get th
 
 *   **Suit:** [The Black Tux](https://theblacktux.com/)
 
-*   **Rings:** [Grayson & Co. Jewelers](http://www.ironmountainjeweler.com/)
+*   **Rings:** [Grayson & Co. Jewelers![](/images/twin-cities-makeup-winter-bride.jpg)](http://www.ironmountainjeweler.com/)
