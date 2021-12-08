@@ -94,11 +94,7 @@ sections:
           Full Set of Novalash Eyelash Extensions. Appointment is made the week
           of the wedding day (normally a $250 value)
       - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: "Bride’s on-site airbrush makeup and false lash application on\_the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a makeup consult prior to her wedding day.*\n"
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
