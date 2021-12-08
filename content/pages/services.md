@@ -141,7 +141,7 @@ sections:
       request.
     badge:
       type: Badge
-      label: Professionally trained makeup artists
+      label: Glamorous photos
       styles:
         self:
           textAlign: left
