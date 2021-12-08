@@ -84,7 +84,7 @@ sections:
     type: TextSection
   - type: FaqSection
     colors: colors-a
-    title: For the bride
+    title: For the Bride
     subtitle: ''
     items:
       - question: How it this different from what we have today?
