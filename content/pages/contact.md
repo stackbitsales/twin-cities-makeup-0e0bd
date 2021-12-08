@@ -16,7 +16,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero.png
       altText: Hero image
     styles:
       self:
