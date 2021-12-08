@@ -89,7 +89,7 @@ sections:
         textAlign: left
     actions:
       - label: Book now
-        altText: ''
+        altText: Book now
         url: /contact
         showIcon: false
         icon: arrowRight
