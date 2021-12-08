@@ -91,6 +91,7 @@ sections:
         url: /
         style: primary
         showIcon: true
+        icon: arrowRight
     media:
       type: ImageBlock
       url: /images/hero-3.jpg
