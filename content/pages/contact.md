@@ -81,7 +81,7 @@ sections:
           defaultValue: Se
           options:
             - Service request
-            - San Francisco
+            - General comment/question
           isRequired: false
           width: full
           type: SelectFormControl
