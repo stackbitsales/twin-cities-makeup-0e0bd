@@ -157,7 +157,7 @@ sections:
       *Will travel anywhere in Minnesota*
     actions:
       - type: Button
-        label: Sign Up
+        label: Book now
         url: /
         style: primary
       - type: Link
