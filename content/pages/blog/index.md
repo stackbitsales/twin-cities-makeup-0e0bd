@@ -6,7 +6,7 @@ postFeed:
   showDate: true
   showAuthor: false
   showExcerpt: false
-  variant: variant-a
+  variant: variant-b
   colors: colors-a
   styles:
     self:
