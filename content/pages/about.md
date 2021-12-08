@@ -48,10 +48,7 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "With literally hundreds of weddings\_under our belt each year, we know brides and we are on top of every bridal trend!\_Lisa believes in natural beauty, not overly\_dramatic or\_heavy makeup and ensures that every artist on her team will deliver these same results.\_*You deserve to feel pampered and look gorgeous on your wedding day!*\_Our professional makeup and hair styling services are brought to you by\_**highly knowledgeable, trained and confident artists**\_who\_understand what it truly means to be dedicated to clients.\n\nEven with a ever growing business, Lisa is still the main contact point for all bookings, communications, AND still works multiple weddings every weekend. She is dedicated to making your experience amazing along with each and every member of your bridal party! We guarantee everyone will be ready on time and looking stunning for pictures!\_**Minimize your wedding day stress and\_**[**book with us**](https://www.twincitiesmakeup.com/contact/)**\_for YOUR special day!**\n"
     actions:
       - type: Button
         label: Sign Up
