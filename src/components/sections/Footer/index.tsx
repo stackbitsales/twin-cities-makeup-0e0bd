@@ -79,7 +79,7 @@ export default function Footer(props) {
 
 function Contacts(props) {
     return (
-        <div className="mb-6 space-y-4 text-lg" data-sb-field-path=".contacts">
+        <div className="mb-6 space-y-4 text-lg grid items-align-end" data-sb-field-path=".contacts">
             {props.phoneNumber && (
                 <p>
                     <a
