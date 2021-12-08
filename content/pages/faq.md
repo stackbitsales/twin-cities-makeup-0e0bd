@@ -113,7 +113,7 @@ sections:
           stylist/artist that is required for the wedding day.  There are not
           extra fees for time taken to travel to the client’s location just for
           the mileage.
-      - question: When should the consultation be booked? How far in advance?
+      - question: Late Start or tardiness of any member of the bridal party?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
