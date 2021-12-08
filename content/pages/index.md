@@ -212,7 +212,7 @@ sections:
         altText: Wedding Wire Couples' Choice Award 2016
       - type: ImageBlock
         url: /images/skype.svg
-        altText: Skype
+        altText: WeddingWire-Couples-Choice-Award-2014
         caption: Skype
       - type: ImageBlock
         url: /images/zcool.svg
