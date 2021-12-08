@@ -56,7 +56,7 @@ sections:
           current business demands; especially during our extremely busy peak
           summer months. Flower girls and JR attendants do not meet the
           “additional” those are add on services.
-      - question: When should the consultation be booked? How far in advance?
+      - question: How many girls can we accommodate for wedding day services?
         answer: >-
           The consultations are done about 5-6 weeks prior to the wedding day
           and are held at Lisa’s studio. Consultations are done Monday-Friday
