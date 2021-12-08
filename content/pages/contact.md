@@ -85,7 +85,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: updates
+        - name: type-wedding
           label: Sign me up to receive updates
           isRequired: false
           width: full
