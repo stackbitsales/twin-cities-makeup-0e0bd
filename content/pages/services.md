@@ -148,7 +148,7 @@ sections:
     actions:
       - type: Button
         label: View more
-        url: /
+        url: /special-event-photo-session-makeup-and-hair
         style: primary
         showIcon: true
         icon: arrowRight
