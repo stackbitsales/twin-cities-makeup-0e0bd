@@ -96,7 +96,7 @@ sections:
         caption: Image two caption
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup3.png
-        altText: Image three
+        altText: As seen in
         caption: Image three caption
     spacing: 1
     columns: 4
