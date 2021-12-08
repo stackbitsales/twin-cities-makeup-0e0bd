@@ -146,7 +146,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Rates",
                 "url": "/blog",
                 "altText": ""
             }
