@@ -196,7 +196,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/best-minnesota-wedding-makeup-2021-the-knot.png
-        altText: Apple
+        altText: The Knot's Best of Weddings 2021 Award
       - type: ImageBlock
         url: /images/google-play.svg
         altText: Google Play
