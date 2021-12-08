@@ -75,10 +75,13 @@ sections:
       feel beautiful for YOU, your groom, your guest and also for your pictures.
       We only use top of the line cosmetics that are specially formulated for
       photography or film. On Location services allow you to get ready at your
-      home, hotel, church or ceremony site. You choose! On location services
-      will minimize your wedding day stress by allowing you and your wedding
-      party the time to sit back, relax and have fun. We guarantee that everyone
-      will be ready on time and looking fabulous for pictures.
+      home, hotel, church or ceremony site. You choose! 
+
+
+      On location services will minimize your wedding day stress by allowing you
+      and your wedding party the time to sit back, relax and have fun. We
+      guarantee that everyone will be ready on time and looking fabulous for
+      pictures.
     badge:
       type: Badge
       label: Look amazing on your wedding day
