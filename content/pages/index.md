@@ -304,8 +304,9 @@ sections:
     subtitle: ''
     testimonials:
       - quote: >
-          "Such a great experience to be using this product. It really helped
-          with what I needed help with."
+          "I found Lisa Reinhardt through online reviews and I was not
+          disappointed! One of the things that I really loved about Lisa and her
+          team is that they work onsite. Lisa sent two of her team members to…"
         name: Carla Rogers
         title: Happy customer
         image:
