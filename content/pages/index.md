@@ -39,7 +39,7 @@ sections:
         flexDirection: row-reverse
         borderRadius: xx-large
         borderColor: border-dark
-        borderWidth: 7
+        borderWidth: 0
         borderStyle: solid
       title:
         textAlign: left
