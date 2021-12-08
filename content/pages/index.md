@@ -12,7 +12,7 @@ sections:
       gorgeous!
     actions:
       - type: Button
-        label: Get Started
+        label: Reserve your date today!
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
