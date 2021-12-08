@@ -6,7 +6,7 @@ sections:
     title: 'Look gorgeous, feel beautiful, be you!'
     actions:
       - type: Button
-        label: Get Started
+        label: Book now
         url: /
         style: primary
     media:
