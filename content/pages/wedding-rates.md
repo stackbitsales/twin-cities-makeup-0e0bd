@@ -138,7 +138,9 @@ sections:
           them; this fee is charged at the consult and then again on the wedding
           day.*
       - question: 'Hair Consult for Members of Bridal Party: $90'
-        answer: "Bride’s hair consult (in-studio) and on-site hair styling on the wedding day.\_*Bridal hair consult includes\_1 hour of styling with the wedding day stylist*\n"
+        answer: >
+          Consult includes 1-hour pre-wedding (in-studio) hairstyling with the
+          same wedding day stylist
       - question: Day of Bridal Hair Styling* ~$160
         answer: "Bride’s on-site hairstyling on the wedding day only.\_*This is offered for the bride who is comfortable with\_**NOT**\_having a hair consult, prior to her wedding day.*\n\n*\\*Studio consultation not included in this package*\n"
     styles:
