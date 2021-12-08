@@ -190,11 +190,13 @@ sections:
       Airbrush can create the illusion of perfect skin for you. Every airbrush
       foundation application is custom mixed based on the clients’ skin color.
       The end result is a natural look that covers skin imperfections
-      effortlessly and flawlessly never heavy or thick. Airbrush makeup is
-      sprayed on through an air compressor as a fine mist of color that gently
-      covers the skin. Since airbrush makeup rests on the surface and is not
-      rubbed into the skin you can achieve a flawless, radiant complexion that
-      every woman wants.
+      effortlessly and flawlessly never heavy or thick. 
+
+
+      Airbrush makeup is sprayed on through an air compressor as a fine mist of
+      color that gently covers the skin. Since airbrush makeup rests on the
+      surface and is not rubbed into the skin you can achieve a flawless,
+      radiant complexion that every woman wants.
     badge:
       type: Badge
       label: Look amazing on your wedding day
