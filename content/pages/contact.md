@@ -80,7 +80,7 @@ sections:
           hideLabel: false
           defaultValue: Se
           options:
-            - New York
+            - Service request
             - San Francisco
           isRequired: false
           width: full
