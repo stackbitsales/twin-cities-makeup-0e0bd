@@ -88,11 +88,7 @@ sections:
     subtitle: ''
     items:
       - question: '''Queen for the Day'' Bridal Airbrush Makeup Application ~$215'
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: "Bride’s makeup consult (in-studio) and on-site makeup application on the wedding day.\_*Both the consult and wedding day are full makeup applications with synthetic strip eyelashes and airbrush foundation.*\n"
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
