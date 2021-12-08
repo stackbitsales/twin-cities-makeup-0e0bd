@@ -76,7 +76,7 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
-        - name: city
+        - name: reason
           hideLabel: false
           defaultValue: Please choose...
           options:
