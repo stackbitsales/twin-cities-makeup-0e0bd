@@ -28,9 +28,11 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: On-Location Services
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          Makeup and hair stylist for brides and their bridal parties, airbrush
+          makeup and traditional applications, professional certified makeup
+          artist and licensed stylist, updos and general hair styling, special
+          occasions clip-in extensions placed.
         featuredImage: null
         styles:
           title:
