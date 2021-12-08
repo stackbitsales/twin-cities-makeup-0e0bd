@@ -4,7 +4,6 @@ sections:
   - type: HeroSection
     colors: colors-a
     title: 'Look gorgeous, feel beautiful, be you!'
-    subtitle: 'One platform, one community.'
     actions:
       - type: Button
         label: Get Started
