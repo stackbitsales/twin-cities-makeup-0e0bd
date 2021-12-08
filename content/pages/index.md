@@ -216,7 +216,6 @@ sections:
       - type: ImageBlock
         url: /images/zcool.svg
         altText: Wedding Wire Couples' Choice Award 2013
-        caption: ZCOOL
     spacing: 3
     columns: 7
     aspectRatio: auto
