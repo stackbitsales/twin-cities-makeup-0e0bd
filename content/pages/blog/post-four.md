@@ -7,7 +7,7 @@ excerpt: >-
   Minneapolis New Year’s wedding. 
 featuredImage:
   type: ImageBlock
-  url: /images/post-4.jpg
+  url: /images/twin-cities-makeup-winter-bride-1024x598.jpeg
   altText: Post Image
 bottomSections:
   - elementId: ''
