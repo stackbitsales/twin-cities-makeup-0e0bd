@@ -85,6 +85,16 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
+        - name: city
+          label: City
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
         - type: TextFormControl
           name: address
           placeholder: Your home address
