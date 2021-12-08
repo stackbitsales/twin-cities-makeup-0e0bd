@@ -78,7 +78,7 @@ sections:
           - pt-24
           - pb-12
           - pl-4
-          - pr-0
+          - pr-3
         justifyContent: center
       title:
         textAlign: left
