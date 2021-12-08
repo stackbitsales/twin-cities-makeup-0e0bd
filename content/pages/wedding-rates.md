@@ -5,7 +5,7 @@ sections:
     customClass: ''
     colors: colors-a
     backgroundSize: full
-    title: Let's do this
+    title: Wedding Rates
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
