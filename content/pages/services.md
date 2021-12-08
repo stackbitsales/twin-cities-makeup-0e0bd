@@ -212,7 +212,7 @@ sections:
         icon: arrowRight
     media:
       type: ImageBlock
-      url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
+      url: /images/Aga-and-John-Wedding-333x500.jpeg
       altText: Team meeting
     styles:
       self:
