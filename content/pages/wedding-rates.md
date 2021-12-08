@@ -49,7 +49,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - type: FaqSection
-    colors: colors-a
+    colors: colors-c
     title: For the Bride
     subtitle: ''
     items:
