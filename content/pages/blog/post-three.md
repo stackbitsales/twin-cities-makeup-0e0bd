@@ -9,6 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/st-paul-wedding-lisa-reinhardt4.jpeg
+  altText: Ana + Eric Barahona | St. Paul Hotel Wedding
 bottomSections: []
 ---
 
