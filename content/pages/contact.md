@@ -107,7 +107,7 @@ sections:
           isRequired: false
           width: full
           type: TextareaFormControl
-        - name: home-address
+        - name: reference
           hideLabel: false
           placeholder: Your home address
           isRequired: false
