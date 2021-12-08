@@ -210,7 +210,6 @@ sections:
       - type: ImageBlock
         url: /images/WeddingWire-Couples-Choice-Award-2016.png
         altText: Wedding Wire Couples' Choice Award 2016
-        caption: Xbox
       - type: ImageBlock
         url: /images/skype.svg
         altText: Skype
