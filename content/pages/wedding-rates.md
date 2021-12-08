@@ -137,7 +137,7 @@ sections:
         fontStyle: normal
         textAlign: left
     actions:
-      - label: Learn more
+      - label: Book now
         altText: ''
         url: /
         showIcon: false
