@@ -193,7 +193,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - colors: colors-h
-    subtitle: Awards
     elementId: ''
     images:
       - type: ImageBlock
