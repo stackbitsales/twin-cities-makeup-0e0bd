@@ -109,7 +109,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-24
           - mb-0
           - ml-9
           - mr-9
@@ -125,6 +125,6 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: left        
+        textAlign: left
 layout: PageLayout
 ---
