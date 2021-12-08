@@ -66,7 +66,7 @@ sections:
           width: full
           type: TextFormControl
         - type: EmailFormControl
-          name: email
+          name: phone
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
