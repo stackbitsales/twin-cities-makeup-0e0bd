@@ -93,7 +93,6 @@ sections:
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup2.png
         altText: As seen in TheKnot.com
-        caption: Image two caption
       - type: ImageBlock
         url: /images/as-seen-in-theknow-twin-cities-makeup3.png
         altText: As seen in TheKnot.com
