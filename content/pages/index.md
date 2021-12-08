@@ -28,7 +28,7 @@ sections:
           - mt-0
           - mb-11
           - ml-6
-          - mr-0
+          - mr-6
         padding:
           - pt-12
           - pb-80
