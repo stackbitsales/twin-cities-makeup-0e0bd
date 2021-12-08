@@ -199,7 +199,7 @@ sections:
       radiant complexion that every woman wants.
     badge:
       type: Badge
-      label: Look amazing on your wedding day
+      label: 'Natural, perfect skin'
       styles:
         self:
           textAlign: left
