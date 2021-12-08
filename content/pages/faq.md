@@ -9,7 +9,9 @@ sections:
     subtitle: ''
     jobLists:
       - type: JobList
-        title: Product
+        title: >-
+          Do the makeup and hair rates for the bride include a consultation
+          before the wedding day? What does the consultation include?
         items:
           - type: JobListItem
             title: Director of product management
