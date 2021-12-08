@@ -95,7 +95,7 @@ sections:
         style: primary
         showIcon: true
         icon: arrowRight
-        altText: 'View more '
+        altText: View more about bridal makeup and hair styling
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
