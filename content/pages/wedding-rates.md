@@ -6,9 +6,18 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      #### Rates: May – October
+
+
+      All Artist/Stylist doing the Bride’s makeup/hair services are at “Master
+      Level” with at least 6+ years in the beauty industry at least 5+ years
+      doing Bridal styling. All artist and stylist are MN state licensed for
+      salon and on-location services.
+
+
+      For your convenience, an industry-standard 18% gratuity will be added to
+      all on-site services; per client that is serviced.
     actions:
       - type: Button
         label: Try it now
