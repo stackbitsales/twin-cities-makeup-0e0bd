@@ -15,6 +15,7 @@ sections:
         label: Reserve your date today!
         url: /contact
         style: primary
+        altText: Reserve your date today!
     media:
       type: ImageBlock
       url: /images/minnesota-makeup-artist-scaled-arch.png
