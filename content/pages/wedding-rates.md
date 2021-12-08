@@ -90,7 +90,7 @@ sections:
     actions:
       - label: Book now
         altText: ''
-        url: /
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
