@@ -45,7 +45,7 @@ sections:
     backgroundSize: full
     title: Wedding Rates
     text: >
-      Rates: May – October
+      ### Rates: May – October
 
 
       All Artist/Stylist doing the Bride’s makeup/hair services are at “Master
