@@ -9,8 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/twin-cities-makeup-winter-bride-1024x598.jpeg
   altText: Minneapolis new year's eve wedding
-bottomSections: [
-]
+bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
 What a way to bring in the New Year with style by getting [married on NYE in Minneapolis](http://blog.ericvestphotography.com/windows-on-minnesota-wedding-stew-alex-minneapolis-wedding-photographer/)? That’s just what Alex & Stew did for their Minneapolis wedding. Lisa Reinhardt and her team joined in on the celebration and made the bridal party look great with a [**bridal party makeup application**](https://www.twincitiesmakeup.com/wedding-rates/).
