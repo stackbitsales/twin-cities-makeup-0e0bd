@@ -211,7 +211,7 @@ sections:
         url: /images/WeddingWire-Couples-Choice-Award-2016.png
         altText: Wedding Wire Couples' Choice Award 2016
       - type: ImageBlock
-        url: /images/skype.svg
+        url: /images/WeddingWire-Couples-Choice-Award-2014.jpg
         altText: Wedding Wire Couples' Choice Award 2014
       - type: ImageBlock
         url: /images/zcool.svg
