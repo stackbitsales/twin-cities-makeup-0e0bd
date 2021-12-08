@@ -265,7 +265,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/twin-cities-makeup-artist-lisa-reinhardt-500x300.png
+      url: /images/twin-cities-makeup-artist-lisa-reinhardt-800x500.png
       altText: Hero image
     styles:
       self:
