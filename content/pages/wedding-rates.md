@@ -235,7 +235,7 @@ sections:
       PDF](https://www.twincitiesmakeup.com/wp-content/uploads/2021/04/Off-Peak-Rates-2021.pdf).
     actions:
       - type: Button
-        label: Try it now
+        label: Contact us
         url: /
         style: primary
     backgroundImage: null
