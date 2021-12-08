@@ -85,15 +85,6 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: city
-          hideLabel: false
-          defaultValue: Please choose...
-          options:
-            - New York
-            - San Francisco
-          isRequired: false
-          width: full
-          type: SelectFormControl
         - name: updates
           label: Sign me up to receive updates
           isRequired: false
