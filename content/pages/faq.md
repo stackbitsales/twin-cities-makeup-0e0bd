@@ -30,8 +30,7 @@ sections:
             actions: []
       - type: JobList
         title: >-
-          Do the makeup and hair rates for the bride include a consultation
-          before the wedding day? What does the consultation include?
+          Do the makeup?
         items:
           - type: JobListItem
             text: >
