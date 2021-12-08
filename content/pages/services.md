@@ -266,6 +266,7 @@ sections:
         style: primary
         showIcon: true
         icon: arrowRight
+        altText: View more about hair services
     media:
       type: ImageBlock
       url: /images/minneapolis-bridal-makeup-twincitiesmakeup-1024x683.jpeg
