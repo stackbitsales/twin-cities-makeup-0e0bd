@@ -213,7 +213,7 @@ function postsVariantC(props) {
                             )}
                             <div className="flex flex-col flex-grow px-4 pt-6 pb-8 sm:px-6">
                                 <div className="flex-grow">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
+                                    {/* {props.showDate && <PostDate post={post} className="mb-2" />} */}
                                     <h3 className="text-2xl">
                                         <Link href={getPageUrlPath(post)} data-sb-field-path="title">
                                             {post.title}
