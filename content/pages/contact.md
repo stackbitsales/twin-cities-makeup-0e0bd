@@ -44,6 +44,10 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+  - colors: colors-a
+    elementId: ''
+    customClass: ''
+    type: MapSection
   - type: ContactSection
     colors: colors-h
     backgroundSize: inset
