@@ -77,7 +77,6 @@ sections:
           width: full
           type: TextFormControl
         - name: city
-          label: City
           hideLabel: false
           defaultValue: Please choose...
           options:
