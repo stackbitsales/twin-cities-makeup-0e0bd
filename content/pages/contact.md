@@ -45,7 +45,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: ContactSection
-    colors: colors-f
+    colors: colors-h
     backgroundSize: inset
     title: Not seeing the right role? Contact us
     text: >-
