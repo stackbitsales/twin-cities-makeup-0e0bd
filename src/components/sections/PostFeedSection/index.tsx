@@ -173,7 +173,7 @@ function postsVariantB(props) {
                                 {post.title}
                             </Link>
                         </h3>
-                        {props.showDate && <PostDate post={post} className="mt-2" />}
+                        {/* {props.showDate && <PostDate post={post} className="mt-2" />} */}
                         {props.showExcerpt && post.excerpt && (
                             <p className="mt-6" data-sb-field-path="excerpt">
                                 {post.excerpt}
