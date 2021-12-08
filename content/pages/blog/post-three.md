@@ -12,13 +12,42 @@ featuredImage:
   altText: Ana + Eric Barahona | St. Paul Hotel Wedding
 bottomSections: []
 ---
+Lisa and her two senior hair stylists Melanie and Trish met the bride, Ana, at the [St. Paul Hotel](https://www.saintpaulhotel.com/) to get her and the entire bridal party PLUS the two moms ready for the BIG DAY. Everyone was so relaxed and chill the entire time it seemed they almost forgot they were getting ready for a wedding!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+![](/images/st-paul-wedding-lisa-reinhardt6.jpeg)
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Lisa, Melanie, and the bride had the [wedding day consultation](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/) only five days prior to the wedding day because she was an out of town bride. No worries though because she was thrilled with the results and excited to see us that weekend for her wedding day.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+![](/images/st-paul-wedding-lisa-reinhardt1.jpeg)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Ana requested a very natural look for her complexion with focus on brightening her eyes. Lisa did a soften black winged eyeliner with [Velour Mink Luxury False Lashes](https://www.velourlashes.com/). *She is obsessed with the Velour Whispie Sweet Nothings lash, so GLAM!* They applied a light coverage airbrush foundation from [Temptu](https://temptu.com/). The bride requested a pink lip color so Lisa used her favorite rich lip [Bobbi Brown shade in “Uber Pink”](http://www.bobbibrowncosmetics.com/product/14360/22750/makeup/lips/lips-best-sellers/rich-lip-color/fh12) a medium neutral pink and. The bride wanted to enhance her brows for photos so Lisa used [Makeup Forever Professional Pro Brow Sculpting Pen in Brown](http://www.makeupforever.com/us/en-us/make-up/eyes/eyebrows/pro-sculpting-brow?sku=7494).
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+![](/images/st-paul-wedding-lisa-reinhardt3.jpeg)
+
+Since Ana’s dress was elaborate she wanted more of a [classic bridal hair style](https://www.twincitiesmakeup.com/photos/bridal-makeup-hair-artistry-photos/) to compliment the dress and the overall elegance of her wedding. Senior hair stylist Melanie styled a standard low chignon and added overlapping twist pulled from both sides, incorporating the twist into the back of the hair style. Some of the bridal party requested braids combined into a loose updo and most wanted a effortless low updo with textured curls.
+
+![](/images/st-paul-wedding-lisa-reinhardt5.jpeg)
+
+These girls looked gorgeous and looked like they had a blast at this wedding. Congrats Ana and Eric!
+
+### Vendors:
+
+*   **Photography:** [Brian Bossany](http://blog.brianbossany.com/2016/09/13/ana-eric-wedding/)
+
+*   **Wedding Coordinator:** [Ask for the Moon Events](http://www.askmoonevents.com/)
+
+*   **Florist:** [Artemisia Studios](http://www.artemisiastudios.com/)
+
+*   **Cake:** [Buttercream Bakery](http://www.buttercream.info/)
+
+*   **Band:** [DJ Rich and the Resistors](http://www.weddingplanninglink.com/state-24-minnesota/profile-2-reviews/vendor-23428-rich-and-the-resistors.html)
+
+*   **Bridal Makeup and Hair:** [Lisa Reinhardt Makeup and Hair Artistry](https://www.twincitiesmakeup.com/contact/)
+
+*   **Bridesmaids Dresses:** [David’s Bridal](http://www.davidsbridal.com/)
+
+*   **Tuxes: **[The Wedding Shoppe](http://www.weddingshoppeinc.com/)
+
+*   **Ceremony:** [The Chapel of St. Thomas Aquinas](https://www.stthomas.edu/campusministry/liturgyworship/chapels/thechapelofstthomasaquinas/)
+
+*   **Reception:** [James J. Hill Library](http://jjhill.org/weddings/).
