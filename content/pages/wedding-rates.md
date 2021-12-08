@@ -212,6 +212,7 @@ sections:
           - pl-6
           - pr-6
         justifyContent: center
+        borderRadius: xx-large
       title:
         textAlign: center
       subtitle:
