@@ -94,7 +94,7 @@ sections:
         icon: arrowRight
     media:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/twin-cities-makeup-artist-for-weddings-photo-1.png
       altText: Team meeting
     styles:
       self:
