@@ -100,7 +100,7 @@ sections:
     aspectRatio: '16:9'
     imageSizePx: 300
     showCaption: false
-    enableHover: true
+    enableHover: false
     styles:
       self:
         height: auto
