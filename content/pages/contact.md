@@ -109,7 +109,7 @@ sections:
           type: TextareaFormControl
         - name: referral-source
           hideLabel: false
-          placeholder: Your home address
+          placeholder: How did you hear about us?
           isRequired: false
           width: full
           type: TextFormControl
