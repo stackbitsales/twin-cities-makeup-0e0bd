@@ -212,6 +212,7 @@ sections:
         style: primary
         showIcon: true
         icon: arrowRight
+        altText: View more about professional airbrush makeup art
     media:
       type: ImageBlock
       url: /images/Aga-and-John-Wedding-333x500.jpeg
