@@ -13,7 +13,7 @@ sections:
     actions:
       - type: Button
         label: Reserve your date today!
-        url: 'https://www.stackbit.com/'
+        url: /contact
         style: primary
     media:
       type: ImageBlock
