@@ -153,7 +153,7 @@
             {
                 "label": "Contact",
                 "altText": "Contact",
-                "url": "/",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
