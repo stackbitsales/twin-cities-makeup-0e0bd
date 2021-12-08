@@ -1,16 +1,5 @@
 import * as React from 'react';
 
-const iconMap = {
-    facebook: Facebook,
-    github: GitHub,
-    instagram: Instagram,
-    linkedin: LinkedIn,
-    reddit: Reddit,
-    twitter: Twitter,
-    vimeo: Vimeo,
-    youtube: YouTube
-};
-
 export default function Social(props) {
     const { label, altText, url } = props;
     const icon = props.icon || 'facebook';
