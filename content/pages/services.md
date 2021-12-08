@@ -270,7 +270,6 @@ sections:
     media:
       type: ImageBlock
       url: /images/minneapolis-bridal-makeup-twincitiesmakeup-1024x683.jpeg
-      altText: Team meeting
     styles:
       self:
         height: auto
