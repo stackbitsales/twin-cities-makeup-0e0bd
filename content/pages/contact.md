@@ -59,7 +59,7 @@ sections:
           placeholder: Your first name
           isRequired: true
           width: 1/2
-        - name: home-address
+        - name: last-name
           hideLabel: false
           placeholder: Your home address
           isRequired: false
