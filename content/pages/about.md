@@ -96,7 +96,7 @@ sections:
         url: /images/as-seen-in-theknow-twin-cities-makeup3.png
         altText: As seen in TheKnot.com
     spacing: 1
-    columns: 4
+    columns: 3
     aspectRatio: '16:9'
     imageSizePx: 300
     showCaption: false
