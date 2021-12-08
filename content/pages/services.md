@@ -13,7 +13,7 @@ sections:
       fashion shows, special event styling, and personal makeup lessons.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: In-Studio Services
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
