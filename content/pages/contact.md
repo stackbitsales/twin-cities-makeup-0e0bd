@@ -62,7 +62,7 @@ sections:
         - name: last-name
           hideLabel: false
           placeholder: Your home address
-          isRequired: false
+          isRequired: true
           width: full
           type: TextFormControl
         - type: EmailFormControl
