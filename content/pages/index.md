@@ -317,7 +317,7 @@ sections:
           - mb-0
         padding:
           - pt-8
-          - pb-28
+          - pb-8
         justifyContent: center
       title:
         textAlign: left
