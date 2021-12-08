@@ -38,8 +38,11 @@ sections:
         title: Do the makeup?
         items:
           - type: JobListItem
-            text: |
-              The consultation fee.
+            text: >
+              Consultations are NOT included in the rates for the bridal party.
+              If they request a in-studio consult before the wedding day; that
+              amount is $80 (per requested service) and then full service rates
+              would be charged on the wedding day.
             actions: []
       - type: JobList
         title: Do the makeup?
