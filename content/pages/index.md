@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love your work. Work loves you.'
+    title: Love your work. Work loves you.
     subtitle: 'One platform, one comunity.'
     actions:
       - type: Button
@@ -39,7 +39,7 @@ sections:
           - pl-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
@@ -49,7 +49,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    customClass: 'overlap'
+    customClass: overlap
     colors: colors-f
     backgroundSize: inset
     title: Where did everyone go?
@@ -144,7 +144,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -379,12 +379,13 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-b
-    title: We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing
+    title: >-
+      We sometimes write things. You should read it, it might shed some light on
+      why we’re doing what we’re doing
     actions:
       - type: Link
         label: See all posts
-        url: '/blog'
+        url: /blog
         showIcon: true
         icon: arrowRight
     posts:
@@ -518,7 +519,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - type: ContactSection
-    customClass: 'overlap'
+    customClass: overlap
     colors: colors-f
     backgroundSize: inset
     title: Get early access
