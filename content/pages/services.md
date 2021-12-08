@@ -90,13 +90,6 @@ sections:
         label: Get Started
         url: /
         style: primary
-      - type: Link
-        label: Watch Video
-        url: /
-        style: link
-        showIcon: true
-        icon: playCircle
-        iconPosition: left
     media:
       type: ImageBlock
       url: /images/hero-3.jpg
