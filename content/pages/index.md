@@ -346,6 +346,7 @@ sections:
         style: secondary
         iconPosition: right
         icon: arrowRight
+        showIcon: true
       - type: Button
         label: Submit your review
         showIcon: true
