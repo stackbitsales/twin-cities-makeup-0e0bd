@@ -3,7 +3,7 @@ title: Bridal Makeup & Hair
 date: '2021-12-09'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/twin-cities-makeup-bridal-lisareinhardt.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
