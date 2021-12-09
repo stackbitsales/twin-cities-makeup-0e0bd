@@ -1,6 +1,6 @@
 ---
 title: Hair Services
-date: '2021-08-09'
+date: '2021-08-28'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
