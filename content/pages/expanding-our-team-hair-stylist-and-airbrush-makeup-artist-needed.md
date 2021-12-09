@@ -110,7 +110,7 @@ sections:
           defaultValue: Do you have experience working with brides?
           options:
             - 'yes'
-            - 'no'
+            - 'No'
           isRequired: false
           width: full
           type: SelectFormControl
