@@ -60,7 +60,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Raves for Lisa Reinhardt
     subtitle: >-
       Have a testimonial you'd like to share for Lisa Reinhardt Makeup &
       Artistry? We have multiple ways to submit your review…
