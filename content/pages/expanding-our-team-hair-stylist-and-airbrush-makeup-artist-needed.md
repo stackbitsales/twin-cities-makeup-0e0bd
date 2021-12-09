@@ -133,7 +133,7 @@ sections:
             - 'Yes, I can provide links to an online gallery'
             - 'Yes, I have photos I can email'
             - 'No'
-          isRequired: false
+          isRequired: true
           width: full
           type: SelectFormControl
         - name: links-to-online-work
