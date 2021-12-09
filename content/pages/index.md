@@ -299,7 +299,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-f
-    title: The Section Title
+    title: Meet Lisa
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
