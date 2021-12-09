@@ -33,8 +33,6 @@ Read more of her words [**here**](http://www.weddingchicks.com/2013/04/23/rusti
 
 Read more and see pictures [**here**](http://www.weddingchicks.com/2013/04/23/rustic-autumn-wedding/)
 
-
-
 ### Vendors
 
 **Photographer:** Staja Studios
@@ -43,7 +41,7 @@ Read more and see pictures [**here**](http://www.weddingchicks.com/2013/04/23/r
 
 **Hair & Makeup:** Lisa Reinhardt
 
-**C ake & Caterer:** Deco Catering
+**Cake & Caterer:** Deco Catering
 
 **Coordinator:** Simply Elegant Bridal Consulting
 
