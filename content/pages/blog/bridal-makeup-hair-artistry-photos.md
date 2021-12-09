@@ -10,7 +10,6 @@ bottomSections:
   - colors: colors-a
     elementId: ''
     customClass: ''
-    title: Gallery
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
