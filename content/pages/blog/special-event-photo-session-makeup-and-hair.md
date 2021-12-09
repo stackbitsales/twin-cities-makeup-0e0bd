@@ -63,7 +63,7 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-    type: MediaGallerySection        
+    type: MediaGallerySection      
 layout: PostLayout
 ---
 Makeup or hair styles will be customized to clients’ specific needs and request. Multiple looks can be done depending upon the type of photo session hired for. All hired makeup artists and hair stylists have been professionally trained to work specifically for print and/or film services.
