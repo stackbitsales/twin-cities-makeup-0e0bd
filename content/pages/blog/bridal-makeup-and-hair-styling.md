@@ -8,6 +8,15 @@ featuredImage:
   caption: ''
 bottomSections: []
 layout: PostLayout
+excerpt: >-
+  You deserve to look amazing on your wedding day. We want you to look and feel
+  beautiful for YOU, your groom, your guest and also for your pictures. We only
+  use top of the line cosmetics that are specially formulated for photography or
+  film. On Location services allow you to get ready at your home, hotel, church
+  or ceremony site. You choose! On location services will minimize your wedding
+  day stress by allowing you and your wedding party the time to sit back, relax
+  and have fun. We guarantee that everyone will be ready on time and looking
+  fabulous for pictures.
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
         
