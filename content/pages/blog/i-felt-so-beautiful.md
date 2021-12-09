@@ -1,11 +1,6 @@
 ---
 title: I Felt So Beautiful
 date: '2021-09-25'
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 layout: PostLayout
 ---
