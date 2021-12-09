@@ -60,9 +60,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    subtitle: >-
-      Have a testimonial you'd like to share for Lisa Reinhardt Makeup &
-      Artistry? We have multiple ways to submit your review…
     colors: colors-a
     posts:
       - content/pages/blog/flawless-throughout-entire-night.md
