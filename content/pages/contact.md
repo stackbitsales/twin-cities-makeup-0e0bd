@@ -62,7 +62,7 @@ sections:
           label: Your first name
           hideLabel: true
         - type: EmailFormControl
-          name: phone
+          name: email
           placeholder: Your phone number
           isRequired: true
           width: 1/2
