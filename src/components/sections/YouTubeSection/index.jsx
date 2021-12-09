@@ -8,7 +8,7 @@ export default function YouTubeSection(props) {
     if (videoLink.includes('youtu.be')) {
         youTubeID = youTubeLink.split('.be/')[1];
         youTubeID = youTubeID.split('?')[0];
-        
+        iframeLink = https://www.youtube-nocookie.com/embed/"
     } else {
         youTubeID = youTubeLink.split('v=')[1];
     }
