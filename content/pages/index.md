@@ -251,7 +251,7 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-28
+          - pt-12
           - pb-0
         justifyContent: center
       title:
