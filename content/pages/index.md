@@ -148,9 +148,6 @@ sections:
     elementId: ''
     customClass: ''
     title: Remote doesn’t mean alone. Here are so great features
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
     items:
       - type: FeaturedItem
         title: Services
