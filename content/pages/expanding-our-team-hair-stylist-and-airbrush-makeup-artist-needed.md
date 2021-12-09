@@ -136,7 +136,7 @@ sections:
           type: SelectFormControl
         - name: description
           label: Description
-          hideLabel: false
+          hideLabel: true
           placeholder: Please describe
           isRequired: false
           width: full
