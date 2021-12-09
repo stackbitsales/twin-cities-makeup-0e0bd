@@ -4,7 +4,7 @@ date: '2021-12-05'
 excerpt: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/twin-cities-bridal-hair-makeup-lisa-reinhardt.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
