@@ -1,9 +1,7 @@
 ---
 title: They Were A Great Team Of Women To Work With!
 date: '2021-09-28'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: '"'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
