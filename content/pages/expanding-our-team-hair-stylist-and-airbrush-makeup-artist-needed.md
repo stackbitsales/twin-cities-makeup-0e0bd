@@ -134,6 +134,13 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
+        - name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Send Message
     media: null
     styles:
