@@ -24,13 +24,13 @@ author: content/data/team/hilary-ouse.json
 
 ![](/images/twin-cities-bridal-makeup-artist-683x1024.jpeg)
 
-Take a look at Jessica’s awesome hair accessory! We totally loved it and thought it complimented her chosen half-up/half-down hair style impeccably, especially with the natural color of her gorgeous hair. [Melanie, one of Lisa’s top Senior stylists](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) was the one who completed the hair styling for the bride and all of her bridal party.
+Take a look at Jessica’s awesome hair accessory! We totally loved it and thought it complimented her chosen half-up/half-down hair style impeccably, especially with the natural color of her gorgeous hair. [Melanie, one of Lisa’s top Senior stylists](/on-location-team-photos) was the one who completed the hair styling for the bride and all of her bridal party.
 
-Jessica received both [makeup and hair services](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/) from us. She was an absolute joy to work with. She seemed to really love the coverage from the [airbrush foundation](https://www.twincitiesmakeup.com/professional-airbrush-makeup-artist/).
+Jessica received both [makeup and hair services](/bridal-makeup-and-hair-styling) from us. She was an absolute joy to work with. She seemed to really love the coverage from the [airbrush foundation](/professional-airbrush-makeup-artist).
 
 ![](/images/twin-cities-makeup-bridal-artist.jpeg)
 
-Lisa also did [Novalash eyelash extensions](https://www.twincitiesmakeup.com/eyelash-extensions/) on Jessica the week of her wedding. Jessica emphasized that she wished to have “a lot of lash” (as do most of our brides). To acheive a fuller look, Lisa added half strip of false lashes on just the ends of the eye lid to make the eyes really POP!
+Lisa also did [Novalash eyelash extensions](/eyelash-extensions) on Jessica the week of her wedding. Jessica emphasized that she wished to have “a lot of lash” (as do most of our brides). To acheive a fuller look, Lisa added half strip of false lashes on just the ends of the eye lid to make the eyes really POP!
 
 ![](/images/twincities-bridal-makeup-lisa-reinhardt.jpeg)
 
@@ -46,7 +46,7 @@ We wish you the best Jessica and David!!! Best of luck in all of your future end
 
 ### Vendors
 
-*   **Photographer:  **[Paper Antler Photography](http://www.paperantler.com/)
+*   \*\*Photographer:  \*\*[Paper Antler Photography](http://www.paperantler.com/)
 
 *   **Videography:** [eMotion Cinematography](https://vimeo.com/154342690)
 
@@ -65,4 +65,3 @@ We wish you the best Jessica and David!!! Best of luck in all of your future end
 *   **Entertainment:** [Bluewater Kings Band](http://www.bluewaterkingsband.com/) & [Good Intentions Bluegrass Band](http://www.thegoodintentionsbluegrassband.com/)
 
 *   **Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/contact/)
-
