@@ -298,7 +298,7 @@ sections:
     type: HeroSection
   - elementId: ''
     customClass: ''
-    colors: colors-f
+    colors: colors-a
     title: Meet Lisa
     styles:
       self:
