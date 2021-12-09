@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/twincities-bridal-makeup-artist-lisa-reinhardt.jpeg
-  altText: Post thumbnail image
+  altText: 'Jessica & David | Stillwater, MN Wedding Bridal Hair & Makeup'
   caption: ''
 bottomSections: []
 layout: PostLayout
