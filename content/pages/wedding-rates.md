@@ -18,12 +18,7 @@ sections:
 
       For your convenience, an industry-standard 18% gratuity will be added to
       all on-site services; per client that is serviced.
-    actions:
-      - type: Button
-        label: Book now
-        url: /contact
-        style: primary
-        altText: Book now
+    actions: []
     backgroundImage: null
     styles:
       self:
