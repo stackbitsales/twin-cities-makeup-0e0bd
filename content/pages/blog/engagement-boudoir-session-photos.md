@@ -16,17 +16,17 @@ bottomSections:
           /images/engagement-boudoir-session-photos/01-mckenzie.jpeg
         altText: null
         caption: null
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/02-lisaengagmentjune9th.jpeg
         altText: null
         caption: null
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/03-elizabethengagement-photo.jpeg
         altText: null
         caption: null
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/04-carl1.jpeg
         altText: null
