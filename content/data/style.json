@@ -11,7 +11,7 @@
     "h2": {
         "size": "3xl",
         "weight": "bold",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "normal"
     },
