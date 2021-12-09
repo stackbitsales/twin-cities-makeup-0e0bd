@@ -5,7 +5,7 @@ excerpt: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-bridal-hair-makeup-lisa-reinhardt.jpeg
-  altText: Post thumbnail image
+  altText: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
   caption: ''
 bottomSections: []
 layout: PostLayout
