@@ -2,8 +2,10 @@
 title: Myself and Bridesmaid Were So Happy
 date: '2021-09-29'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  "Lisa was fantastic!!! I couldn’t have asked for anything better on my wedding
+  day! Myself and bridesmaid were so happy with how our makeup turned out. She
+  was on top it from the first time I emailed her, my trial (listened to exactly
+  what I wanted), and on time and stayed on."
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
