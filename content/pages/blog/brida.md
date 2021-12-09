@@ -2,8 +2,9 @@
 title: Bridal Wedding Day Hair and Airbursh Makeup... For Everyone!
 date: '2021-11-23'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Getting your group of bridesmaids to all agree on something can be a
+  challenge! One thing all girls CAN agree on is that getting your hair and
+  makeup done together for the wedding day is fun and SO worth it!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
