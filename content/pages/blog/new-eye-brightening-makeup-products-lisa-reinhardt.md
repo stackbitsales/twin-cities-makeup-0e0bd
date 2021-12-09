@@ -17,7 +17,7 @@ author: content/data/team/hilary-ouse.json
 
 We’re super excited to introduce **Lisa Reinhardt’s NEW Eye Brightening makeup product line**! I wanted products that were universal for all women, regardless of age or skin tone. As a full-time makeup artist, I hear almost every client say, “Can you do something about these circles?” So, I did! I put together an **under-eye brightening pen, concealer(s) and blending brush** that is easy to add to your morning makeup routine without adding a ton of extra time…with immediate results. The best part is there is a [**video tutorial link**](https://www.youtube.com/channel/UCJDX-9B-dC2NDvjG0S2tTQg/feed) in every package to learn how to take these products home and actually use them! I hate buying products in-store, getting home, and totally forgetting how to use them.
 
-## [Contact Lisa for purchasing and color matching today!](https://www.twincitiesmakeup.com/contact/)
+### [Contact Lisa for purchasing and color matching today!](https://www.twincitiesmakeup.com/contact/)
 
 ![](/images/eye-brightening-makeup-lisa-reinhardt.jpeg)
 
@@ -41,6 +41,6 @@ Soft synthetic brush for precise blending…each and every time.
 
 ![](/images/eye-brightening-makeup-products.jpeg)
 
-## [Contact Lisa for purchasing and color matching today!](http://tcmakeup.staging.wpengine.com/contact/)
+### [Contact Lisa for purchasing and color matching today!](http://tcmakeup.staging.wpengine.com/contact/)
 
 *All booked brides and current Eyelash Extension clients will receive 10% off products.*
