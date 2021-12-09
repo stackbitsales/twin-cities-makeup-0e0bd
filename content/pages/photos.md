@@ -21,7 +21,7 @@ sections:
           - pt-12
           - pb-12
           - pl-6
-          - pr-4
+          - pr-6
         justifyContent: center
         borderRadius: xx-large
       title:
