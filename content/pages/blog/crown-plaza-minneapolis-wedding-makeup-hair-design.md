@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/lisa-reinhardt-featured-wedding-minneapolis.jpeg
-  altText: Post thumbnail image
+  altText: Crown Plaza Minneapolis WEdding | Makeup & Hair Design
   caption: ''
 bottomSections: []
 layout: PostLayout
