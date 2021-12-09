@@ -4,7 +4,7 @@ date: '2021-11-11'
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-bridal-hair-makeup-lisareinhardt.jpg
-  altText: Engagement & Bouider
+  altText: Engagement & Boudoir
   caption: ''
 bottomSections: []
 layout: PostLayout
