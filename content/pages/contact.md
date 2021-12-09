@@ -61,12 +61,6 @@ sections:
           width: 1/2
           label: Your first name
           hideLabel: true
-        - name: last-name
-          hideLabel: false
-          placeholder: Your last name
-          isRequired: true
-          width: full
-          type: TextFormControl
         - type: EmailFormControl
           name: phone
           placeholder: Your phone number
