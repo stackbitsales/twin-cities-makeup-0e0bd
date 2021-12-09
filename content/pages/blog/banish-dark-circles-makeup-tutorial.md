@@ -6,7 +6,7 @@ excerpt: >-
   Products. Watch the video.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/video-makeup-tutorials.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
