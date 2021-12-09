@@ -1,9 +1,7 @@
 ---
 title: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
 date: '2021-12-05'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
