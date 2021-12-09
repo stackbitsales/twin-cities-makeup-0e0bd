@@ -109,7 +109,7 @@ sections:
           hideLabel: true
           defaultValue: Do you have experience working with brides?
           options:
-            - 'yes'
+            - 'Yes'
             - 'No'
           isRequired: false
           width: full
