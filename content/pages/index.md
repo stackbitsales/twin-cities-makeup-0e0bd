@@ -345,7 +345,7 @@ sections:
         url: /
         style: primary
       - type: Button
-        label: Learn More
+        label: Submit your review
         showIcon: true
         icon: arrowRight
         url: /
