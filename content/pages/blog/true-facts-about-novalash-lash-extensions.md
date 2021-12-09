@@ -6,7 +6,7 @@ excerpt: >-
   to some frequently asked questions about Novalash Eyelash Extensions.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/novalash-eyelash-extensions.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
