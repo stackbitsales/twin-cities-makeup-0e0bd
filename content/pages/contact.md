@@ -84,7 +84,7 @@ sections:
           isRequired: true
           width: full
           type: SelectFormControl
-          defaultValue: Service request
+          defaultValue: Reason for contact?
           label: Reason for contact?
         - name: type-wedding
           label: Wedding
