@@ -9,7 +9,9 @@ featuredImage:
   url: /images/video-makeup-tutorials.jpeg
   caption: ''
   altText: 'How to Banish Dark Circles: Makeup Tutorial'
-bottomSections: []
+bottomSections:
+  - url: 'https://www.youtube.com/watch?v=N56oSDjRes4'
+    type: YouTubeSection
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
