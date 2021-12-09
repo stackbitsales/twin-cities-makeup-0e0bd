@@ -23,7 +23,7 @@ A week before the big day we applied [eyelash extensions](https://www.twincitie
 
 ![](/images/minneapolis-wedding-lisa-reinahrdt.jpeg)
 
-The [Lisa Reinhardt Makeup & Hair Team](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) traveled to the Crown Plaza in Minneapolis to style the bride and her bridal party. There were ten ladies that received [makeup and hair styling services](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/).
+The [Lisa Reinhardt Makeup & Hair Team](/on-location-team-photos) traveled to the Crown Plaza in Minneapolis to style the bride and her bridal party. There were ten ladies that received [makeup and hair styling services](/bridal-makeup-and-hair-styling).
 
 ![](/images/minneapolis-wedding-makeup-artist.jpeg)
 
