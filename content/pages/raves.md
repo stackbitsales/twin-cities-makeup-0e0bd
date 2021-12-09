@@ -51,6 +51,7 @@ sections:
       - content/pages/blog/worth-every-penny.md
       - content/pages/blog/amazing-2.md
       - content/pages/blog/could-not-have-wished-for-better.md
+      - content/pages/blog/picture-perfect-perfection.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
