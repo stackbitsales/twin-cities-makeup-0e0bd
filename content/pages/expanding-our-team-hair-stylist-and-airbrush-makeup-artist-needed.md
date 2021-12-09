@@ -116,10 +116,10 @@ sections:
           type: SelectFormControl
         - name: available-on-saturdays
           label: Are you available on Saturdays?
-          hideLabel: true
-          defaultValue: Are you available on Saturdays?
+          hideLabel: false
+          defaultValue: Please choose...
           options:
-            - New York
+            - All
             - San Francisco
           isRequired: false
           width: full
