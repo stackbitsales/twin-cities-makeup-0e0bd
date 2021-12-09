@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/red-lipstick-for-skin-tone-lisa-reinhardt.jpeg
-  altText: Post thumbnail image
+  altText: Lisa Talks About The Perfect Red Lipstick on Women's Health
   caption: ''
 bottomSections: []
 layout: PostLayout
