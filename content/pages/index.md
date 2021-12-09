@@ -379,33 +379,4 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-  - elementId: ''
-    customClass: ''
-    colors: colors-a
-    variant: variant-b
-    title: ''
-    subtitle: ''
-    testimonials:
-      - quote: >
-          # *"I found Lisa Reinhardt through online reviews and I was not
-          disappointed! One of the things that I really loved about Lisa and her
-          team is that they work onsite. Lisa sent two of her team members to…"*
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-24
-          - pr-24
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
 ---
