@@ -4,7 +4,7 @@ export default function SubmitReviewsSection(props) {
 
     return (
         <div className="flex justify-center">
-            <p>123</p>
+            <p>1submit reviews</p>
         </div>
     );
 }
