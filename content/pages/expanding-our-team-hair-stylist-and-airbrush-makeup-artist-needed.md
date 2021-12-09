@@ -104,7 +104,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: city
+        - name: experience-with-brides
           label: City
           hideLabel: false
           defaultValue: Please choose...
