@@ -2,7 +2,7 @@ import * as React from 'react';
 
 export default function YouTubeSection(props) {
 
-    let youTubeLink = props.youTubeLink
+    let youTubeLink = props.url
     let youTubeID;
 
     if (videoLink.includes('youtu.be')) {
