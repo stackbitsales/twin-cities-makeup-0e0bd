@@ -1,6 +1,6 @@
 ---
 title: Pre-Wedding Checklist - Bridal Beauty Products
-date: '2021-11-09'
+date: '2021-11-26'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
