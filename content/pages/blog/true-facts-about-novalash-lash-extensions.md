@@ -13,7 +13,7 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-****![](/images/novalash-eyelash-extensions.jpeg)
+\*\*\*\*![](/images/novalash-eyelash-extensions.jpeg)
 
 **What are Novalash Lash Extensions?**
 
@@ -29,7 +29,7 @@ When applied properly, eyelash extensions will not harm the clients natural lash
 
 **Can Mascara be used with Lash Extensions?**
 
-****![](/images/novalash-mascara.jpeg)
+\*\*\*\*![](/images/novalash-mascara.jpeg)
 
 On a fresh new set of lashes, mascara is not needed because the glue is black. If mascara is needed, it should only be used when a touch-up is drawing near. Water soluble mascara can be worn, however constant use of mascara may shorten the life-span of lashes. Waterproof mascara is not recommended for use as it will dissolve the bond with the lashes. Novalash makes a glycol and carbonate free mascara that they recommend using towards the end of the 3 or 4th week before a fill appointment. This will not interfere with the bond of the adhesive.
 
@@ -39,12 +39,12 @@ Nightly conditioning is necessary to maximize the life of the extensions. Novala
 
 ![](/images/novalash-cleanlash.jpeg)
 
-****[**cleanLash by Novalash**](https://www.novalash.com/catalog/productpages/cosmetics-conditioner.html)
+\*\*\*\*[**cleanLash by Novalash**](https://www.novalash.com/catalog/productpages/cosmetics-conditioner.html)
 
 ![](/images/novalash-aftercarekit.jpeg)
 
-****[**NovaLash Aftercare Kit**](https://www.novalash.com/catalog/productpages/cosmetics-aftercare.html)
+\*\*\*\*[**NovaLash Aftercare Kit**](https://www.novalash.com/catalog/productpages/cosmetics-aftercare.html)
 
 Lisa Reinhardt is a Certified and Advanced Trained NovaLash Extensionist in Minneapolis and the St.Paul area. She has with over 4 + years of experience applying eyelash extensions to countless clientele.
 
-[Click here to read more about why she uses NovaLash and **see actual pictures** of her work here](https://www.twincitiesmakeup.com/minneapolis-eyelash-extension-professional-why-i-use-novalash-eyelash-extensions/)
+Click here to read more about why she uses NovaLash and [**see actual pictures**](/blog/minneapolis-eyelash-extension-professional-why-i-use-novalash-eyelash-extensions/) of her work here
