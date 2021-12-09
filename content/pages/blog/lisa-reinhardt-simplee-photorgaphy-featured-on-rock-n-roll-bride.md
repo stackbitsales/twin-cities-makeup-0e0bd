@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/twisted.jpeg
-  altText: Post thumbnail image
+  altText: Lisa Reinhardt & Simplee Photography Featured Photoshoot!
   caption: ''
 bottomSections: []
 layout: PostLayout
