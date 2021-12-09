@@ -67,7 +67,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/services.png
-          altText: Item image
+          altText: Minnesota wedding services
         styles:
           title:
             textAlign: center
