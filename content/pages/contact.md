@@ -98,7 +98,7 @@ sections:
           type: SelectFormControl
         - type: TextFormControl
           name: date-of-service
-          placeholder: You date of service
+          placeholder: Your date of service
           isRequired: true
           width: full
           label: Date of service?
