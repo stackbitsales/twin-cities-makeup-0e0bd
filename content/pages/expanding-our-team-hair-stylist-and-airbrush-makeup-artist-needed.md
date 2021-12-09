@@ -77,7 +77,7 @@ sections:
         - name: city
           label: What position are you interested in?
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: What position are you interested in?
           options:
             - New York
             - San Francisco
