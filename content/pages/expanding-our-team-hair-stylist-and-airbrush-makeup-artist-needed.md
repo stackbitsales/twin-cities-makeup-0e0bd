@@ -66,7 +66,7 @@ sections:
         - name: phone
           hideLabel: true
           placeholder: Your phone number
-          isRequired: false
+          isRequired: true
           width: full
           type: TextFormControl
           label: Phone
