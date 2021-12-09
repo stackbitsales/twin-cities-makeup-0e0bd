@@ -1,6 +1,6 @@
 ---
 title: New Luxurious Mink Eyelash Extensions
-date: '2021-12-09'
+date: '2021-11-30'
 excerpt: >-
   Most women don’t have the time to apply false lashes, so there is no surprise
   that more and more women are getting eyelash extensions. Recently, Mink
