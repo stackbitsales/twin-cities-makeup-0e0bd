@@ -86,11 +86,6 @@ sections:
           type: SelectFormControl
           defaultValue: Reason for contact?
           label: Reason for contact?
-        - name: type-wedding
-          label: Wedding
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
         - type: CheckboxFormControl
           name: type-other
           label: Other service
