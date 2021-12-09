@@ -11,10 +11,40 @@ featuredImage:
   url: /images/minneapolis-bridal-makeup-twincitiesmakeup-1024x683.jpeg
   altText: Hair Services
   caption: ''
-bottomSections: []
+bottomSections:
+  - colors: colors-a
+    elementId: ''
+    customClass: ''
+    images:
+    spacing: 1
+    columns: 4
+    aspectRatio: auto
+    imageSizePx: 350
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
 layout: PostLayout
 ---
-IMAGE
+![](/images/minneapolis-wedding-hair-makeup.jpeg)
 
 Whether the desired hair style is classic or modern, glamorous or romantic, we will incorporate your ideas to create your own personalized look with our Minneapolis and St.Paul based wedding hair styling services.
 
@@ -34,7 +64,9 @@ IMAGE
 
 *Keep in mind that over 75% of the bridal hair photos from Pinterest that we see, already have the clip-in hair extensions to achieve the admired style.*
 
-IMAGE
+![](/images/minneapolis-bridal-makeup2-twincitiesmakeup.jpg)
+
+![](/images/St-Paul-College-Club-Laurel-Brian-hair.jpeg)
 
 IMAGE
 
