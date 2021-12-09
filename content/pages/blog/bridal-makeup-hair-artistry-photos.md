@@ -30,7 +30,7 @@ bottomSections:
     spacing: 1
     columns: 4
     aspectRatio: auto
-    imageSizePx: 344
+    imageSizePx: 362
     showCaption: false
     enableHover: false
     styles:
