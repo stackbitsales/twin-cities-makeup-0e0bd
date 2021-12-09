@@ -208,7 +208,7 @@ sections:
     actions:
       - type: Button
         label: View more
-        url: /professional-airbrush-makeup-artist
+        url: /blog/professional-airbrush-makeup-artist
         style: primary
         showIcon: true
         icon: arrowRight
