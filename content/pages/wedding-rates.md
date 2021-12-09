@@ -228,7 +228,7 @@ sections:
 
 
       To avoid confusion, I have my off-season rates in the listed in [this
-      PDF](https://www.twincitiesmakeup.com/wp-content/uploads/2021/04/Off-Peak-Rates-2021.pdf).
+      PDF](/images/Off-Peak-Rates-2021.pdf).
     actions:
       - type: Button
         label: Contact us

@@ -30,7 +30,7 @@ Jessica received both [makeup and hair services](/bridal-makeup-and-hair-stylin
 
 ![](/images/twin-cities-makeup-bridal-artist.jpeg)
 
-Lisa also did [Novalash eyelash extensions](/eyelash-extensions) on Jessica the week of her wedding. Jessica emphasized that she wished to have “a lot of lash” (as do most of our brides). To acheive a fuller look, Lisa added half strip of false lashes on just the ends of the eye lid to make the eyes really POP!
+Lisa also did Novalash eyelash extensions on Jessica the week of her wedding. Jessica emphasized that she wished to have “a lot of lash” (as do most of our brides). To acheive a fuller look, Lisa added half strip of false lashes on just the ends of the eye lid to make the eyes really POP!
 
 ![](/images/twincities-bridal-makeup-lisa-reinhardt.jpeg)
 

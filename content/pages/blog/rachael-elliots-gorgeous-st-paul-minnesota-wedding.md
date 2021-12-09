@@ -47,6 +47,6 @@ The bride requested a half-up bridal hairstyle with long soft curls. To give her
 
 **Cake:** [Buttercream Wedding Cakes](https://buttercream.info/)
 
-**Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/)
+**Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](/blog/bridal-makeup-and-hair-styling/)
 
 **Catering:** [Mintáhoe Catering & Events](http://www.mintahoe.com/)

@@ -24,7 +24,7 @@ What a way to bring in the New Year with style by getting [married on NYE in M
 
 ![](/images/minneapolis-wedding-makeup-lisa-reinhardt.jpg)
 
-Prior to the wedding, the bride received a full set of false eyelashes to get that dramatic look for the wedding day. [**More about our Minneapolis Eyelash Extension services here**](https://www.twincitiesmakeup.com/eyelash-extensions/).
+Prior to the wedding, the bride received a full set of false eyelashes to get that dramatic look for the wedding day.
 
 ![](/images/minneapolis-bride-makeup-twincitiesmakeup.jpg)
 
@@ -38,7 +38,7 @@ Prior to the wedding, the bride received a full set of false eyelashes to get th
 
 *   **Hair:** [The Loft Salon](http://theloft-salon.com/)
 
-*   **Makeup:** [Lisa Reinhardt Make-up Artistry](https://www.twincitiesmakeup.com/)
+*   **Makeup:** [Lisa Reinhardt Make-up Artistry](/)
 
 *   **Florist:** [Simply Stated Elegance](http://www.simplystatedelegance.com/)
 
