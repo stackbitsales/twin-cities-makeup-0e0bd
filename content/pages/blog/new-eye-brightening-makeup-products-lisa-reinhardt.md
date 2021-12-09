@@ -2,8 +2,8 @@
 title: New Eye Brightening Makeup Products by Lisa Reinhardt
 date: '2021-11-30'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Lisa Reinhardt’s new Eye Brightening makeup product line includes under-eye
+  brightening pen, concealer(s) and blending brush with a video tutorial.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
