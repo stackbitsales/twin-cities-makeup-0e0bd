@@ -1,6 +1,6 @@
 ---
 title: Minneapolis Summer Wedding Hair & Makeup
-date: '2021-12-09'
+date: '2021-12-04'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
