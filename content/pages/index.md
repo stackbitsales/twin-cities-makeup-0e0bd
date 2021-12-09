@@ -16,6 +16,15 @@ sections:
         url: /contact
         style: primary
         altText: Reserve your date today!
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       type: ImageBlock
       url: /images/minnesota-makeup-artist-scaled-arch.png
