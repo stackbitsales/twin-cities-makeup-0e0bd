@@ -34,6 +34,7 @@ sections:
     posts:
       - content/pages/blog/bridal-makeup-hair-artistry-photos.md
       - content/pages/blog/on-location-team-photos.md
+      - content/pages/blog/engagement-boudoir-session-photos.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
