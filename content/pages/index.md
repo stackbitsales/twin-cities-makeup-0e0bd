@@ -296,6 +296,15 @@ sections:
         icon: arrowRight
         url: /
         style: link
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
       - label: View all reviews
         altText: ''
         url: /
