@@ -47,7 +47,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: flex-start
   - colors: colors-h
