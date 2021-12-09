@@ -100,7 +100,7 @@ sections:
           defaultValue: Do you own an airbrush machine?
           options:
             - 'Yes'
-            - San Francisco
+            - 'No'
           isRequired: false
           width: full
           type: SelectFormControl
