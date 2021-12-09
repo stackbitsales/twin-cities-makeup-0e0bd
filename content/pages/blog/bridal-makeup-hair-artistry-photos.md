@@ -12,7 +12,7 @@ bottomSections:
     customClass: ''
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/wedding-hair-makeup-artist-twin-cities-makeup.jpeg'
+        url: /images/wedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
