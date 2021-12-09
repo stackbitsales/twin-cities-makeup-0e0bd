@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/novalash-eyelash-extensions.jpeg
-  altText: Post thumbnail image
+  altText: True Facts About Novalash Lash Extensions
   caption: ''
 bottomSections: []
 layout: PostLayout
