@@ -265,7 +265,7 @@ sections:
     backgroundSize: full
     actions:
       - label: Read More
-        altText: ''
+        altText: Read more about Lisa
         url: /
         showIcon: false
         icon: arrowRight
