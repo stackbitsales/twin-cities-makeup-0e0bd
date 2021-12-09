@@ -11,11 +11,6 @@ sections:
       for you. Sit back, relax, have fun with your bridal party, and get
       gorgeous!
     actions:
-      - type: Button
-        label: Reserve your date today!
-        url: /contact
-        style: primary
-        altText: Reserve your date today!
       - label: Learn more
         altText: ''
         url: /
@@ -25,6 +20,11 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Reserve your date today!
+        url: /contact
+        style: primary
+        altText: Reserve your date today!
     media:
       type: ImageBlock
       url: /images/minnesota-makeup-artist-scaled-arch.png
