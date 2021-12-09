@@ -234,6 +234,7 @@ sections:
         label: Contact us
         url: /contact
         style: primary
+        altText: Contact us
     backgroundImage: null
     styles:
       self:
