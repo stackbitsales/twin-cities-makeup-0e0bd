@@ -46,6 +46,7 @@ sections:
       - content/pages/blog/gorgeous-day-night-even-rain.md
       - content/pages/blog/amazing-3.md
       - content/pages/blog/fabulous.md
+      - content/pages/blog/unforgettable-2.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
