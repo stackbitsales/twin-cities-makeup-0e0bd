@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "fontHeadlines": "sans",
     "h1": {
-        "size": "7xl",
+        "size": "5xl",
         "weight": "normal",
         "decoration": "underline",
         "case": "none",
