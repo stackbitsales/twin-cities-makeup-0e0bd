@@ -111,12 +111,12 @@ sections:
           type: TextareaFormControl
           label: Comments/questions
         - name: referral-source
-          hideLabel: false
+          hideLabel: true
           placeholder: How did you hear about us?
           isRequired: true
           width: full
           type: TextFormControl
-          label: How did you hear about us
+          label: How did you hear about us?
       submitLabel: Send Message
     media: null
     styles:
