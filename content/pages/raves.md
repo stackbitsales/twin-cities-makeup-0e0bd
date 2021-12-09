@@ -41,6 +41,7 @@ sections:
         content/pages/blog/highly-recommend-site-services-lisas-makeup-artistry.md
       - content/pages/blog/great-team-women-work.md
       - content/pages/blog/lisa-team-great.md
+      - content/pages/blog/i-felt-so-beautiful.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
