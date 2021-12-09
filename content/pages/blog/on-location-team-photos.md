@@ -31,22 +31,22 @@ bottomSections:
           /images/on-location-team-photos/04-mpls-bridal-makeup-designers.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/05-minneapolis-wedding-makeup.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/06-twin-cities-makeup-artists-lisa-reinhardt.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/07-Sarah-and-Nick-Wedding-0037.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/08-lisarslide5-e1416324507876.jpeg
         altText: 
