@@ -90,8 +90,8 @@ sections:
           defaultValue: Do you have airbrushing experience?
           options:
             - 'Yes'
-            - 'No'
-          isRequired: false
+            - San Francisco
+          isRequired: true
           width: full
           type: SelectFormControl
         - name: own-airbrush-machine
