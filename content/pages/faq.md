@@ -2,7 +2,7 @@
 title: FAQ
 layout: PageLayout
 sections:
-  - colors: colors-a
+  - colors: colors-h
     elementId: ''
     title: FAQ
     items:
