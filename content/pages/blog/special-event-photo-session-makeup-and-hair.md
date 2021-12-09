@@ -2,8 +2,12 @@
 title: Special Event & Photo Session Makeup And Hair
 date: '2021-08-30'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  All makeup artists and stylists have been professionally trained to work
+  specifically for print or film services. Includes, but not limited to, talent
+  headshots, portfolio work, senior portraits, engagement and maternity
+  sessions, pagentry, prom, trash the dress, boudoir looks, commercials and
+  videos. Makeup or hair looks will be customized to clients’ specific needs and
+  multiple looks can be done depending upon request.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
