@@ -319,7 +319,7 @@ sections:
           - pt-8
           - pb-8
           - pl-24
-          - pr-60
+          - pr-24
         justifyContent: center
       title:
         textAlign: left
