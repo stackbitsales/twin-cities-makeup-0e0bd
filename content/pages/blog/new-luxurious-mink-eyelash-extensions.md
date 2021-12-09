@@ -9,7 +9,7 @@ excerpt: >-
   affordable for the mainstream market. Mink Eyelash Extensions are made
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/lisa-mink-lashes.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
