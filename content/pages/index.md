@@ -318,7 +318,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-60
+          - pl-96
           - pr-60
         justifyContent: center
       title:
