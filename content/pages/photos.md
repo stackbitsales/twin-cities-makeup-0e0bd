@@ -38,7 +38,6 @@ sections:
     subtitle: Featured blog posts section example
     colors: colors-h
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     type: FeaturedPostsSection
