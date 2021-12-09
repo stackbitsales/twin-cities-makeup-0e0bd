@@ -159,7 +159,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/Makeup 2.png
           altText: Item image
         styles:
           title:
