@@ -20,7 +20,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-6
+          - pl-8
           - pr-6
         justifyContent: center
         borderRadius: xx-large
