@@ -31,7 +31,7 @@
     },
     "h5": {
         "size": "xl",
-        "weight": "bold",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
