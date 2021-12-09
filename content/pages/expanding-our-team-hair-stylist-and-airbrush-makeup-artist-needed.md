@@ -80,7 +80,7 @@ sections:
           defaultValue: What position are you interested in?
           options:
             - Makeup Artist
-            - San Francisco
+            - Stylist
           isRequired: false
           width: full
           type: SelectFormControl
