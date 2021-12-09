@@ -281,7 +281,7 @@ sections:
         style: link
         altText: Submit your review
       - label: View all reviews
-        altText: ''
+        altText: View all reviews
         url: /raves
         showIcon: true
         icon: arrowRight
