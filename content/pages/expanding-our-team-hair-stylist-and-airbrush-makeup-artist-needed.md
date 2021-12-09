@@ -1,30 +1,6 @@
 ---
 title: Expanding Our Team
 sections:
-  - type: QuoteSection
-    colors: colors-h
-    quote: |
-      ## Expanding Our Team
-    name: Now seeking experienced hair stylists and makeup artists
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - elementId: ''
     customClass: ''
     colors: colors-h
