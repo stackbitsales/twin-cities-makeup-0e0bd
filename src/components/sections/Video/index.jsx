@@ -3,7 +3,7 @@ import * as React from 'react';
 export default function VideoSection(props) {
 
     let videoLink;
-    let youTubeID
+    let youTubeID;
 
     if (videoLink.includes('youtu.be')) {
             youTubeID = videoLink.split('.be/')[1];
