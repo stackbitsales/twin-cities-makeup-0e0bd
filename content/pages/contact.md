@@ -70,7 +70,7 @@ sections:
           hideLabel: true
         - name: phone
           hideLabel: true
-          placeholder: Your email address
+          placeholder: Your phone number
           isRequired: true
           width: full
           type: TextFormControl
