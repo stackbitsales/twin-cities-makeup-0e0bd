@@ -28,7 +28,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-h
-    title: Love where you work
+    title: Now seeking experienced hair stylists and makeup artists
     subtitle: ''
     badge:
       label: This is the badge
