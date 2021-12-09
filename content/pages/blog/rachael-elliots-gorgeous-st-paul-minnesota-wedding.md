@@ -14,12 +14,28 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+A little rain and overcast day didn’t stop bride Racheal from looking beautiful on her wedding day. To get the bride ready for the big day, we met with her and the bridal party in [**A’BULAE’s bridal suite**](http://www.abulae.com/grooms-room/) *(the most amazing Bridal suite in the St. Paul area which makes for great getting ready photos!)*.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+She received a romantic bridal airbrush makeup application as well as false lashes. Lisa Reinhardt was her makeup artist and the look was based on her [bridal hair and makeup consultation](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/).
+
+
+
+
+The bride requested a half-up bridal hairstyle with long soft curls. To give her extra volume and fullness, our senior stylist added clip-in extensions and curled. In addition to the bride’s hair styling, we also worked with the entire bridal party including both moms.
+![](/images/twin-cities-bridal-hair-makeup-lisa-reinhardt.jpeg)
+
+**Congratulations again you two!** Thank you for letting us be a part of your BIG Day!
+
+**Venue:** [A’BULAE
+](http://www.abulae.com/)**Ceremony Site:** [St. Paul Cathedral](https://www.cathedralsaintpaul.org/)
+**Photography:** [Bellagala](http://www.bellagala.com/)
+**Pianist:** [Phil Thompson](http://www.philthompson.com/)
+**Disc Jockey:** [Bellagala](http://www.bellagala.com/minneapolis-wedding-dj/)
+**Live Music:** [Synergy Dance Band](http://www.synergy-dwmusic.com/)
+**Floral:** [Camrose Hill](http://camrosehillflowers.com/)
+**Decor:** [Linen Effects, Inc](http://www.lineneffects.com/index.cfm).
+**Cake:** [Buttercream Wedding Cakes](https://buttercream.info/)
+**Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/)
+**Catering:** [Mintáhoe Catering & Events](http://www.mintahoe.com/)
