@@ -69,6 +69,7 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
+          label: Phone
         - type: TextFormControl
           name: address
           placeholder: Your home address
