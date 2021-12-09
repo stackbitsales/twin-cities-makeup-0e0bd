@@ -29,7 +29,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Raves
     subtitle: Featured blog posts section example
     colors: colors-a
     posts: []
