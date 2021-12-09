@@ -334,14 +334,13 @@ sections:
     subtitle: ''
     testimonials:
       - quote: >
-          ###### **MEET LISA**&#xA;&#xA;Lisa Reinhardt has repeatedly been voted
-          "Best Wedding & Hair Makeup Artist in the Twin Cities area." Lisa and
-          her team will travel anywhere in Minnesota for wedding hair and
-          makeup.
+          ### **MEET LISA**&#xA;Lisa Reinhardt has repeatedly been voted "Best
+          Wedding & Hair Makeup Artist in the Twin Cities area." Lisa and her
+          team will travel anywhere in Minnesota for wedding hair and makeup.
 
 
-          "Such a great experience to be using this product. It really helped
-          with what I needed help with."
+          ### "Such a great experience to be using this product. It really
+          helped with what I needed help with."
         name: Carla Rogers
         title: Happy customer
         image:
