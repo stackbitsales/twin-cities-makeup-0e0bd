@@ -8,7 +8,7 @@ excerpt: >-
   have no excuse! Here are a few products that you absolutely must try.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/bridal-beauty1.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
