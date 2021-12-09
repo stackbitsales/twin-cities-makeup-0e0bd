@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function YouTubeSection(props) {
+export default function ReviewSection(props) {
 
     return (
         <div className="flex justify-center">
