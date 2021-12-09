@@ -353,6 +353,14 @@ sections:
         icon: arrowRight
         url: /
         style: link
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     backgroundImage: null
     styles:
       self:
