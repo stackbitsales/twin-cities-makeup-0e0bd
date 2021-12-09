@@ -1,6 +1,6 @@
 ---
 title: Bridal Wedding Day Hair and Airbursh Makeup... For Everyone!
-date: '2021-11-09'
+date: '2021-11-23'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
