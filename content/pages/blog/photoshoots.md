@@ -96,17 +96,17 @@ bottomSections:
           /images/photoshoots/17-itssmokinhotmodels-0793lg.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/18-airbrush2.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/19-smp-blog-feature-2.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/20-Devon-Solorow-SC7.jpeg
         altText: 
