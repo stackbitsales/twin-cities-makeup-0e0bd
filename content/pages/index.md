@@ -268,7 +268,7 @@ sections:
         altText: Read more
     media:
       type: ImageBlock
-      url: /images/Lisa.jpeg
+      url: /images/Screen Shot 2021-12-08 at 10.03.49 PM.png
       altText: Hero image
     styles:
       self:
