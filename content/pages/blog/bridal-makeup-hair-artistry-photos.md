@@ -336,4 +336,4 @@ Lisa Reinhardt and her team offer wedding makeup and hair styling in the Minneap
 
 ### Lisa Reinhardt’s recent Minnesota wedding makeup and hair clients
 
-[**Book your Minnesota bridal hair and makeup styling today!**](https://www.twincitiesmakeup.com/contact/)
+[**Book your Minnesota bridal hair and makeup styling today!**](/contact)
