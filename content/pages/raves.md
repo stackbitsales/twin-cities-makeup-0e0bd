@@ -6,13 +6,9 @@ sections:
     colors: colors-a
     title: Raves for Lisa Reinhardt
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Have a testimonial you'd like to share for Lisa Reinhardt Makeup &
+      Artistry? We have multiple ways to submit your review…
     styles:
       self:
         height: auto
