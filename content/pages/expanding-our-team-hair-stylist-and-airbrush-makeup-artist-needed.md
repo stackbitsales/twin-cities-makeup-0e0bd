@@ -129,7 +129,7 @@ sections:
           hideLabel: true
           defaultValue: 'Yes, I can provide links to an online gallery'
           options:
-            - New York
+            - 'Yes, I can provide links to an online gallery'
             - San Francisco
           isRequired: false
           width: full
