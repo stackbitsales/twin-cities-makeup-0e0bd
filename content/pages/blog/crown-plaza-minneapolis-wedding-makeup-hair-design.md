@@ -15,12 +15,21 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+This past summer my team and I were lucky to work with several amazing bridal parties for Minneapolis weddings. One particular bride, Melissa, was such a laid back bride that was so pleasant to work with, not to mention a beautiful bride! :)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+A week before the big day we applied [eyelash extensions](https://www.twincitiesmakeup.com/eyelash-extensions/) onto the bride. Then on the wedding day, we added an extra half strip of false eyelashes to give her eyes that extra “pop.”
+
+
+
+The [Lisa Reinhardt Makeup & Hair Team](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) traveled to the Crown Plaza in Minneapolis to style the bride and her bridal party. There were ten ladies that received [makeup and hair styling services](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/).
+
+
+![](/images/minneapolis-wedding-makeup-artist.jpeg)
+
+Melissa was one of the most laid-back brides, she was actually cross-stitching while getting her hair styled! A great idea to relax before the events. The mother-of-the-bride was also very pleasant and calming to be around. We feel blessed to work with such great clientele.
+
+View more pictures and details about the wedding [here](http://www.myhotelwedding.com/blog/2015/11/24/romantic-wedding-at-crowne-plaza-northstar/).
+
+Hotel – [Crowne Plaza Northstar](http://www.ihg.com/crowneplaza/hotels/us/en/minneapolis/mspcp/hoteldetail)/Photographer – [Time into Pixels Photography](http://timeintopixels.com/)/Videographer – [Sky Blue Weddings](http://www.skyblueweddings.com/)/Florist – [Appleblossom Flowers](http://www.appleblossom-flowers.com/)/DJ/Band – [Bill Hermann of Bill Hermann Entertainment](http://www.billhermann.com/)/Hair/Makeup – [Lisa Reinhardt Hair and Makeup](http://www.twincitiesmakeup.com/)/Caterer – Crowne Plaza Northstar/Wedding Cake –[ Café Latte](http://www.cafelatte.com/)/Bridesmaid Dresses – [Wedding Shoppe, Inc.](http://weddingshoppeinc.com/)
