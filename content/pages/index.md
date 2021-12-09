@@ -241,58 +241,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-  - elementId: ''
-    customClass: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Try it now
-        url: /
-        style: primary
-      - type: Button
-        label: Learn More
-        showIcon: true
-        icon: arrowRight
-        url: /
-        style: link
-    backgroundImage:
-      url: /images/Makeup.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: flex-end
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
   - colors: colors-h
     elementId: ''
     images:
