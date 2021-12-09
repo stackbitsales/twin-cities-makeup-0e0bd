@@ -282,7 +282,7 @@ sections:
         altText: Submit your review
       - label: View all reviews
         altText: ''
-        url: /
+        url: /raves
         showIcon: true
         icon: arrowRight
         iconPosition: right
