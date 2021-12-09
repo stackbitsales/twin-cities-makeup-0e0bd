@@ -4,9 +4,6 @@ label: YouTube Video
 labelField: url
 groups:
   - sectionComponent
-fieldGroups:
-  - name: settings
-    label: Settings
 fields:
   - type: string
     name: url
