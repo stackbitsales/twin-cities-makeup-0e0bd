@@ -196,7 +196,7 @@ sections:
     customClass: ''
     colors: colors-a
     backgroundSize: full
-    title: REserve you
+    title: Reserve you
     subtitle: ''
     badge:
       label: This is the badge
