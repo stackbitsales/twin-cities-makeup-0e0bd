@@ -21,7 +21,7 @@ sections:
     actions:
       - type: Button
         label: Book now
-        url: /
+        url: /contact
         style: primary
     backgroundImage: null
     styles:
