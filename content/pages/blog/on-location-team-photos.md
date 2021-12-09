@@ -11,22 +11,22 @@ bottomSections:
     elementId: ''
     customClass: ''
     images:
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/01-minneapolis-wedding-makeup1.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/02-minneapolis-bridal-makeup-artist.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/03-twin-cities-wedding-makeup-team.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/04-mpls-bridal-makeup-designers.jpeg
         altText: 
