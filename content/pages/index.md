@@ -353,7 +353,7 @@ sections:
         icon: arrowRight
         url: /
         style: link
-      - label: Learn more
+      - label: View all reviews
         altText: ''
         url: /
         showIcon: false
