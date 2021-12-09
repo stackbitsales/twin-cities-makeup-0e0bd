@@ -84,7 +84,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: city
+        - name: airbrushing-experience
           label: Do you have airbrushing experience?
           hideLabel: true
           defaultValue: Do you have airbrushing experience?
