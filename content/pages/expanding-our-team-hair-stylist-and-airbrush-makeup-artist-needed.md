@@ -120,7 +120,8 @@ sections:
           defaultValue: Please choose...
           options:
             - All
-            - San Francisco
+            - Most
+            - lorem-ipsum
           isRequired: false
           width: full
           type: SelectFormControl
