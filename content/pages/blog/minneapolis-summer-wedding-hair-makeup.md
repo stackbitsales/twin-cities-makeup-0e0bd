@@ -7,7 +7,7 @@ excerpt: >-
   hold up to joyful wedding day tears.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/lisa-reinhardt-featured-weddings-minneapolis.jpeg
   altText: Minneapolis Summer Wedding Hair & Makeup
   caption: ''
 bottomSections: []
