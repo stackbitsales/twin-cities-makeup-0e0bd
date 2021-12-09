@@ -343,7 +343,7 @@ sections:
       - type: Button
         label: View all reviews
         url: /
-        style: primary
+        style: secondary
       - type: Button
         label: Submit your review
         showIcon: true
