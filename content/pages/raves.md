@@ -29,7 +29,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Raves
+    title: Raves for Lisa Reinhardt
     subtitle: Featured blog posts section example
     colors: colors-a
     posts: []
