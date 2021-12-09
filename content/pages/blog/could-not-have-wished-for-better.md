@@ -7,12 +7,8 @@ excerpt: >-
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+"I am beyond pleased with the work of Lisa Reinhardt and her team. She is not only talented but extremely knowledgeable about the products she uses and what will work best for your skin and the look you are going for. As part of the bridal package you have the opportunity for a full trial run through/consultation so you can feel confident that your vision is understood and your look can and will be recreated on the big day!
+After deciding what feature I wanted to focus on (my eyes) I chose to use Lisa for that extra service that made all the difference and totally gave me that “bridal” experience… eyelash extensions!! They are incredible and truly made me feel SO glamorous. Whats more, they lasted extremely well (10.21 to 12.4) when I visited for a fill (I wanted to enjoy having them for the holidays) I’m pretty much obsessed now.
+Thank you again Lisa and Team for making me and my bridal party feel so beautiful and relaxed on such a special day!"
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+M. Sorenson Oct 25th 2014
