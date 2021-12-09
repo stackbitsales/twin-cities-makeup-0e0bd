@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Look beautiful on your wedding day
+    title: Look beautiful on your wedding day!
     subtitle: >-
       Minimize your wedding day stress – let Lisa and her team work their magic
       for you. Sit back, relax, have fun with your bridal party, and get
