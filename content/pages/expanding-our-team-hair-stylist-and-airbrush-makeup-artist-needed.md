@@ -76,7 +76,7 @@ sections:
           label: Phone
         - name: position
           label: What position are you interested in?
-          hideLabel: false
+          hideLabel: true
           defaultValue: What position are you interested in?
           options:
             - Makeup Artist
