@@ -2,8 +2,8 @@
 title: 'How to Banish Dark Circles: Makeup Tutorial'
 date: '2021-12-02'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Lisa shows how to banish dark circles using her Eye Brightening Makeup
+  Products. WATCH THE VIDEO
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
