@@ -2,8 +2,8 @@
 title: True Facts About Novalash Lash Extensions
 date: '2021-11-27'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Are you considering getting Novalash Eyelash Extensions? Here are the answers
+  to some frequently asked questions about Novalash Eyelash Extensions.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
