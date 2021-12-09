@@ -13,12 +13,21 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/smp-blog-feature.jpeg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+We are thrilled to let you know that our makeup and hair has been featured on Style Me Pretty Mid-Atlantic Regional Blog!
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The title of the feature is:
+**School Themed Valentine’s Day Shoot**
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+[http://www.jodysavagephotography.com/](http://www.jodysavagephotography.com/young-love-minnesota-wedding-photographer-published-in-style-me-pretty/)
+
+This was a styled photo session with some incredible local vendors. The photographer [Jody Savage](http://www.jodysavagephotography.com/young-love-minnesota-wedding-photographer-published-in-style-me-pretty/) used her to creative talents to recreate a photo session that captures “Young Love” perfectly and sweetly all at the same time. I just love the colors and flowers throughout the shoot and all of the little details that added such a special touch to the images.
+
+
+
+![](/images/smp-blog-feature-2.jpeg)
+
+*A special thanks to the amazing and talented vendors who participated in this beautiful feature:*
+
+*Photography: *[*Jody Savage Photography*](http://www.jodysavagephotography.com/)* | Floral Design: *[*Ashley Fox Designs*](http://ashleyfoxdesigns.com/)* | Invitations: *[*Paperista*](http://paperista.com/)* | Event Planning: *[*Simply Loves*](http://simplyloves.com/)* | Hair & Makeup: *[*Lisa Reinhardt Makeup & Hair Artistry*](https://www.twincitiesmakeup.com/contact/)* | Bridal Shoes:*[*Kate Spade*](http://www.katespade.com/)* | Bridal Wear: *[*Bridal Bliss Designs*](http://bridalblissdesigns.com/)* | Chairs: *[*Ruby’s Rustic Rentals*](http://rusticruby.blogspot.com/)* | Chalkboard & Desk: *[*On Solid Ground Vintage Rentals*](http://onsolidgroundrentals.com/)* | Dessert Favors: *[*Cocoa & Fig*](http://cocoaandfig.com/)* | Men’s Wear: *[*Hammermade*](http://www.hammermade.com/)* | School:*[*Historic Chaska School House*](http://www.chaskahistory.org/)* | Table: *[*Shop 501*](http://www.facebook.com/Shop501)* | Table Settings: *[*Apres Party And Tent Rental*](http://apresparty.com/)
