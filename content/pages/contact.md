@@ -63,7 +63,7 @@ sections:
           hideLabel: true
         - type: EmailFormControl
           name: email
-          placeholder: Your phone number
+          placeholder: Your email address
           isRequired: true
           width: 1/2
           label: Your email address
