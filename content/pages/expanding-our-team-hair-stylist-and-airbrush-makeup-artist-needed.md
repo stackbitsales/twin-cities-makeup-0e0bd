@@ -94,7 +94,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: city
+        - name: own-airbrush-machine
           label: Do you own an airbrush machine?
           hideLabel: true
           defaultValue: Please choose...
