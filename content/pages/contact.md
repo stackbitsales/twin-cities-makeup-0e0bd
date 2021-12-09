@@ -113,7 +113,7 @@ sections:
         - name: referral-source
           hideLabel: false
           placeholder: How did you hear about us?
-          isRequired: false
+          isRequired: true
           width: full
           type: TextFormControl
           label: How did you hear about us
