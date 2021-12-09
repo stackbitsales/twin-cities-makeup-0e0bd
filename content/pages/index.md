@@ -84,7 +84,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/photos.png
-          altText: Minnesota makeup services
+          altText: Minnesota photos services
         styles:
           title:
             textAlign: center
