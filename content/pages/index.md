@@ -176,7 +176,7 @@ sections:
           - ml-24
           - mr-24
         padding:
-          - pt-8
+          - pt-24
           - pb-8
           - pl-0
           - pr-9
