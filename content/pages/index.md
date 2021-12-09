@@ -296,7 +296,7 @@ sections:
         icon: arrowRight
         url: /
         style: link
-      - label: Learn more
+      - label: Read More
         altText: ''
         url: /
         showIcon: false
