@@ -27,28 +27,26 @@ The bride requested a half-up bridal hairstyle with long soft curls. To give her
 
 **Congratulations again you two!** Thank you for letting us be a part of your BIG Day!
 
-
-
 ### Venues
 
-*   **Venue:** [A’BULAE](http://www.abulae.com/)
+**Venue:** [A’BULAE](http://www.abulae.com/)
 
-*   **Ceremony Site:** [St. Paul Cathedral](https://www.cathedralsaintpaul.org/)
+**Ceremony Site:** [St. Paul Cathedral](https://www.cathedralsaintpaul.org/)
 
-*   **Photography:** [Bellagala](http://www.bellagala.com/)
+**Photography:** [Bellagala](http://www.bellagala.com/)
 
-*   **Pianist:** [Phil Thompson](http://www.philthompson.com/)
+**Pianist:** [Phil Thompson](http://www.philthompson.com/)
 
-*   **Disc Jockey:** [Bellagala](http://www.bellagala.com/minneapolis-wedding-dj/)
+**Disc Jockey:** [Bellagala](http://www.bellagala.com/minneapolis-wedding-dj/)
 
-*   **Live Music:** [Synergy Dance Band](http://www.synergy-dwmusic.com/)
+**Live Music:** [Synergy Dance Band](http://www.synergy-dwmusic.com/)
 
-*   **Floral:** [Camrose Hill](http://camrosehillflowers.com/)
+**Floral:** [Camrose Hill](http://camrosehillflowers.com/)
 
-*   **Decor:** [Linen Effects, Inc](http://www.lineneffects.com/index.cfm).
+**Decor:** [Linen Effects, Inc](http://www.lineneffects.com/index.cfm).
 
-*   **Cake:** [Buttercream Wedding Cakes](https://buttercream.info/)
+**Cake:** [Buttercream Wedding Cakes](https://buttercream.info/)
 
-*   **Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/)
+**Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/)
 
-*   **Catering:** [Mintáhoe Catering & Events](http://www.mintahoe.com/)
+**Catering:** [Mintáhoe Catering & Events](http://www.mintahoe.com/)
