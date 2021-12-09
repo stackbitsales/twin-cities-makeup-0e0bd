@@ -153,7 +153,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Services
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
