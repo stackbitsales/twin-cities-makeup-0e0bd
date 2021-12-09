@@ -69,7 +69,7 @@ sections:
           label: Your email address
           hideLabel: true
         - name: phone
-          hideLabel: false
+          hideLabel: true
           placeholder: Your email address
           isRequired: true
           width: full
