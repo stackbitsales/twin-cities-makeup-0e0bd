@@ -97,7 +97,7 @@ sections:
         - name: own-airbrush-machine
           label: Do you own an airbrush machine?
           hideLabel: true
-          defaultValue: Please choose...
+          defaultValue: Do you own an airbrush machine?
           options:
             - New York
             - San Francisco
