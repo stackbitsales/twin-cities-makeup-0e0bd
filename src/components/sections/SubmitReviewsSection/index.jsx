@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { getDataAttrs } from '../../../utils/get-data-attrs';
 
 export default function SubmitReviewsSection(props) {
 
@@ -13,7 +14,7 @@ export default function SubmitReviewsSection(props) {
             <a href="http://www.facebook.com/pages/Lisa-Reinhardt-Makeup-Hair-Artistry-LLC/284684804885522" target="_blank">
                 <img className="" src="/images/facebook-logo.jpeg"></img>
             </a>
-            
+
         </div>
     );
 }
