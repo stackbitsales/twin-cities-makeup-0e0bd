@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/lisa-mink-lashes.jpeg
-  altText: Post thumbnail image
+  altText: New Luxurious Mink Eyelash Extensions
   caption: ''
 bottomSections: []
 layout: PostLayout
