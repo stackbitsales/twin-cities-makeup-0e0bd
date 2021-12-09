@@ -154,9 +154,6 @@ sections:
     items:
       - type: FeaturedItem
         title: Services
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
         featuredImage:
           type: ImageBlock
           url: /images/Screen Shot 2021-12-08 at 10.43.42 PM.png
