@@ -9,10 +9,11 @@ export default function YouTubeSection(props) {
     if (videoLink.includes('youtu.be')) {
         youTubeID = youTubeLink.split('.be/')[1];
         youTubeID = youTubeID.split('?')[0];
-        iframeLink = `https://www.youtube-nocookie.com/embed/${youTubeID}`
     } else {
         youTubeID = youTubeLink.split('v=')[1];
     }
+
+    iframeLink = `https://www.youtube-nocookie.com/embed/${youTubeID}`
 
     return (
         <div className="flex justify-center">
