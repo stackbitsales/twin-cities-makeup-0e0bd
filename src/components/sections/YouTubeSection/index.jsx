@@ -9,7 +9,7 @@ export default function YouTubeSection(props) {
         youTubeID = youTubeLink.split('.be/')[1];
         youTubeID = youTubeID.split('?')[0];
     } else {
-        youTubeID = videoLink.split('v=')[1];
+        youTubeID = youTubeLink.split('v=')[1];
     }
 
     return (
