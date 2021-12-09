@@ -4,7 +4,7 @@ date: '2021-11-12'
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-bridal-hair-lisareinhardt.jpg
-  altText: Post thumbnail image
+  altText: Lisa's Beauty Team
   caption: ''
 bottomSections: []
 layout: PostLayout
