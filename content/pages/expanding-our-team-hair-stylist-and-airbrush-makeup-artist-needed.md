@@ -105,7 +105,7 @@ sections:
           width: full
           type: SelectFormControl
         - name: experience-with-brides
-          label: Do you have experience
+          label: Do you have experience working with brides?
           hideLabel: false
           defaultValue: Please choose...
           options:
