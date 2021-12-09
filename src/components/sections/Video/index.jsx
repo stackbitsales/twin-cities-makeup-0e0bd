@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function MapSection(props) {
+export default function VideoSection(props) {
 
     return (
         <div className="flex justify-center">
