@@ -266,7 +266,7 @@ sections:
     actions:
       - label: Read More
         altText: Read more about Lisa
-        url: /
+        url: /about
         showIcon: false
         icon: arrowRight
         iconPosition: right
