@@ -299,32 +299,6 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-a
-    title: Meet Lisa
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
-    type: TextSection
-  - elementId: ''
-    customClass: ''
-    colors: colors-a
     variant: variant-a
     title: ''
     subtitle: ''
