@@ -1,6 +1,6 @@
 type: object
 name: SubmitReviewsSection
-label: YouTube Video
+label: Review
 labelField: url
 groups:
   - sectionComponent
