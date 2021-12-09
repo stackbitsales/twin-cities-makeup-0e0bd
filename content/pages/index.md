@@ -290,12 +290,6 @@ sections:
     colors: colors-b
     backgroundSize: full
     actions:
-      - type: Button
-        label: Submit your review
-        showIcon: true
-        icon: arrowRight
-        url: /
-        style: link
       - label: Read More
         altText: ''
         url: /
@@ -305,6 +299,12 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Submit your review
+        showIcon: true
+        icon: arrowRight
+        url: /
+        style: link
       - label: View all reviews
         altText: ''
         url: /
