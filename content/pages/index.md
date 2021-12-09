@@ -44,7 +44,6 @@ sections:
         borderStyle: solid
       title:
         textAlign: center
-        
       subtitle:
         textAlign: left
       text:
