@@ -7,8 +7,6 @@ export default function SubmitReviewsSection(props) {
             <img src="/images/theknot-logo.jpeg"></img>
             <img src="/images/weddingwire-logo.jpeg"></img>
             <img src="/images/facebook-logo.jpeg"></img>
-            <p></p>
-            <p></p>
         </div>
     );
 }
