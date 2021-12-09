@@ -67,6 +67,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        link: /
       - type: FeaturedItem
         title: Photos
         featuredImage:
