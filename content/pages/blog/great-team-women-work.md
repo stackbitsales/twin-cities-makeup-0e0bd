@@ -16,7 +16,7 @@ excerpt: >-
   it like a professional, and when one of my bridesmaids did not like her
   hairstyle, she quickly redid it and it looked amazing. I truly felt beautiful
   on my day and the women all looked amazing!! They were a great team of women
-  to work with!
+  to work with!"
 
 
   – Hannah, 2014 wedding, from weddingwire.com
