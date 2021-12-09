@@ -103,7 +103,7 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
-        - name: city
+        - name: service-type
           label: City
           hideLabel: false
           defaultValue: Please choose...
