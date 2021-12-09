@@ -70,9 +70,9 @@ Includes, but not limited to, talent head shots, portfolio work, senior portra
 
 **Rates for specialized services:**
 
-*   Makeup & Hair Styling (on-site) $300 \*\*plus any parking or travel fees \*\*any additional looks $100 \*
+*   Makeup & Hair Styling (on-site) $300 *plus any parking or travel fees any additional looks $100*
 
-*   Makeup & Hair Styling (in-studio) $165 *\*additional fees will apply for false lashes (add $15) and airbrush* (add $15)\*                              \*
+*   Makeup & Hair Styling (in-studio) $165 *additional fees will apply for false lashes (add $15) and airbrush (add $15)*
 
 **Production Rates:**
 
