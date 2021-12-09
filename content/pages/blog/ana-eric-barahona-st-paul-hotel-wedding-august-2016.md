@@ -42,7 +42,7 @@ These girls looked gorgeous and looked like they had a blast at this wedding. Co
 
 *   **Band:** [DJ Rich and the Resistors](http://www.weddingplanninglink.com/state-24-minnesota/profile-2-reviews/vendor-23428-rich-and-the-resistors.html)
 
-*   **Bridal Makeup and Hair:** [Lisa Reinhardt Makeup and Hair Artistry](https://www.twincitiesmakeup.com/contact/)
+*   **Bridal Makeup and Hair:** [Lisa Reinhardt Makeup and Hair Artistry](/contact)
 
 *   **Bridesmaids Dresses:** [David’s Bridal](http://www.davidsbridal.com/)
 

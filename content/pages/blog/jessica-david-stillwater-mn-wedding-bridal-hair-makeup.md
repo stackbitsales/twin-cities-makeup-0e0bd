@@ -64,4 +64,4 @@ We wish you the best Jessica and David!!! Best of luck in all of your future end
 
 *   **Entertainment:** [Bluewater Kings Band](http://www.bluewaterkingsband.com/) & [Good Intentions Bluegrass Band](http://www.thegoodintentionsbluegrassband.com/)
 
-*   **Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/contact/)
+*   **Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](/contact)

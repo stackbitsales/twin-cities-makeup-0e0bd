@@ -19,7 +19,7 @@ This past summer my team and I were lucky to work with several amazing bridal pa
 
 ![](/images/minnesota-wedding-stylits-lisa-reinhardt.jpeg)
 
-A week before the big day we applied [eyelash extensions](https://www.twincitiesmakeup.com/eyelash-extensions/) onto the bride. Then on the wedding day, we added an extra half strip of false eyelashes to give her eyes that extra “pop.”
+A week before the big day we applied eyelash extensions onto the bride. Then on the wedding day, we added an extra half strip of false eyelashes to give her eyes that extra “pop.”
 
 ![](/images/minneapolis-wedding-lisa-reinahrdt.jpeg)
 
