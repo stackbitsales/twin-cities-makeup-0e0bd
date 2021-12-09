@@ -3,7 +3,7 @@ title: Bridal Airbrush Makeup And Hair Styling
 date: '2021-08-31'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
