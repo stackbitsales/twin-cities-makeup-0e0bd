@@ -6,11 +6,6 @@ excerpt: >-
   day! Myself and bridesmaid were so happy with how our makeup turned out. She
   was on top it from the first time I emailed her, my trial (listened to exactly
   what I wanted), and on time and stayed on."
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 layout: PostLayout
 ---
