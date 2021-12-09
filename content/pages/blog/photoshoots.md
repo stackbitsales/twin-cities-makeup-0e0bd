@@ -56,22 +56,22 @@ bottomSections:
           /images/photoshoots/09-LR-1033.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/10-LR-1019.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/11-itssmokinhotmodels-0943lg.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/12-itssmokinhotmodels-0954lg.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/13-trash-the-dress-paint-3.jpeg
         altText: 
