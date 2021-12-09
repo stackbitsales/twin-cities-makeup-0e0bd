@@ -1,5 +1,5 @@
 type: object
-name: YouTubeSection
+name: SubmitReviewsSection
 label: YouTube Video
 labelField: url
 groups:
