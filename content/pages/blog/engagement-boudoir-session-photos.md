@@ -41,7 +41,7 @@ bottomSections:
           /images/engagement-boudoir-session-photos/06-Caitlin-072.jpeg
         altText: null
         caption: null
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/07-boudior-look.jpeg
         altText: null
