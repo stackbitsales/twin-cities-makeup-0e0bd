@@ -7,7 +7,7 @@ excerpt: >-
   makeup, and a gorgeous half-up/half-down bridal hairstyle.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/twincities-bridal-makeup-artist-lisa-reinhardt.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
