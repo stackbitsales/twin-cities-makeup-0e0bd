@@ -75,7 +75,7 @@ sections:
           type: TextFormControl
           label: Phone
         - name: city
-          label: Position interested in
+          label: What position are you interested in?
           hideLabel: false
           defaultValue: Please choose...
           options:
