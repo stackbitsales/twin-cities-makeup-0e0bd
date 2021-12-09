@@ -106,12 +106,12 @@ bottomSections:
           /images/on-location-team-photos/19-A-2.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/20-minneapolis-wedding-makeup-lisa-reinhardt.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/21-minneapolis-bride-makeup-lisa-reinhardt.jpeg
         altText: 
