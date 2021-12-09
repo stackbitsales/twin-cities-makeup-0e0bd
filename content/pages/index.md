@@ -197,6 +197,15 @@ sections:
       - type: ImageBlock
         url: /images/WeddingWire-Couples-Choice-Award-2013.jpg
         altText: Wedding Wire Couples' Choice Award 2013
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
     spacing: 3
     columns: 7
     aspectRatio: auto
