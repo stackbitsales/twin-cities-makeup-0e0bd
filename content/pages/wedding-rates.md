@@ -20,7 +20,7 @@ sections:
       all on-site services; per client that is serviced.
     actions:
       - type: Button
-        label: Try it now
+        label: Book now
         url: /
         style: primary
     backgroundImage: null
