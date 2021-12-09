@@ -76,32 +76,32 @@ bottomSections:
           /images/on-location-team-photos/13-getready3.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/14-getready4.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/15-wedding-makeup-designer-minneapolis.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/16-A1.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/17-getready2.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/18-cassiework.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/19-A-2.jpeg
         altText: 
