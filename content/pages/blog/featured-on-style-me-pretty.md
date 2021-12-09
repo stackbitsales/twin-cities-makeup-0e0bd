@@ -2,8 +2,8 @@
 title: We're Featured On Style Me Pretty!
 date: '2021-11-29'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  This School Themed Valentine’s Photo Shoot, featured on Style Me Pretty is so
+  sweet and innocent.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
