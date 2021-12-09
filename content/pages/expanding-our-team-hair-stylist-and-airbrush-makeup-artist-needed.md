@@ -95,7 +95,7 @@ sections:
           width: full
           type: SelectFormControl
         - name: city
-          label: City
+          label: Do you own an airbrush machine?
           hideLabel: true
           defaultValue: Please choose...
           options:
