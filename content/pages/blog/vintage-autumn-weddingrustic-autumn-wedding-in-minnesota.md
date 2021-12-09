@@ -15,12 +15,30 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Featured NOW:
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+One of my very favorite Bride’s recently submitted her eye-catching wedding photos to a lovely wedding website called Wedding Chicks! We could NOT be more excited! Lisa did the Bride’s [**airbrush makeup**](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/) application with [**eyelash extensions**](https://www.twincitiesmakeup.com/eyelash-extensions/) and makeup for her bridal party! These ladies were all so pretty and SO much fun to get ready! She had 10 bridesmaids! The photos really show off Caitlin and Daniel’s simply gorgeous wedding with full attention to every detail….. yet still was totally romantic! It had the perfect feel for a vintage, rustic, autumn Minnesota Wedding.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+![](/images/lisa-reinhardt-wedding-makeup.jpeg)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+[**Staja Studios**](http://www.stajastudios.com/) captured every feature perfectly! We can’t get enough of their work! Not to mention Little Log House Pioneer Village venue is really one of a kind unique experience in Red Wing, Minnesota
+
+[**Caitlin and Daniel**](http://www.weddingchicks.com/2013/04/23/rustic-autumn-wedding/) are a truly beautiful couple inside and out….Caitlin thank you for being such a sweetheart and fantastic client to work with!!!
+
+This site is a wealth of knowledge for all bride’s planning their weddings and looking for inspiration. Go ahead and check out this link now!
+
+*“My advice to other brides would be not to forget that it’s your wedding and that it really does need to be true to who you are as a couple!”*  (said Caitlin)
+
+Read more of her words [**here**](http://www.weddingchicks.com/2013/04/23/rustic-autumn-wedding/)
+
+**Photographer:** Staja Studios
+**Venue:** Little Log House Pioneer Village
+**Hair & Makeup:** Lisa Reinhardt
+**C ake & Caterer:** Deco Catering
+**Coordinator:** Simply Elegant Bridal Consulting
+**DJ:** Instant Request
+**Dress Designer:** Rush’s Bridal
+**Stationery:** Thru 79 Design
+**Prop or Furniture Rentals:** Antique Door Vintage Rentals
+
+Read more and see pictures [**here**](http://www.weddingchicks.com/2013/04/23/rustic-autumn-wedding/)
