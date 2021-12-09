@@ -73,7 +73,7 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-          label: Phone
+          label: Your phone number
         - name: position
           label: What position are you interested in?
           hideLabel: true
