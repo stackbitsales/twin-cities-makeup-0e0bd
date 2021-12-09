@@ -244,7 +244,7 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
