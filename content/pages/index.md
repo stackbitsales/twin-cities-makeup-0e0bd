@@ -164,7 +164,7 @@ sections:
         altText: Book now
     media:
       type: ImageBlock
-      url: /images/twin-cities-makeup-cartoon-transparent-background.png
+      url: /images/Makeup 2.png
       altText: Twin Cities Makeup Cartoon
     styles:
       self:
