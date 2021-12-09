@@ -69,7 +69,7 @@ sections:
             textAlign: center
           self:
             padding:
-              - pb-6
+              - pb-5
         link: /services
       - type: FeaturedItem
         title: Photos
