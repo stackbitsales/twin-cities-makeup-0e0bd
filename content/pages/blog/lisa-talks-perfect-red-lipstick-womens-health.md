@@ -29,4 +29,4 @@ Lisa Reinhardt was asked by Women’s Health Magazine what she tells her gals wh
 
 Whether you’re heading out to a holiday party or getting ready for your wedding day, take Lisa’s tips to make a statement with the perfect red lipstick.
 
-****[**Read the whole article here… **](http://www.womenshealthmag.com/beauty/perfect-red-lipstick)
+[Read the whole article here… ](http://www.womenshealthmag.com/beauty/perfect-red-lipstick)
