@@ -298,7 +298,7 @@ sections:
     type: HeroSection
   - elementId: ''
     customClass: ''
-    colors: colors-h
+    colors: colors-a
     variant: variant-b
     title: ''
     subtitle: ''
