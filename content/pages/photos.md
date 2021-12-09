@@ -35,7 +35,6 @@ sections:
       actions:
         justifyContent: center
     title: Photos
-    subtitle: Featured blog posts section example
     colors: colors-h
     posts: []
     type: FeaturedPostsSection
