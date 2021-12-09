@@ -84,7 +84,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/photos.png
-          altText: Item image
+          altText: Minnesota wedding and makeup services
         styles:
           title:
             textAlign: center
