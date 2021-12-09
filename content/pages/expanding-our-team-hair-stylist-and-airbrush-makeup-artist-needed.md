@@ -137,7 +137,7 @@ sections:
         - name: description
           label: Links to Online Work
           hideLabel: true
-          placeholder: Please describe
+          placeholder: Add
           isRequired: false
           width: full
           type: TextareaFormControl
