@@ -1,6 +1,6 @@
 type: object
 name: SubmitReviewsSection
-label: Review
+label: Review Request Section
 labelField: url
 groups:
   - sectionComponent
