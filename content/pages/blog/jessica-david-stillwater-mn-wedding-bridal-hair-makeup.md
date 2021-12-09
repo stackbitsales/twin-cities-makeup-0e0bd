@@ -1,6 +1,6 @@
 ---
 title: 'Jessica & David | Stillwater, MN Wedding Bridal Hair & Makeup'
-date: '2021-12-07'
+date: '2021-12-06'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
