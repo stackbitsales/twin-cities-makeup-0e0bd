@@ -16,12 +16,11 @@ author: content/data/team/hilary-ouse.json
 ---
 A little rain and overcast day didn’t stop bride Racheal from looking beautiful on her wedding day. To get the bride ready for the big day, we met with her and the bridal party in [**A’BULAE’s bridal suite**](http://www.abulae.com/grooms-room/) *(the most amazing Bridal suite in the St. Paul area which makes for great getting ready photos!)*.
 
-
+![](/images/btwin-cities-bridal-makeup-683x1024.jpeg)
 
 She received a romantic bridal airbrush makeup application as well as false lashes. Lisa Reinhardt was her makeup artist and the look was based on her [bridal hair and makeup consultation](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/).
 
-
-
+![](/images/twin-cities-makeup-artist-lisa-reinhardt-683x1024.jpeg)
 
 The bride requested a half-up bridal hairstyle with long soft curls. To give her extra volume and fullness, our senior stylist added clip-in extensions and curled. In addition to the bride’s hair styling, we also worked with the entire bridal party including both moms.
 ![](/images/twin-cities-bridal-hair-makeup-lisa-reinhardt.jpeg)
