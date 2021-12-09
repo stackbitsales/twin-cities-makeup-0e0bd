@@ -194,7 +194,7 @@ sections:
     type: HeroSection
   - elementId: ''
     customClass: ''
-    colors: colors-a
+    colors: colors-c
     backgroundSize: full
     title: Reserve your date today
     subtitle: ''
