@@ -310,7 +310,7 @@ sections:
         title: Happy customer
         image:
           type: ImageBlock
-          url: /images/carla.jpg
+          url: /images/Screen Shot 2021-12-08 at 10.03.49 PM.png
           altText: Photo of Carla Rogers
     styles:
       self:
