@@ -12,7 +12,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/twin-cities-makeup-artist-kristen.jpeg
-      altText: Hero section image
+      altText: Twin Cities Wedding Makeup Artist
     styles:
       self:
         height: auto
