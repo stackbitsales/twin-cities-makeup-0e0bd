@@ -6,7 +6,7 @@ sections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    variant: variant-c
+    variant: variant-b
     actions: []
     styles:
       self:
