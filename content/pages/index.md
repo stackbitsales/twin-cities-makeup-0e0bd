@@ -299,6 +299,38 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-a
+    variant: variant-a
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >
+          "Such a great experience to be using this product. It really helped
+          with what I needed help with."
+        name: Carla Rogers
+        title: Happy customer
+        image:
+          type: ImageBlock
+          url: /images/carla.jpg
+          altText: Photo of Carla Rogers
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: TestimonialsSection
+  - elementId: ''
+    customClass: ''
+    colors: colors-a
     variant: variant-b
     title: ''
     subtitle: ''
