@@ -11,12 +11,12 @@ bottomSections:
     elementId: ''
     customClass: ''
     images:
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/01-kelly-highresolution.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/02-reb.jpeg
         altText: 
