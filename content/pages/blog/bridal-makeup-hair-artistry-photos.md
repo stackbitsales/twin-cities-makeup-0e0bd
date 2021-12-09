@@ -16,18 +16,6 @@ bottomSections:
           /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image_one
         caption: 
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
-        altText: Image four
-        caption: Image four caption
     spacing: 1
     columns: 4
     aspectRatio: auto
