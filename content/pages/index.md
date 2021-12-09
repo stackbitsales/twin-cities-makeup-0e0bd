@@ -213,7 +213,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/twin-cities-makeup-cartoon.png
       altText: Hero image
     styles:
       self:
