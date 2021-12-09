@@ -108,7 +108,7 @@ sections:
           hideLabel: true
           defaultValue: Type of service?
           options:
-            - New York
+            - Wedding
             - San Francisco
           isRequired: false
           width: full
