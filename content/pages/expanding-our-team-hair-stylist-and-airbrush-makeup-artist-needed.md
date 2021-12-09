@@ -117,7 +117,7 @@ sections:
         - name: available-on-saturdays
           label: Are you available on Saturdays?
           hideLabel: true
-          defaultValue: Please choose...
+          defaultValue: Are you available on Saturdays?
           options:
             - All
             - Most
