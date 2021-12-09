@@ -81,6 +81,7 @@ sections:
           options:
             - Makeup Artist
             - Stylist
+            - lorem-ipsum
           isRequired: false
           width: full
           type: SelectFormControl
