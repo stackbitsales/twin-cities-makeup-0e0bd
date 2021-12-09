@@ -2,8 +2,9 @@
 title: 'Jessica & David | Stillwater, MN Wedding Bridal Hair & Makeup'
 date: '2021-12-06'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A beautiful fall wedding at Camrose Hill Flower Studio in Stillwater, MN. Lisa
+  and her team set up the bride with Novalash eyelash extensions, airbrush
+  makeup, and a gorgeous half-up/half-down bridal hairstyle.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
