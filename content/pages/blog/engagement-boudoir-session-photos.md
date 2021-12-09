@@ -31,12 +31,12 @@ bottomSections:
           /images/engagement-boudoir-session-photos/04-carl1.jpeg
         altText: null
         caption: null
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/05-Caitlin-095.jpeg
         altText: null
         caption: null
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/06-Caitlin-072.jpeg
         altText: null
