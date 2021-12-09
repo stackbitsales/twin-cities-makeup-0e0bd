@@ -6,11 +6,6 @@ excerpt: >-
   wedding, I can’t recommend these enough! They were perfect for the honeymoon
   and I thought I’d only want them once but now I’m hooked! The other girls are
   also amazing. Everyone in the wedding party."
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 layout: PostLayout
 ---
