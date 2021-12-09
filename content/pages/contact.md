@@ -104,7 +104,7 @@ sections:
           label: Date of service?
           hideLabel: true
         - name: comments-questions
-          hideLabel: false
+          hideLabel: true
           placeholder: Comments/questions
           isRequired: false
           width: full
