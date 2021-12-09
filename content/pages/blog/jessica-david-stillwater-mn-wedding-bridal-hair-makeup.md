@@ -14,12 +14,55 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+[Paper Antler Photography](http://www.paperantler.com/) did a remarkable job capturing the sheer beauty and uniqueness of Jessica and David’s wedding day. Every detail was thought out and perfected!
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+![](/images/twincities-bridal-hair-stylist-lisa-reinhardt.jpeg)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+[eMotion Cinematography](http://www.emotionblog.com/)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+[Camrose Hill Flower Farm](http://camrosehillflowers.com/) in Stillwater is stunning. The lovely bride and groom had a beautiful sunny day in October to celebrate their marriage vows!
+
+![](/images/twin-cities-bridal-makeup-artist-683x1024.jpeg)
+
+Take a look at Jessica’s awesome hair accessory! We totally loved it and thought it complimented her chosen half-up/half-down hair style impeccably, especially with the natural color of her gorgeous hair. [Melanie, one of Lisa’s top Senior stylists](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) was the one who completed the hair styling for the bride and all of her bridal party.
+
+Jessica received both [makeup and hair services](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/) from us. She was an absolute joy to work with. She seemed to really love the coverage from the [airbrush foundation](https://www.twincitiesmakeup.com/professional-airbrush-makeup-artist/).
+
+![](/images/twin-cities-makeup-bridal-artist.jpeg)
+
+Lisa also did [Novalash eyelash extensions](https://www.twincitiesmakeup.com/eyelash-extensions/) on Jessica the week of her wedding. Jessica emphasized that she wished to have “a lot of lash” (as do most of our brides). To acheive a fuller look, Lisa added half strip of false lashes on just the ends of the eye lid to make the eyes really POP!
+
+![](/images/twincities-bridal-makeup-lisa-reinhardt.jpeg)
+
+[eMotion Cinematography](http://www.emotionblog.com/)
+
+Lisa incorporated lots of peaches and gold tones into Jessica’s makeup application to give her that natural glow.
+
+![](/images/twincities-bridal-makeup-artist-lisa-reinhardt-4af66833.jpeg)
+
+[eMotion Cinematography](http://www.emotionblog.com/)
+
+We wish you the best Jessica and David!!! Best of luck in all of your future endeavor’s together ☺
+
+### Vendors
+
+*   **Photographer:  **[Paper Antler Photography](http://www.paperantler.com/)
+
+*   **Videography:** [eMotion Cinematography](https://vimeo.com/154342690)
+
+*   **Venue:** [Camrose Hill Flower Farm](http://camrosehillflowers.com/)
+
+*   **Rentals:** [Ultimate Events](http://www.ue-mn.com/)
+
+*   **Coordination:** [Kristen, Simply Elegant Group](http://thesimplyelegantgroup.com/blog/2016/4/26/dave-jess-camrose-hill-wedding)
+
+*   **Catering:** [Three Sons Signature Cuisine](http://threesonskitchen.com/)
+
+*   **Sweets:** [Cafe Latte](http://www.cafelatte.com/) & [Sweet Retreat](http://thesweetretreatmn.com/index.html)
+
+*   **Bar:** [With a Twist](http://minneapolis.twistbartendingservice.com/)
+
+*   **Entertainment:** [Bluewater Kings Band](http://www.bluewaterkingsband.com/) & [Good Intentions Bluegrass Band](http://www.thegoodintentionsbluegrassband.com/)
+
+*   **Hair + Makeup:** [Lisa Reinhardt Makeup & Hair Artistry](https://www.twincitiesmakeup.com/contact/)
+
