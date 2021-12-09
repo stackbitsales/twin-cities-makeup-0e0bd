@@ -106,7 +106,7 @@ sections:
         - name: service-type
           label: Type of Service
           hideLabel: true
-          defaultValue: Type of Service?
+          defaultValue: Type of service?
           options:
             - New York
             - San Francisco
