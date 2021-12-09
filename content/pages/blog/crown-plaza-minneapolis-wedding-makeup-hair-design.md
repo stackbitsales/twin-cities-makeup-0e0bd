@@ -2,8 +2,10 @@
 title: Crown Plaza Minneapolis WEdding | Makeup & Hair Design
 date: '2021-12-03'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  This past summer my team and I were lucky to work with several amazing bridal
+  parties for Minneapolis weddings. One particular bride, Melissa, was such a
+  laid back bride that was so pleasant to work with, not to mention a beautiful
+  bride! :) 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
