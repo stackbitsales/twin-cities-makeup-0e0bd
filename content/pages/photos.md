@@ -30,7 +30,7 @@ sections:
       actions:
         justifyContent: center
     title: Photos
-    colors: colors-h
+    colors: colors-c
     posts:
       - content/pages/blog/bridal-makeup-hair-artistry-photos.md
       - content/pages/blog/on-location-team-photos.md
