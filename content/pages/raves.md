@@ -36,6 +36,7 @@ sections:
     colors: colors-a
     posts:
       - content/pages/blog/flawless-throughout-entire-night.md
+      - content/pages/blog/relaxed-non-stressful.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
