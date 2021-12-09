@@ -17,12 +17,24 @@ featuredImage:
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+IMAGE
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Airbrush is a specialized makeup application that once was used only by makeup artists for TV celebrities and for those on professional photo shoots. Now, it is a MUST have service available for Brides on their wedding day and for everyday women! A huge benefit to airbrush foundation is the staying power- up to 12-14 hours and beyond. So, if a celebrity is at a red carpet event or a bride is getting married, they will feel confident that their makeup will last without worry. Airbrush makeup can create the illusion of perfect skin for you.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+[**Contact Lisa about an airbrush makeup session in Minnesota**](/contact)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Every airbrush foundation application is custom mixed based on the clients’ skin color.  The end result is a natural look that covers skin imperfections effortlessly and flawlessly never heavy or thick. Most clients mention that it feels like they aren’t even wearing makeup; airbrush makeup is exceptionally light weight. Airbrush makeup comes in a liquid form and a few drops are dispensed into a air compressor which then comes as a fine mist of color that gently covers the skin.  Since airbrush makeup rests on the surface and is not rubbed into the skin you can achieve a flawless, radiant complexion!
+
+IMAGE
+
+Most clients find the application soothing and since brushes are not used like you would to apply a traditional foundation, you never have to worry about sanitation. Another benefit to airbrush makeup is that it’s basically suitable for all skin types. It is best for normal to oily skin but really not recommended for dry to extremely dry skin. Airbrush makeup will keep the skin matte if you do have the more oily skin type and will settle on the drier patches. Keep that tip in mind when making your application choice.
+
+There are lots of airbrush foundations on the market today. You can spend a pretty penny on them too if you do not know any better. I only carry Temptu in my professional kit for clients.
+
+Formulas from **Temptu** are **Dura **(alchohol based), **Aqua **(water based) and the so BEAUTIFUL **S/B** (silicone based). **S/B** produces a dewy finish on the skin. **Aqua** is best for sensitive skin types. Whether it’s a Bride, model, or the everyday woman, airbrush makeup always gets the best reviews!
+
+![](/images/product1.jpeg)
+
+![](/images/product2-e1360034548788.jpeg)
+
+[View photoshoot pictures](/photoshoots)
