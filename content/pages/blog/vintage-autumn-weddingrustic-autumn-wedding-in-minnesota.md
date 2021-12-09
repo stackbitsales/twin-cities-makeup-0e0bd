@@ -10,6 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/lisa-reinhardt-bridal-makeup.jpeg
   caption: ''
+  altText: Vintage Autumn Wedding/Rustic Autumn Wedding in Minnesota
 bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
