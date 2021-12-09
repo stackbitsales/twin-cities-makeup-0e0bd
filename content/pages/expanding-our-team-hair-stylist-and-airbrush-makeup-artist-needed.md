@@ -75,7 +75,7 @@ sections:
           type: TextFormControl
           label: Phone
         - name: city
-          label: City
+          label: Position interested in
           hideLabel: false
           defaultValue: Please choose...
           options:
