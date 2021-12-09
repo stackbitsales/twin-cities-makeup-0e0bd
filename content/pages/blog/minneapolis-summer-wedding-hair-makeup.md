@@ -2,8 +2,9 @@
 title: Minneapolis Summer Wedding Hair & Makeup
 date: '2021-12-04'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Summer weddings in Minnesota are always beautiful. And those hot, humid days
+  call for air brushed makeup! Not to mention waterproof makeup application to
+  hold up to joyful wedding day tears.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
