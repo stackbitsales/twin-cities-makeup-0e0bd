@@ -50,7 +50,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-h
+  - colors: colors-a
     elementId: ''
     customClass: ''
     items:
