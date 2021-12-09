@@ -14,7 +14,7 @@ excerpt: >-
   glamorous. Whats more, they lasted extremely well (10.21 to 12.4) when I
   visited for a fill (I wanted to enjoy having them for the holidays) I’m pretty
   much obsessed now.Thank you again Lisa and Team for making me and my bridal
-  party feel so beautiful and relaxed on such a special day!"M. Sorenson Oct
+  party feel so beautiful and relaxed on such a special day!" –M. Sorenson Oct
   25th 2014
 bottomSections: []
 layout: PostLayout
