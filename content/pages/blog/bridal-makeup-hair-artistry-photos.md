@@ -12,7 +12,8 @@ bottomSections:
     customClass: ''
     images:
       - type: ImageBlock
-        url: /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
+        url: >-
+          /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
@@ -58,3 +59,5 @@ layout: PostLayout
 Lisa Reinhardt and her team offer wedding makeup and hair styling in the Minneapolis and surrounding area. Our entire team of talented stylists are trained and certified. We keep up-to-date with current wedding hair styling trends and work closely with brides to achieve their desired look.
 
 ### Lisa Reinhardt’s recent Minnesota wedding makeup and hair clients
+
+[**Book your Minnesota bridal hair and makeup styling today!**](https://www.twincitiesmakeup.com/contact/)
