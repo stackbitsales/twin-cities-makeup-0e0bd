@@ -36,7 +36,7 @@ sections:
         justifyContent: center
     title: Featured
     subtitle: Featured blog posts section example
-    colors: colors-f
+    colors: colors-a
     posts: []
     type: FeaturedPostsSection
 layout: PageLayout
