@@ -279,6 +279,7 @@ sections:
         icon: arrowRight
         url: /contact
         style: link
+        altText: Submit your review
       - label: View all reviews
         altText: ''
         url: /
