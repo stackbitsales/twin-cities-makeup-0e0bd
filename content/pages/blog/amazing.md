@@ -7,12 +7,6 @@ excerpt: >-
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+"I found Lisa Reinhardt through online reviews and I was not disappointed! One of the things that I really loved about Lisa and her team is that they work onsite. Lisa sent two of her team members to the church on the morning of my wedding and they both were so personable and fun. They worked quickly and efficiently to make sure that my hair and make-up and the hair of my five bridesmaids was done by 11:30AM. I really liked my hair, but what I fell in love with was my make-up. Melanie did an AMAZING job choosing the right colors and making sure that it was exactly what I wanted. I loved the airbrush application and the fake eye-lashes really made my eyes pop. I truly felt like a princess on my wedding day and I would high recommend Lisa and her team to anyone!"
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+\-Claire (reviewed on 6/20/2015)
