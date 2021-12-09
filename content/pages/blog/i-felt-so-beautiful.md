@@ -11,7 +11,7 @@ excerpt: >-
   All my friends were so stunned on how amazing my hair and makeup turned out. I
   wish I could replay the look on my husbands face when he saw me for the first
   time.I felt so beautiful and confident for my big day!! I would definitely
-  recommend booking with Lisa and her team.
+  recommend booking with Lisa and her team."
 
 
   – Brie E, 8/14/2016 from theknot.com
