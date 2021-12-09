@@ -4,9 +4,3 @@ label: Review Request Section
 labelField: url
 groups:
   - sectionComponent
-fields:
-  - type: string
-    name: url
-    label: Video URL
-    description: https://www.youtube.com/watch?v=N56oSDjRes4
-    default: 'https://www.youtube.com/watch?v=N56oSDjRes4'
