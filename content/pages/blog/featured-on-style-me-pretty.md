@@ -6,7 +6,7 @@ excerpt: >-
   sweet and innocent.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/smp-blog-feature.jpeg
   altText: We're Featured On Style Me Pretty!
   caption: ''
 bottomSections: []
