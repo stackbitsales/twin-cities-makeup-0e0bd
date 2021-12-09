@@ -8,7 +8,7 @@ excerpt: >-
   bride! :) 
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/lisa-reinhardt-featured-wedding-minneapolis.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
