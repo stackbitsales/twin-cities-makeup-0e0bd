@@ -349,7 +349,7 @@ sections:
       - label: View all reviews
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
