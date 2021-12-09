@@ -17,14 +17,13 @@ author: content/data/team/hilary-ouse.json
 ---
 This past summer my team and I were lucky to work with several amazing bridal parties for Minneapolis weddings. One particular bride, Melissa, was such a laid back bride that was so pleasant to work with, not to mention a beautiful bride! :)
 
-
+![](/images/minnesota-wedding-stylits-lisa-reinhardt.jpeg)
 
 A week before the big day we applied [eyelash extensions](https://www.twincitiesmakeup.com/eyelash-extensions/) onto the bride. Then on the wedding day, we added an extra half strip of false eyelashes to give her eyes that extra “pop.”
 
-
+![](/images/minneapolis-wedding-lisa-reinahrdt.jpeg)
 
 The [Lisa Reinhardt Makeup & Hair Team](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) traveled to the Crown Plaza in Minneapolis to style the bride and her bridal party. There were ten ladies that received [makeup and hair styling services](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/).
-
 
 ![](/images/minneapolis-wedding-makeup-artist.jpeg)
 
