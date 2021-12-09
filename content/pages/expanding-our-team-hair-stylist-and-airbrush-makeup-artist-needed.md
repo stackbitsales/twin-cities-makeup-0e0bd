@@ -130,7 +130,7 @@ sections:
           defaultValue: 'Yes, I can provide links to an online gallery'
           options:
             - 'Yes, I can provide links to an online gallery'
-            - San Francisco
+            - 'Yes, I can provide links to an online gallery'
           isRequired: false
           width: full
           type: SelectFormControl
