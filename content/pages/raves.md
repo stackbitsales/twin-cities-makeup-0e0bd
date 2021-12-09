@@ -52,6 +52,7 @@ sections:
       - content/pages/blog/amazing-2.md
       - content/pages/blog/could-not-have-wished-for-better.md
       - content/pages/blog/picture-perfect-perfection.md
+      - content/pages/blog/amazing.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
