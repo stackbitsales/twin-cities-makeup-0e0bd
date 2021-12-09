@@ -5,7 +5,7 @@ export default function MapSection(props) {
 
     return (
         <div
-        {...getDataAttrs(props)}
+            {...getDataAttrs(props)}
             className="flex justify-center"
             
         >
