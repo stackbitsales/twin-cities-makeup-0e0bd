@@ -65,7 +65,7 @@ sections:
           width: 1/2
         - name: phone
           hideLabel: true
-          placeholder: Your home address
+          placeholder: Your phone number
           isRequired: false
           width: full
           type: TextFormControl
