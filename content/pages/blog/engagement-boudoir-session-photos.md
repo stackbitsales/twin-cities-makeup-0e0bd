@@ -15,47 +15,47 @@ bottomSections:
         url: >-
           /images/engagement-boudoir-session-photos/01-mckenzie.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/02-lisaengagmentjune9th.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/03-elizabethengagement-photo.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/04-carl1.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/05-Caitlin-095.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/06-Caitlin-072.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/07-boudior-look.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/09-boudior-look2.jpeg
         altText: null
-        caption: 
+        caption: null
     - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/10-Cassie.jpeg
         altText: null
-        caption:  
+        caption:  null
     spacing: 1
     columns: 4
     aspectRatio: auto
