@@ -104,7 +104,7 @@ sections:
           width: full
           type: TextFormControl
         - name: service-type
-          label: City
+          label: Type of Service
           hideLabel: false
           defaultValue: Please choose...
           options:
