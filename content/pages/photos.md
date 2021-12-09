@@ -37,7 +37,8 @@ sections:
     title: Featured
     subtitle: Featured blog posts section example
     colors: colors-h
-    posts: []
+    posts:
+      - content/pages/blog/bridal-makeup-hair-artistry-photos.md
     type: FeaturedPostsSection
   - elementId: ''
     customClass: ''
