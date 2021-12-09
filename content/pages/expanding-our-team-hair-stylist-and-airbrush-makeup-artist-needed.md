@@ -125,7 +125,7 @@ sections:
           width: full
           type: SelectFormControl
         - name: city
-          label: City
+          label: Can you provide current photos of your work?
           hideLabel: true
           defaultValue: Please choose...
           options:
