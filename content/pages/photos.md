@@ -37,8 +37,7 @@ sections:
     title: Featured
     subtitle: Featured blog posts section example
     colors: colors-h
-    posts:
-      - content/pages/blog/post-three.md
+    posts: []
     type: FeaturedPostsSection
   - type: MediaGallerySection
     colors: colors-a
