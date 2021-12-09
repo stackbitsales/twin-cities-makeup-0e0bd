@@ -31,14 +31,26 @@ This site is a wealth of knowledge for all bride’s planning their weddings and
 
 Read more of her words [**here**](http://www.weddingchicks.com/2013/04/23/rustic-autumn-wedding/)
 
-**Photographer:** Staja Studios
-**Venue:** Little Log House Pioneer Village
-**Hair & Makeup:** Lisa Reinhardt
-**C ake & Caterer:** Deco Catering
-**Coordinator:** Simply Elegant Bridal Consulting
-**DJ:** Instant Request
-**Dress Designer:** Rush’s Bridal
-**Stationery:** Thru 79 Design
-**Prop or Furniture Rentals:** Antique Door Vintage Rentals
-
 Read more and see pictures [**here**](http://www.weddingchicks.com/2013/04/23/rustic-autumn-wedding/)
+
+
+
+### Vendors
+
+**Photographer:** Staja Studios
+
+**Venue:** Little Log House Pioneer Village
+
+**Hair & Makeup:** Lisa Reinhardt
+
+**C ake & Caterer:** Deco Catering
+
+**Coordinator:** Simply Elegant Bridal Consulting
+
+**DJ:** Instant Request
+
+**Dress Designer:** Rush’s Bridal
+
+**Stationery:** Thru 79 Design
+
+**Prop or Furniture Rentals:** Antique Door Vintage Rentals
