@@ -99,7 +99,7 @@ sections:
           hideLabel: true
           defaultValue: Do you own an airbrush machine?
           options:
-            - New York
+            - 'Yes'
             - San Francisco
           isRequired: false
           width: full
