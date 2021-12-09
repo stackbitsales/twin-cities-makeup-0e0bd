@@ -109,7 +109,7 @@ sections:
           hideLabel: true
           defaultValue: Do you have experience working with brides?
           options:
-            - New York
+            - 'yes'
             - San Francisco
           isRequired: false
           width: full
