@@ -98,7 +98,6 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/raves.png
-          altText: Item image
         styles:
           title:
             textAlign: center
