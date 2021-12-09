@@ -4,7 +4,7 @@
     "h1": {
         "size": "4xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "tight"
     },
