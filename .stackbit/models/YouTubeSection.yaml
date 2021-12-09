@@ -1,5 +1,5 @@
 type: object
-name: VideoBlock
+name: YouTubeSection
 label: Video
 labelField: url
 fieldGroups:
