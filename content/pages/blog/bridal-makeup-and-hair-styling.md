@@ -12,8 +12,7 @@ bottomSections:
     customClass: ''
     images:
       - type: ImageBlock
-        url: >-
-          /images/twin-cities-makeup-bridal-artist.jpeg
+        url: /images/twin-cities-makeup-bridal-artist.jpeg
         altText: null
         caption: null
       - type: ImageBlock
@@ -32,8 +31,7 @@ bottomSections:
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/bridal-makeup-hair-artistry-photos/36-rebecca23.jpeg
+        url: /images/bridal-makeup-hair-artistry-photos/36-rebecca23.jpeg
         altText: null
         caption: null
       - type: ImageBlock
@@ -42,18 +40,15 @@ bottomSections:
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/bridal-makeup-hair-artistry-photos/34-megann1.jpeg
+        url: /images/bridal-makeup-hair-artistry-photos/34-megann1.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/bridal-makeup-hair-artistry-photos/37-reb.jpeg
+        url: /images/bridal-makeup-hair-artistry-photos/37-reb.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/bridal-makeup-hair-artistry-photos/56-prettybride.jpeg
+        url: /images/bridal-makeup-hair-artistry-photos/56-prettybride.jpeg
         altText: null
         caption: null
       - type: ImageBlock
@@ -86,7 +81,7 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-    type: MediaGallerySection        
+    type: MediaGallerySection
 layout: PostLayout
 excerpt: >-
   You deserve to look amazing on your wedding day. We want you to look and feel
@@ -112,5 +107,4 @@ We want you to look and feel beautiful for YOU, your Groom, your Guest and 
 
 [View Bridal Makeup & Hair Artistry Rates](/wedding-rates)
 
-[View more Bridal Makeup & Hair Photos](/bridal-makeup-hair-artistry-photos)
-
+[View more Bridal Makeup & Hair Photos](/blog/bridal-makeup-hair-artistry-photos)
