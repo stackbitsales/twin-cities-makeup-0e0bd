@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Special Event & Photo Session Makeup And Hair
   caption: ''
 bottomSections: []
 layout: PostLayout
