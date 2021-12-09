@@ -1,7 +1,10 @@
 ---
 title: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
 date: '2021-12-05'
-excerpt: Rachael and Elliot's Gorgeous St. Paul Minnesota Wedding!
+excerpt: >-
+  A little rain and a beautiful St. Paul location made for the perfect backdrop
+  for this Minnesota couple’s wedding day. Hair and makeup by Lisa Reinhardt and
+  her team.
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-bridal-hair-makeup-lisa-reinhardt.jpeg
