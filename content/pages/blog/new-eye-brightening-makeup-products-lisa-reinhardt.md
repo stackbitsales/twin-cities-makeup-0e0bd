@@ -6,7 +6,7 @@ excerpt: >-
   brightening pen, concealer(s) and blending brush with a video tutorial.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/eye-brightening-makeup.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
