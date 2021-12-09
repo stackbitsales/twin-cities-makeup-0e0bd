@@ -67,7 +67,7 @@ sections:
         title: Services
         featuredImage:
           type: ImageBlock
-          url: /images/Screen Shot 2021-12-08 at 10.43.42 PM.png
+          url: /images/services.png
           altText: Item image
         styles:
           title:
@@ -84,7 +84,7 @@ sections:
         title: Photos
         featuredImage:
           type: ImageBlock
-          url: /images/Screen Shot 2021-12-08 at 10.43.49 PM.png
+          url: /images/photos.png
           altText: Item image
         styles:
           title:
@@ -98,7 +98,7 @@ sections:
         title: Raves
         featuredImage:
           type: ImageBlock
-          url: /images/Screen Shot 2021-12-08 at 10.43.56 PM.png
+          url: /images/raves.png
           altText: Item image
         styles:
           title:
@@ -263,8 +263,8 @@ sections:
           team is that they work onsite. Lisa sent two of her team members to…"*
         image:
           type: ImageBlock
-          url: /images/Screen Shot 2021-12-08 at 10.03.49 PM.png
-          altText: Twin Cities Makeup Artist
+          url: /images/twin-cities-makeup-artist-lisa-reinhardt.png
+          altText: Twin Cities Makeup Artist Reinhardt
     styles:
       self:
         height: auto
