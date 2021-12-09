@@ -13,7 +13,57 @@ featuredImage:
   url: /images/Aga-and-John-Wedding-333x500.jpeg
   altText: Special Event & Photo Session Makeup And Hair
   caption: ''
-bottomSections: []
+bottomSections:
+  - colors: colors-a
+    elementId: ''
+    customClass: ''
+    images:
+      - type: ImageBlock
+        url: >-
+          /images/photoshoots/03-trash-the-dress-paint-5.jpeg
+        altText: null
+        caption: null
+      - type: ImageBlock
+        url: >-
+          /images/photoshoots/07-anaeli-glitter.jpeg
+        altText: null
+        caption: null
+      - type: ImageBlock
+        url: >-
+          /images/photoshoots/09-LR-1033.jpeg
+        altText: null
+        caption: null
+      - type: ImageBlock
+        url: >-
+          /images/photoshoots/12-itssmokinhotmodels-0954lg.jpeg
+        altText: null
+        caption: null
+    spacing: 1
+    columns: 4
+    aspectRatio: auto
+    imageSizePx: 350
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection        
 layout: PostLayout
 ---
 Makeup or hair styles will be customized to clients’ specific needs and request. Multiple looks can be done depending upon the type of photo session hired for. All hired makeup artists and hair stylists have been professionally trained to work specifically for print and/or film services.
