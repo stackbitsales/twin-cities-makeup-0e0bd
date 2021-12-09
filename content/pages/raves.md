@@ -45,6 +45,7 @@ sections:
       - content/pages/blog/lisa-made-look-natural.md
       - content/pages/blog/gorgeous-day-night-even-rain.md
       - content/pages/blog/amazing-3.md
+      - content/pages/blog/fabulous.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
