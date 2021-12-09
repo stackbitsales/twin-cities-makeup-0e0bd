@@ -4,7 +4,7 @@ date: '2021-11-13'
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-makeup-bridal-lisareinhardt.jpg
-  altText: Bridal Makeup & Hair
+  altText: Minnesota Bridal Makeup & Hair
   caption: ''
 bottomSections:
   - colors: colors-a
