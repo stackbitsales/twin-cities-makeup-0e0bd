@@ -98,6 +98,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/raves.png
+          altText: 'Twin Cities '
         styles:
           title:
             textAlign: center
