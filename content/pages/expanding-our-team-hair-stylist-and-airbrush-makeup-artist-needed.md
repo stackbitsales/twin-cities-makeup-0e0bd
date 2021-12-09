@@ -130,7 +130,7 @@ sections:
           defaultValue: 'Yes, I can provide links to an online gallery'
           options:
             - 'Yes, I can provide links to an online gallery'
-            - 'Yes, I can provide links to an online gallery'
+            - 'Yes, I have photos I can email'
           isRequired: false
           width: full
           type: SelectFormControl
