@@ -20,8 +20,7 @@ bottomSections:
         url: >-
           /images/bridal-makeup-hair-artistry-photos/2-wedding-makeup-hair-artist-twin-cities-makeup.jpeg
         altText: 
-        caption: 
-        
+        caption:         
     spacing: 1
     columns: 4
     aspectRatio: auto
