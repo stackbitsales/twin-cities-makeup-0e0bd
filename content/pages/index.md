@@ -67,6 +67,9 @@ sections:
             textAlign: center
           text:
             textAlign: center
+          self:
+            padding:
+              - pb-4
         link: /services
       - type: FeaturedItem
         title: Photos
