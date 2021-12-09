@@ -341,7 +341,7 @@ sections:
     backgroundSize: full
     actions:
       - type: Button
-        label: Try it now
+        label: View all reviewa
         url: /
         style: primary
       - type: Button
