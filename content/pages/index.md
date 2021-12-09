@@ -277,7 +277,7 @@ sections:
         label: Submit your review
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /contact
         style: link
       - label: View all reviews
         altText: ''
