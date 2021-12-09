@@ -159,7 +159,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/services.jpeg
+          url: /images/Screen Shot 2021-12-08 at 10.43.42 PM.png
           altText: Item image
         styles:
           title:
