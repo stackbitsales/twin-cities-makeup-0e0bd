@@ -4,6 +4,7 @@ export default function YouTubeSection(props) {
 
     let youTubeLink = props.url;
     let youTubeID;
+    let iframeLink;
 
     if (videoLink.includes('youtu.be')) {
         youTubeID = youTubeLink.split('.be/')[1];
