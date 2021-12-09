@@ -130,7 +130,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-9
+          - pl-1
           - pr-9
         justifyContent: center
         borderRadius: none
