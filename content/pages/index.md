@@ -341,13 +341,6 @@ sections:
     backgroundSize: full
     actions:
       - type: Button
-        label: View all reviews
-        url: /
-        style: secondary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
-      - type: Button
         label: Submit your review
         showIcon: true
         icon: arrowRight
