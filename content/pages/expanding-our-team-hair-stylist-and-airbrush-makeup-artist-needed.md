@@ -79,7 +79,7 @@ sections:
           hideLabel: false
           defaultValue: What position are you interested in?
           options:
-            - New York
+            - Makeup Artist
             - San Francisco
           isRequired: false
           width: full
