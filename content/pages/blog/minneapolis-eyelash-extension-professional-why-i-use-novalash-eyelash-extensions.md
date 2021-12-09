@@ -18,12 +18,15 @@ excerpt: >-
   plenty of research before I invested in training to become a certified Lash
   Extensionist.
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/novalash.jpeg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+I get lots of questions about the brand of products I use on my  eyelash extension clients. There are tons of lash extension competitors out there and, believe me, I did plenty of research before I invested in training to become a certified Lash Extensionist; which was over 3 years ago now! I decided that [Novalash](http://www.novalash.com/) was the only way to go based on their **client reviews and product ingredients**. I only use Novalash brand adhesive (Platinum Bond). It is medical grade, physician-formulated and does not contain formaldehyde. Novalash brand eyelash extensions are synthetic and come in a **variety of sizes, texture and colors**.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+![](/images/platinum-bond-adhesive-small-e1356121040579.jpeg)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Watch this: <http://www.youtube.com/watch?v=SuZhSgjWwXs>
+
+Check out: <http://www.novalash.com/why.html>
+
+![](/images/novalashchallenge.jpeg)
+
