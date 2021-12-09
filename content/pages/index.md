@@ -159,7 +159,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/Makeup 2.png
+          url: /images/services.jpeg
           altText: Item image
         styles:
           title:
