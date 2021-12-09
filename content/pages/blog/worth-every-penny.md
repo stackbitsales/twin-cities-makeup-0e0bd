@@ -1,11 +1,6 @@
 ---
 title: Love! Love! Love!
 date: '2021-09-19'
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 layout: PostLayout
 ---
