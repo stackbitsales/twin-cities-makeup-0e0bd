@@ -1,6 +1,6 @@
 ---
 title: Vintage Autumn Wedding/Rustic Autumn Wedding in Minnesota
-date: '2021-12-09'
+date: '2021-11-28'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
