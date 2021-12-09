@@ -6,7 +6,7 @@ export default function YouTubeSection(props) {
     let youTubeID;
     let iframeLink;
 
-    if (videoLink.includes('youtu.be')) {
+    if (youTubeLink.includes('youtu.be')) {
         youTubeID = youTubeLink.split('.be/')[1];
         youTubeID = youTubeID.split('?')[0];
     } else {
