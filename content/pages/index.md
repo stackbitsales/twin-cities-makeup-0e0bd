@@ -249,56 +249,6 @@ sections:
   - elementId: ''
     customClass: ''
     colors: colors-a
-    title: Meet Lisa
-    subtitle: ''
-    badge:
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-    text: >
-      Lisa Reinhardt has repeatedly been voted "Best Wedding & Hair Makeup
-      Artist in the Twin Cities area." Lisa and her team will travel anywhere in
-      Minnesota for wedding hair and makeup.
-    actions:
-      - type: Button
-        label: Read more
-        url: /contact
-        style: primary
-        altText: Read more
-    media:
-      type: ImageBlock
-      url: /images/Screen Shot 2021-12-08 at 10.03.49 PM.png
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-9
-          - pr-9
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    customClass: ''
-    colors: colors-a
     variant: variant-a
     title: ''
     subtitle: ''
