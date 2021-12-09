@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/eye-brightening-makeup.jpeg
-  altText: Post thumbnail image
+  altText: New Eye Brightening Makeup Products by Lisa Reinhardt
   caption: ''
 bottomSections: []
 layout: PostLayout
