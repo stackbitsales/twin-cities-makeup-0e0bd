@@ -103,6 +103,16 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
+        - name: city
+          label: City
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
       submitLabel: Send Message
     media: null
     styles:
