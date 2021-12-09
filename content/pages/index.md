@@ -91,10 +91,10 @@ sections:
             borderWidth: 0
             borderStyle: solid
             padding:
-              - pt-4
-              - pl-4
-              - pb-6
-              - pr-4
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
       - type: FeaturedItem
         title: Raves
         featuredImage:
