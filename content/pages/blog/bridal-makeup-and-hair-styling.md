@@ -98,7 +98,7 @@ excerpt: >-
   and have fun. We guarantee that everyone will be ready on time and looking
   fabulous for pictures.
 ---
-![](/images/bridal-makeup-hair-artistry-photos/minneapolis-wedding-hair-styles-0236.jpeg)
+![](/images/minneapolis-wedding-hair-styles-0236.jpeg)
 
 We pride ourselves in our **professional experience** and want the best for all of our Minnesota brides! You deserve to look amazing on your wedding day and that includes having **bridal makeup and hair to remember**!
 
