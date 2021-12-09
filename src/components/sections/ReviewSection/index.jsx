@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function ReviewSection(props) {
+export default function SubmitReviewsSection(props) {
 
     return (
         <div className="flex justify-center">
