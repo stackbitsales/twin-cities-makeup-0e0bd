@@ -16,12 +16,27 @@ featuredImage:
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Makeup or hair styles will be customized to clients’ specific needs and request. Multiple looks can be done depending upon the type of photo session hired for. All hired makeup artists and hair stylists have been professionally trained to work specifically for print and/or film services.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+![](/images/Jeannine-Marie-Photography-0052TT-683x1024.png)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Includes, but not limited to, talent head shots, portfolio work, senior portraits, engagement and maternity sessions, pageantry, prom, trash the dress, boudoir looks, commercials and videos. Makeup or hair looks will be customized to clients’ specific needs and multiple looks can be done depending upon request.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Rates for specialized services:**
+
+*   Makeup & Hair Styling (on-site) $300 \**plus any parking or travel fees \*\*any additional looks $100 *
+
+*   Makeup & Hair Styling (in-studio) $165 *\*additional fees will apply for false lashes (add $15) and airbrush* (add $15)*                              *
+
+**Production Rates:**
+
+*   Day Rate (up to 8hrs) $800
+
+*   Each additional hour $100
+
+*   Half-Day rate (up to 5 hrs) $575
+
+
+
+[*View more photoshoot pictures*](https://www.twincitiesmakeup.com/photos/photoshoots/)
+
