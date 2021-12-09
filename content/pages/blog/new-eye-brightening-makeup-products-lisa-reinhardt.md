@@ -13,12 +13,36 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/eye-brightening-makeup.jpeg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+We’re super excited to introduce **Lisa Reinhardt’s NEW Eye Brightening makeup product line**! I wanted products that were universal for all women, regardless of age or skin tone. As a full-time makeup artist, I hear almost every client say, “Can you do something about these circles?” So, I did! I put together an **under-eye brightening pen, concealer(s) and blending brush** that is easy to add to your morning makeup routine without adding a ton of extra time…with immediate results. The best part is there is a [**video tutorial link**](https://www.youtube.com/channel/UCJDX-9B-dC2NDvjG0S2tTQg/feed) in every package to learn how to take these products home and actually use them! I hate buying products in-store, getting home, and totally forgetting how to use them.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+[Contact Lisa for purchasing and color matching today!](https://www.twincitiesmakeup.com/contact/)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+![](/images/eye-brightening-makeup-lisa-reinhardt.jpeg)
+
+Check out my [**makeup tutorial video**](https://www.youtube.com/channel/UCJDX-9B-dC2NDvjG0S2tTQg/feed) to see what I am talking about!
+
+### Youthful Mineral Illuminator~ $15
+
+This photo-reflective pink pen hides under-eye imperfections! One click of this must have product will instantly brighten up tired eyes and neutralize dark shadows.
+
+### Action Concealer~ $15
+
+A full coverage concealer that will ultimately brighten and gradually improve the skins texture, all the while banishing dark circles!
+
+### Photo Touch Concealer~ $13
+
+Camouflage blemishes, fine lines, and dark circles. Comes in a handy stick for touch ups on-the-go.
+
+### Synthetic Blending Brush~ $20
+
+Soft synthetic brush for precise blending…each and every time.
+
+![](/images/eye-brightening-makeup-products.jpeg)
+
+## [Contact Lisa for purchasing and color matching today!](http://tcmakeup.staging.wpengine.com/contact/)
+
+*\*\*All booked brides and current Eyelash Extension clients will receive 10% off products.*
+
+##
