@@ -139,7 +139,7 @@ sections:
         padding:
           - pt-32
           - pb-12
-          - pl-6
+          - pl-5
           - pr-5
         justifyContent: center
         borderRadius: none
