@@ -10,7 +10,7 @@ fields:
     name: url
     label: Video URL
     description: https://www.youtube.com/watch?v=N56oSDjRes4
-    default: 'https://assets.stackbit.com/components/videos/default/stackbit-for-marketers.mp4'
+    default: 'https://www.youtube.com/watch?v=N56oSDjRes4'
   - type: image
     name: thumbnailUrl
     label: Video thumbnail
