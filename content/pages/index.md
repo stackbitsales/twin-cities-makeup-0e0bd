@@ -179,7 +179,7 @@ sections:
           - pt-0
           - pb-0
           - pl-9
-          - pr-0
+          - pr-9
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
