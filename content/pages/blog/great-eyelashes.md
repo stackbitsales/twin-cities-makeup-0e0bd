@@ -7,12 +7,8 @@ excerpt: >-
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+I found Lisa by looking online at reviews, and I am so glad I did because she was as great as everyone says! I loved my wedding makeup and hair!! I also got eyelash extensions from her the week of, and they were the best thing I could have done, they looked fabulous on my honeymoon in st lucia and saved me tons of time by not having to wear much makeup there.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Lisa and her crew took care of myself, my 9 bridesmaids, my personal attendant and my mom. We all did airbrush makeup and it looked flawless all night. We did photos before our wedding ceremony so I was nervous about how my hair and makeup would look by the dance, but it was still flawless. A consultation was also included in my package to make sure I had the exact look I wanted for my big day. On top of it all Lisa is such a sweetheart. I would refer her any day!
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Lindsey Nov 2014
