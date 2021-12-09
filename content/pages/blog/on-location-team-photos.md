@@ -4,7 +4,7 @@ date: '2021-11-12'
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-bridal-hair-lisareinhardt.jpg
-  altText: Lisa's Beauty Team
+  altText: Minnesota Lisa's Beauty Team
   caption: ''
 bottomSections:
   - colors: colors-a
