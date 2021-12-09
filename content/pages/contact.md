@@ -86,6 +86,16 @@ sections:
           type: SelectFormControl
           defaultValue: Reason for contact?
           label: Reason for contact?
+        - name: service-type
+          label: Type of Service
+          hideLabel: true
+          defaultValue: Type of service?
+          options:
+            - Wedding
+            - Other
+          isRequired: false
+          width: full
+          type: SelectFormControl
         - type: TextFormControl
           name: date-of-service
           placeholder: Date of service
@@ -103,16 +113,6 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
-        - name: service-type
-          label: Type of Service
-          hideLabel: true
-          defaultValue: Type of service?
-          options:
-            - Wedding
-            - Other
-          isRequired: false
-          width: full
-          type: SelectFormControl
       submitLabel: Send Message
     media: null
     styles:
