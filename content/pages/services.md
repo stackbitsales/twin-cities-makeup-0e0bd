@@ -262,7 +262,7 @@ sections:
     actions:
       - type: Button
         label: View more
-        url: /hair-services
+        url: /blog/hair-services
         style: primary
         showIcon: true
         icon: arrowRight
