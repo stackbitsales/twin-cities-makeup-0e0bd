@@ -284,7 +284,7 @@ sections:
           - pl-4
           - pr-4
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: col
       title:
         textAlign: left
