@@ -1,6 +1,6 @@
 type: object
 name: YouTubeSection
-label: Video
+label: YouTube Video
 labelField: url
 fieldGroups:
   - name: settings
