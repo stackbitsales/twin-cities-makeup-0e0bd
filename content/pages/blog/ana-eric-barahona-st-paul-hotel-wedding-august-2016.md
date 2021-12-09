@@ -16,7 +16,7 @@ Lisa and her two senior hair stylists Melanie and Trish met the bride, Ana, a
 
 ![](/images/st-paul-wedding-lisa-reinhardt6.jpeg)
 
-Lisa, Melanie, and the bride had the [wedding day consultation](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/) only five days prior to the wedding day because she was an out of town bride. No worries though because she was thrilled with the results and excited to see us that weekend for her wedding day.
+Lisa, Melanie, and the bride had the [wedding day consultation](/bridal-makeup-and-hair-styling) only five days prior to the wedding day because she was an out of town bride. No worries though because she was thrilled with the results and excited to see us that weekend for her wedding day.
 
 ![](/images/st-paul-wedding-lisa-reinhardt1.jpeg)
 
@@ -24,7 +24,7 @@ Ana requested a very natural look for her complexion with focus on brightening h
 
 ![](/images/st-paul-wedding-lisa-reinhardt3.jpeg)
 
-Since Ana’s dress was elaborate she wanted more of a [classic bridal hair style](https://www.twincitiesmakeup.com/photos/bridal-makeup-hair-artistry-photos/) to compliment the dress and the overall elegance of her wedding. Senior hair stylist Melanie styled a standard low chignon and added overlapping twist pulled from both sides, incorporating the twist into the back of the hair style. Some of the bridal party requested braids combined into a loose updo and most wanted a effortless low updo with textured curls.
+Since Ana’s dress was elaborate she wanted more of a [classic bridal hair style](/bridal-makeup-hair-artistry-photos) to compliment the dress and the overall elegance of her wedding. Senior hair stylist Melanie styled a standard low chignon and added overlapping twist pulled from both sides, incorporating the twist into the back of the hair style. Some of the bridal party requested braids combined into a loose updo and most wanted a effortless low updo with textured curls.
 
 ![](/images/st-paul-wedding-lisa-reinhardt5.jpeg)
 
@@ -46,7 +46,7 @@ These girls looked gorgeous and looked like they had a blast at this wedding. Co
 
 *   **Bridesmaids Dresses:** [David’s Bridal](http://www.davidsbridal.com/)
 
-*   **Tuxes: **[The Wedding Shoppe](http://www.weddingshoppeinc.com/)
+*   \*\*Tuxes: \*\*[The Wedding Shoppe](http://www.weddingshoppeinc.com/)
 
 *   **Ceremony:** [The Chapel of St. Thomas Aquinas](https://www.stthomas.edu/campusministry/liturgyworship/chapels/thechapelofstthomasaquinas/)
 
