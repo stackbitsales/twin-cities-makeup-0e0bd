@@ -31,27 +31,27 @@ bottomSections:
           /images/photoshoots/04-LR-1090.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/05-Devon-Solorow-Close-Up-SC7.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/06-LR-1070.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/07-anaeli-glitter.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/08-LR-1058.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/09-LR-1033.jpeg
         altText: 
