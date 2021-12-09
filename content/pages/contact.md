@@ -67,6 +67,7 @@ sections:
           isRequired: true
           width: 1/2
           label: Your email address
+          hideLabel: true
         - name: email
           hideLabel: false
           placeholder: Your email address
