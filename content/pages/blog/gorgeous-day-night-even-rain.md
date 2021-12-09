@@ -8,7 +8,7 @@ excerpt: >-
   New makeup products that I fell in love with and I loved being airbrushed. My
   hair was amazing. It stayed gorgeous all day and night, even through out the
   rain… Thank you so much Lisa Reinhardt Makeup & Hair Artistry for making my
-  fairytale wedding come true.
+  fairytale wedding come true."
 
 
   – Jess, June 2014 wedding, from weddingwire.com
