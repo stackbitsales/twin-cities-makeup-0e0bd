@@ -21,12 +21,12 @@ bottomSections:
           /images/photoshoots/02-reb.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/03-trash-the-dress-paint-5.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/04-LR-1090.jpeg
         altText: 
