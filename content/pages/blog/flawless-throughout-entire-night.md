@@ -1,6 +1,6 @@
 ---
 title: Fantastic Hair and Makeup
-date: '2021-12-09'
+date: '2021-09-09'
 excerpt: >-
   Lisa and her team did a fantastic job on our wedding day hair and Makeup. Not
   only did they bring to life our expectations, but they also came to our bridal
