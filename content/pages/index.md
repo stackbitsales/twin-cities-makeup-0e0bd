@@ -175,7 +175,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/smarter.svg
+          url: /images/Screen Shot 2021-12-08 at 10.43.49 PM.png
           altText: Item image
         styles:
           title:
