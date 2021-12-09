@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/bridal-beauty1.jpeg
-  altText: Post thumbnail image
+  altText: Pre-Wedding Checklist - Bridal Beauty Products
   caption: ''
 bottomSections: []
 layout: PostLayout
