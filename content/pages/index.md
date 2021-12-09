@@ -70,10 +70,10 @@ sections:
             borderWidth: 0
             borderStyle: solid
             padding:
-              - pt-4
-              - pl-4
-              - pb-6
-              - pr-4
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
       - type: FeaturedItem
         title: Photos
         featuredImage:
@@ -131,7 +131,7 @@ sections:
           - pt-8
           - pb-8
           - pl-0
-          - pr-0
+          - pr-9
         justifyContent: center
         borderRadius: none
         borderWidth: 0
