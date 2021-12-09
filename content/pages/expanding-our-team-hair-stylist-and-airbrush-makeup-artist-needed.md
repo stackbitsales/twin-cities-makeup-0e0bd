@@ -143,7 +143,7 @@ sections:
           type: TextareaFormControl
         - name: description
           label: Description
-          hideLabel: false
+          hideLabel: true
           placeholder: Please describe
           isRequired: false
           width: full
