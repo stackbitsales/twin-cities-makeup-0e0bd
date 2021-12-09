@@ -60,6 +60,7 @@ sections:
           isRequired: true
           width: 1/2
           label: Your first name
+          hideLabel: true
         - name: last-name
           hideLabel: false
           placeholder: Your last name
