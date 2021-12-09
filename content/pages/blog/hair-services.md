@@ -2,8 +2,10 @@
 title: Hair Services
 date: '2021-08-28'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Whether the desired hair style is classic or modern, glamorous or romantic, we
+  will incorporate your ideas to create your own personalized look. Stylist on
+  the team are experienced and talented in all ethnicities, professionally
+  trained and certified.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
