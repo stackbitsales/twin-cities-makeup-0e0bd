@@ -40,8 +40,8 @@ sections:
       - >-
         content/pages/blog/highly-recommend-site-services-lisas-makeup-artistry.md
       - content/pages/blog/great-team-women-work.md
-      - content/pages/blog/lisa-team-great.md
       - content/pages/blog/i-felt-so-beautiful.md
+      - content/pages/blog/lisa-team-great.md
       - content/pages/blog/lisa-made-look-natural.md
       - content/pages/blog/gorgeous-day-night-even-rain.md
       - content/pages/blog/amazing-3.md
