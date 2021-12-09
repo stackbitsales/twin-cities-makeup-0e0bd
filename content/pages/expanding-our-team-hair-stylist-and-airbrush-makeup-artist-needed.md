@@ -41,7 +41,7 @@ sections:
     colors: colors-h
     quote: |
       ## Expanding Our Team
-    name: Carla Rogers
+    name: Now seeking experienced hair stylists and makeup artists
     title: Someone from the team
     styles:
       self:
