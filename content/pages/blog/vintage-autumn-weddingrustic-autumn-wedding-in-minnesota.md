@@ -8,7 +8,7 @@ excerpt: >-
   were all done by Lisa.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/lisa-reinhardt-bridal-makeup.jpeg
   caption: ''
 bottomSections: []
 layout: PostLayout
