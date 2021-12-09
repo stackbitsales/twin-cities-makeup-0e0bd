@@ -10,6 +10,7 @@ export default function SubmitReviewsSection(props) {
             <a href="" target="_blank">
             <img className="mr-10" src="/images/weddingwire-logo.jpeg"></img>
             </a>
+            <a href="" target="_blank">
             <img className="" src="/images/facebook-logo.jpeg"></img>
             </a>
         </div>
