@@ -2,8 +2,10 @@
 title: Pre-Wedding Checklist - Bridal Beauty Products
 date: '2021-11-26'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Pre-Wedding Checklist! Face it Brides you want your skin and body to be
+  radiant on your big day! So start your prep now! The earlier the better; even
+  if you’re a Spring bride it is not too late! IF you’re a summer bride, you
+  have no excuse! Here are a few products that you absolutely must try.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
