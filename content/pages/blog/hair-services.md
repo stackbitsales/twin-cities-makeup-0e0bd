@@ -60,11 +60,10 @@ IMAGE
 
 **We often suggest clip in hair extensions.** This gives you the appearance of longer thicker, fuller hair without the high expense and possible hair breakage of typical bonded hair extensions. Clip-In Extensions add extra volume without the commitment of fused or panel hair extensions. Hair can be curled, cut/colored, flat-ironed, styled into an up-do, half up or left all down . The possibilities are endless and hair can easily be removed after when day is over! *\*\*additional fees do apply for the placement of clip-in extensions*
 
-\*View more \*[*hairstyle photos…*](/blog/bridal-makeup-hair-artistry-photos)
+[*View more hairstyle photos…*](/blog/bridal-makeup-hair-artistry-photos)
 
 *Keep in mind that over 75% of the bridal hair photos from Pinterest that we see, already have the clip-in hair extensions to achieve the admired style.*
 
 ![](/images/minneapolis-bridal-makeup2-twincitiesmakeup.jpg)
 
 ![](/images/St-Paul-College-Club-Laurel-Brian-hair.jpeg)
-
