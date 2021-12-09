@@ -1,6 +1,7 @@
 ---
 title: Raves
 sections:
+  - type: SubmitReviewsSection
   - elementId: ''
     customClass: ''
     showDate: false
