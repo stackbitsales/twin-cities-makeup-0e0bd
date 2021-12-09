@@ -29,7 +29,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Photos
     colors: colors-h
     posts:
       - content/pages/blog/bridal-makeup-hair-artistry-photos.md
