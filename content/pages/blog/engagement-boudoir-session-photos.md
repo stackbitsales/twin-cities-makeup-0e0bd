@@ -13,7 +13,7 @@ bottomSections:
     images:
     - type: ImageBlock
         url: >-
-          '/images/engagement-boudoir-session-photos/01-mckenzie.jpeg
+          /images/engagement-boudoir-session-photos/01-mckenzie.jpeg
         altText: 
         caption: 
     - type: ImageBlock
