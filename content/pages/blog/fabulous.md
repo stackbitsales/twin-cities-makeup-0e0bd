@@ -7,7 +7,7 @@ excerpt: >-
   questions and changes and they were patient and accommodating. Everyone in our
   bridal party and my Mom and my husband’s Mom looked so beautiful. Hair and
   makeup lasted until the end of the night and looked flawless. I felt confident
-  and beautiful on my wedding day. A+
+  and beautiful on my wedding day. A+"
 
 
   – Heather, 10/15/16, from WeddingWire.com
