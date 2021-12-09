@@ -111,7 +111,7 @@ sections:
           options:
             - 'Yes'
             - 'No'
-          isRequired: false
+          isRequired: true
           width: full
           type: SelectFormControl
         - name: available-on-saturdays
