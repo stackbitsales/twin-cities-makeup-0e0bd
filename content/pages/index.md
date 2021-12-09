@@ -198,7 +198,7 @@ sections:
         altText: The Knot's Best of Weddings Hall of Fame Wedding
       - type: ImageBlock
         url: /images/WeddingWire-Couples-Choice-Award-2016.png
-        altText: Wedding Wire Couples' Choice Award 2016
+        altText: WeddingWire Couples' Choice Award 2016
       - type: ImageBlock
         url: /images/WeddingWire-Couples-Choice-Award-2014.jpg
         altText: Wedding Wire Couples' Choice Award 2014
