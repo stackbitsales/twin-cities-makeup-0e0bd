@@ -135,7 +135,7 @@ sections:
           - mt-0
           - mb-0
           - ml-9
-          - mr-0
+          - mr-9
         padding:
           - pt-32
           - pb-12
