@@ -201,7 +201,7 @@ sections:
         altText: WeddingWire Couples' Choice Award 2016
       - type: ImageBlock
         url: /images/WeddingWire-Couples-Choice-Award-2014.jpg
-        altText: Wedding Wire Couples' Choice Award 2014
+        altText: WeddingWire Couples' Choice Award 2014
       - type: ImageBlock
         url: /images/WeddingWire-Couples-Choice-Award-2013.jpg
         altText: Wedding Wire Couples' Choice Award 2013
