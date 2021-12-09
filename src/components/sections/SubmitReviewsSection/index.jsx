@@ -10,7 +10,7 @@ export default function SubmitReviewsSection(props) {
             <a href="https://www.weddingwire.com/reviews/lisa-reinhardt-makeup-hair-artistry-llc-roseville/954f301ec297f2d0.html" target="_blank">
                 <img className="mr-10" src="/images/weddingwire-logo.jpeg"></img>
             </a>
-            <a href="" target="_blank">
+            <a href="http://www.facebook.com/pages/Lisa-Reinhardt-Makeup-Hair-Artistry-LLC/284684804885522" target="_blank">
                 <img className="" src="/images/facebook-logo.jpeg"></img>
             </a>
         </div>
