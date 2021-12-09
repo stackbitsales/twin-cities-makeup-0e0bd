@@ -66,6 +66,7 @@ sections:
           placeholder: Your phone number
           isRequired: true
           width: 1/2
+          label: Your email address
         - name: email
           hideLabel: false
           placeholder: Your email address
