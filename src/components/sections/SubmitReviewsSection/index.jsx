@@ -6,6 +6,7 @@ export default function SubmitReviewsSection(props) {
         <div className="flex justify-center">
             <p>theknot-logo.jpeg</p>
             <p>weddingwire-logo.jpeg</p>
+            <p>weddingwire-logo.jpeg</p>
         </div>
     );
 }
