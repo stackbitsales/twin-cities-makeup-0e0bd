@@ -81,6 +81,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        link: /photos
       - type: FeaturedItem
         title: Raves
         featuredImage:
