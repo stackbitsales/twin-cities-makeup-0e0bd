@@ -2,8 +2,10 @@
 title: Lisa And Her Team Were So Amazing!
 date: '2021-09-26'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  "Lisa and her team were so amazing! Lisa did eyelash extensions the week of my
+  wedding, I can’t recommend these enough! They were perfect for the honeymoon
+  and I thought I’d only want them once but now I’m hooked! The other girls are
+  also amazing. Everyone in the wedding party."
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
