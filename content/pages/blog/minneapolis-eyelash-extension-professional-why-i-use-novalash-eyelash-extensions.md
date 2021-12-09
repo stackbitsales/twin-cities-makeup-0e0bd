@@ -5,7 +5,7 @@ title: >-
 date: '2021-11-24'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/novalash.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
