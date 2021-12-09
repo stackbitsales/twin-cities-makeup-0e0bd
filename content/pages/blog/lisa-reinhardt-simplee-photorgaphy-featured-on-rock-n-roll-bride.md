@@ -13,12 +13,24 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/twisted.jpeg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+“Twisty Tree Roots on the bank of a River” featured on Rock N Roll Bride – Hair & Makeup by Lisa Reinhardt …
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+
+“Tree Roots on a River Bank” styled photo shoot was also featured on Love and Lavender-A Wedding Blog  in March! How cool is that?
+
+<http://www.loveandlavender.com/2013/03/tree-roots-on-a-river-bank/>
+
+Also, published in Mozi Magazine for their May issue!  A photography magazine packed with inspiration and education for the modern photographer.
+
+<http://www.mozi-mag.com/>
+
+Kelsea Fehlen photographer and owner of Simplee Photography amazes me every time we work together with her creativity and unique ways she finds her inspiration. LOVE love her work! [www.simpleephotography.com](http://www.simpleephotography.com/). Fine art wedding and lifestyle portraiture, servicing areas in Minnesota and Wisconsin.
+
+We worked a Bridal Styling Photoshoot with Kelsea. We decided that a natural complexion with light airbrush makeup, bold eyes, delicate lips and simple hair pinning would be best for the outdoor location. It turned out gorgeous! The location was Hidden Falls Regional Park in St. Paul, MN.  A secret gem :) Kelsea submitted the photos to [Rock and Roll Bride.Com](http://www.rocknrollbride.com/2012/11/twisty-tree-roots-on-the-banks-of-a-river/) and they decided to feature it last month on their website! Project was called, [“Twisty Tree Roots on the bank of a River”](http://www.rocknrollbride.com/2012/11/twisty-tree-roots-on-the-banks-of-a-river/). Yay! Very excited to be part of this cool project! Follow this [link](http://www.rocknrollbride.com/2012/11/twisty-tree-roots-on-the-banks-of-a-river/) and check it out! I must mention, the model Rebekah Ford is a insanely beautiful women! I could not stop staring at her…stunning!
+
+These photos are currently also the featured blog for March on <http://www.loveandlavender.com/>. The vintage lace dress, the masks, and the overall feeling from this styled session sent chills (the good kind) down our backs. We can’t get enough of this river bank shoot….is what they are saying on the Love and Lavender website. Go check it out!
+
+These photos were also featured on Rock n Roll Bride website in March <http://www.rocknrollbride.com/2012/11/twisty-tree-roots-on-the-banks-of-a-river/>
