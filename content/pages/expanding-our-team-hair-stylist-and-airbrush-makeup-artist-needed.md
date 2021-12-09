@@ -64,7 +64,7 @@ sections:
           isRequired: 'true'
           width: 1/2
         - name: phone
-          hideLabel: false
+          hideLabel: true
           placeholder: Your home address
           isRequired: false
           width: full
