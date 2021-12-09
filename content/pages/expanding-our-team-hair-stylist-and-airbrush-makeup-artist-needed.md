@@ -107,7 +107,7 @@ sections:
         - name: experience-with-brides
           label: Do you have experience working with brides?
           hideLabel: true
-          defaultValue: Please choose...
+          defaultValue: Do you have experience working with brides?
           options:
             - New York
             - San Francisco
