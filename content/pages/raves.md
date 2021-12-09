@@ -47,6 +47,7 @@ sections:
       - content/pages/blog/amazing-3.md
       - content/pages/blog/fabulous.md
       - content/pages/blog/unforgettable-2.md
+      - content/pages/blog/great-eyelashes.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
