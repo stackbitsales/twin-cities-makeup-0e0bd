@@ -28,7 +28,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/minnesota-makeup-artist-scaled-arch.png
-      altText: Minnesota wedding
+      altText: Minnesota wedding makeup artist
       caption: Image caption
     styles:
       self:
