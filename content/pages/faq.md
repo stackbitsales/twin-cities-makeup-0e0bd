@@ -140,7 +140,7 @@ sections:
           - pt-32
           - pb-12
           - pl-6
-          - pr-4
+          - pr-6
         justifyContent: center
         borderRadius: none
         borderWidth: 0
