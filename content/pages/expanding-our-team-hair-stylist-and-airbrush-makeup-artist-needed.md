@@ -31,7 +31,7 @@ sections:
     title: Now seeking experienced hair stylists and makeup artists
     subtitle: ''
     badge:
-      label: This is the badge
+      label: Expanding Our team
       elementId: ''
       styles:
         self:
