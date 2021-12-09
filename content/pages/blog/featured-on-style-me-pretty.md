@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: We're Featured On Style Me Pretty!
   caption: ''
 bottomSections: []
 layout: PostLayout
