@@ -105,7 +105,7 @@ sections:
           type: TextFormControl
         - name: service-type
           label: Type of Service
-          hideLabel: false
+          hideLabel: true
           defaultValue: Please choose...
           options:
             - New York
