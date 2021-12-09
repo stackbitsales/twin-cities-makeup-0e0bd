@@ -5,7 +5,7 @@ sections:
     customClass: ''
     showDate: false
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     variant: variant-a
     actions: []
     styles:
