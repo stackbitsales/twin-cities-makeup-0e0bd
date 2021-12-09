@@ -1,5 +1,5 @@
 ---
-title: Minneapolis New Year's eve wedding | Bridal Makeup
+title: Minneapolis New Year's Eve Wedding | Bridal Makeup
 layout: PostLayout
 date: '2021-12-08'
 excerpt: >-
