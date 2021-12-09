@@ -85,7 +85,7 @@ sections:
           width: full
           type: SelectFormControl
         - name: city
-          label: City
+          label: Do you have airbrushing experience?
           hideLabel: false
           defaultValue: Please choose...
           options:
