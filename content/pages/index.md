@@ -304,7 +304,7 @@ sections:
     subtitle: ''
     testimonials:
       - quote: >
-          #### Meet Lisa
+          #### **Meet Lisa**
 
 
           #### Lisa Reinhardt has repeatedly been voted "Best Wedding & Hair
