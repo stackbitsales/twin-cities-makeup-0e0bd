@@ -42,6 +42,7 @@ sections:
       - content/pages/blog/great-team-women-work.md
       - content/pages/blog/lisa-team-great.md
       - content/pages/blog/i-felt-so-beautiful.md
+      - content/pages/blog/lisa-made-look-natural.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
