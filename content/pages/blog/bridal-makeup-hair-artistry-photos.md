@@ -13,12 +13,12 @@ bottomSections:
     images:
       - type: ImageBlock
         url: >-
-          /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
+          /images/bridal-makeup-hair-artistry-photos/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image_one
         caption: 
       - type: ImageBlock
         url: >-
-          /images/bridal-makeup-hair/2-wedding-makeup-hair-artist-twin-cities-makeup.jpeg
+          /images/bridal-makeup-hair-artistry-photos/2-wedding-makeup-hair-artist-twin-cities-makeup.jpeg
         altText: Image_one
         caption: 
     spacing: 1
