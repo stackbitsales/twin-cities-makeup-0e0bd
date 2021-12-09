@@ -74,6 +74,7 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+          label: Your phone number
         - name: reason-for-contact
           hideLabel: false
           options:
