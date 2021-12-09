@@ -28,36 +28,38 @@ export default function FeaturedItem(props) {
                 borderWidth: itemBorderWidth ? `${itemBorderWidth}px` : undefined
             }}
             data-sb-field-path={props['data-sb-field-path']}>
-            {props.featuredImage && (
-                <div className="mb-6" data-sb-field-path=".featuredImage">
-                    <ImageBlock {...props.featuredImage} className="inline-block" />
-                </div>
-            )}
-            {props.title && (
-                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                    {props.title}
-                </h3>
-            )}
-            {props.subtitle && (
-                <p
-                    className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': props.title })}
-                    data-sb-field-path=".subtitle"
-                >
-                    {props.subtitle}
-                </p>
-            )}
-            {props.text && (
-                <Markdown
-                    options={{ forceBlock: true, forceWrapper: true }}
-                    className={classNames('sb-markdown', {
-                        'mt-4': props.title || props.subtitle
-                    })}
-                    data-sb-field-path=".text"
-                >
-                    {props.text}
-                </Markdown>
-            )}
-            {itemActions(props)}
+            <a href={props.link}>
+                {props.featuredImage && (
+                    <div className="mb-6" data-sb-field-path=".featuredImage">
+                        <ImageBlock {...props.featuredImage} className="inline-block" />
+                    </div>
+                )}
+                {props.title && (
+                    <h3 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                        {props.title}
+                    </h3>
+                )}
+                {props.subtitle && (
+                    <p
+                        className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': props.title })}
+                        data-sb-field-path=".subtitle"
+                    >
+                        {props.subtitle}
+                    </p>
+                )}
+                {props.text && (
+                    <Markdown
+                        options={{ forceBlock: true, forceWrapper: true }}
+                        className={classNames('sb-markdown', {
+                            'mt-4': props.title || props.subtitle
+                        })}
+                        data-sb-field-path=".text"
+                    >
+                        {props.text}
+                    </Markdown>
+                )}
+                {itemActions(props)}
+            </a>
         </article>
     );
 }
@@ -82,7 +84,7 @@ function itemActions(props) {
                 data-sb-field-path=".actions"
             >
                 {actions.map((action, index) => (
-                    <Action key={index} {...action} className="mb-3 mx-2 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
+                    <Action key={index} {...action} className="mx-2 mb-3 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
                 ))}
             </div>
         </div>
