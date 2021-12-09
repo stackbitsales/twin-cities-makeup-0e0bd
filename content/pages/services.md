@@ -91,7 +91,7 @@ sections:
     actions:
       - type: Button
         label: View more
-        url: blog/bridal-makeup-and-hair-styling/
+        url: /blog/bridal-makeup-and-hair-styling/
         style: primary
         showIcon: true
         icon: arrowRight
