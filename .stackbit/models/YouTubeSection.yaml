@@ -11,30 +11,3 @@ fields:
     label: Video URL
     description: https://www.youtube.com/watch?v=N56oSDjRes4
     default: 'https://www.youtube.com/watch?v=N56oSDjRes4'
-  - type: image
-    name: thumbnailUrl
-    label: Video thumbnail
-    description: The URL of the video thumbnail
-    default: 'https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg'
-  - type: boolean
-    name: autoplay
-    label: Autoplay
-    default: false
-  - type: boolean
-    name: loop
-    label: Loop
-    default: false
-  - type: boolean
-    name: muted
-    label: Muted
-    default: false
-  - type: boolean
-    name: controls
-    label: Controls
-    default: true
-  - type: string
-    name: elementId
-    group: settings
-    label: Element ID
-    description: The unique ID for an HTML element, must not contain whitespace
-    default: ''
