@@ -142,7 +142,7 @@ sections:
           - pl-5
           - pr-5
         justifyContent: center
-        borderRadius: none
+        borderRadius: xx-large
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
