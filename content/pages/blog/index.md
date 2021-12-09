@@ -16,6 +16,8 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+      margin:
+        - ml-9
 styles:
   title:
     textAlign: center
