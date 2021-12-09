@@ -6,11 +6,11 @@ export default function VideoSection(props) {
     let youTubeID;
 
     if (videoLink.includes('youtu.be')) {
-            youTubeID = videoLink.split('.be/')[1];
-            youTubeID = youTubeID.split('?')[0];
-        } else {
-            youTubeID = videoLink.split('v=')[1];
-        }
+        youTubeID = videoLink.split('.be/')[1];
+        youTubeID = youTubeID.split('?')[0];
+    } else {
+        youTubeID = videoLink.split('v=')[1];
+    }
 
     return (
         <div className="flex justify-center">
