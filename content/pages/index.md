@@ -191,7 +191,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/Screen Shot 2021-12-08 at 10.43.56 PM.png
           altText: Item image
         styles:
           title:
