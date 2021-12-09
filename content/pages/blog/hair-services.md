@@ -68,4 +68,3 @@ IMAGE
 
 ![](/images/St-Paul-College-Club-Laurel-Brian-hair.jpeg)
 
-IMAGE
