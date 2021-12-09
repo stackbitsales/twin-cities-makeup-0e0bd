@@ -7,7 +7,6 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/video-makeup-tutorials.jpeg
-  altText: Post thumbnail image
   caption: ''
 bottomSections: []
 layout: PostLayout
