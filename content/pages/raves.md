@@ -30,7 +30,9 @@ sections:
       actions:
         justifyContent: center
     title: Raves for Lisa Reinhardt
-    subtitle: Featured blog posts section example
+    subtitle: >-
+      Have a testimonial you'd like to share for Lisa Reinhardt Makeup &
+      Artistry? We have multiple ways to submit your review…
     colors: colors-a
     posts: []
     type: FeaturedPostsSection
