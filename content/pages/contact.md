@@ -116,6 +116,7 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
+          label: How did you hear about us
       submitLabel: Send Message
     media: null
     styles:
