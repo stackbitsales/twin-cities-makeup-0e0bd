@@ -130,7 +130,7 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "Home"
             },
             {
                 "type": "Link",
