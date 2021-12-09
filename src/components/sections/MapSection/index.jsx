@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { getDataAttrs } from '../../../utils/get-data-attrs';
 
 export default function MapSection(props) {
 
