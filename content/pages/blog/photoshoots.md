@@ -76,22 +76,22 @@ bottomSections:
           /images/photoshoots/13-trash-the-dress-paint-3.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/14-itssmokinhotmodels-0864lg.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/15-smp-blog-feature-2.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/16-itssmokinhotmodels-0864lg.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/photoshoots/17-itssmokinhotmodels-0793lg.jpeg
         altText: 
