@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/bridalparty.jpeg
-  altText: Post thumbnail image
+  altText: Bridal Wedding Day Hair and Airbursh Makeup... For Everyone!
   caption: ''
 bottomSections: []
 layout: PostLayout
