@@ -86,11 +86,6 @@ sections:
           type: SelectFormControl
           defaultValue: Reason for contact?
           label: Reason for contact?
-        - type: CheckboxFormControl
-          name: type-other
-          label: Other service
-          isRequired: false
-          width: full
         - type: TextFormControl
           name: date-of-service
           placeholder: Date of service
