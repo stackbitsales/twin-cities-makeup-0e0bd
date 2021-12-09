@@ -264,7 +264,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Screen Shot 2021-12-08 at 10.03.49 PM.png
-          altText: Photo of Carla Rogers
+          altText: Twin Cities Makeup Artist
     styles:
       self:
         height: auto
