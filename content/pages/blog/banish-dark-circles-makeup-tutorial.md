@@ -8,6 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/video-makeup-tutorials.jpeg
   caption: ''
+  altText: 'How to Banish Dark Circles: Makeup Tutorial'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
