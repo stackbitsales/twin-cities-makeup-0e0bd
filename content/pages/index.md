@@ -28,7 +28,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/minnesota-makeup-artist-scaled-arch.png
-      altText: Image alt text
+      altText: minnesota-makeup-artist-scaled
       caption: Image caption
     styles:
       self:
