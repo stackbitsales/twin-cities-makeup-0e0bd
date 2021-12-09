@@ -18,7 +18,7 @@ A little rain and overcast day didn’t stop bride Racheal from looking beauti
 
 ![](/images/btwin-cities-bridal-makeup-683x1024.jpeg)
 
-She received a romantic bridal airbrush makeup application as well as false lashes. Lisa Reinhardt was her makeup artist and the look was based on her [bridal hair and makeup consultation](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/).
+She received a romantic bridal airbrush makeup application as well as false lashes. Lisa Reinhardt was her makeup artist and the look was based on her [bridal hair and makeup consultation](/bridal-makeup-and-hair-styling).
 
 ![](/images/twin-cities-makeup-artist-lisa-reinhardt-683x1024.jpeg)
 
