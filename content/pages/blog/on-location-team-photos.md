@@ -1,6 +1,6 @@
 ---
 title: Lisa's Beauty Team
-date: '2021-11-09'
+date: '2021-11-12'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
