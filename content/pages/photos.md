@@ -37,8 +37,7 @@ sections:
     title: Featured
     subtitle: Featured blog posts section example
     colors: colors-h
-    posts:
-      - content/pages/blog/post-one.md
+    posts: []
     type: FeaturedPostsSection
   - elementId: ''
     customClass: ''
