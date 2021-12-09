@@ -1,6 +1,6 @@
 ---
 title: Bridal Airbrush Makeup And Hair Styling
-date: '2021-08-09'
+date: '2021-08-31'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
