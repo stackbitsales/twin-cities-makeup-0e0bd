@@ -39,7 +39,6 @@ sections:
     colors: colors-f
     posts:
       - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
