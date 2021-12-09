@@ -43,4 +43,4 @@ Soft synthetic brush for precise blending…each and every time.
 
 ## [Contact Lisa for purchasing and color matching today!](http://tcmakeup.staging.wpengine.com/contact/)
 
-*\*\*All booked brides and current Eyelash Extension clients will receive 10% off products.*
+*All booked brides and current Eyelash Extension clients will receive 10% off products.*
