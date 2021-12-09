@@ -65,6 +65,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+          hideLabel: true
         - name: phone
           hideLabel: true
           placeholder: Your phone number
