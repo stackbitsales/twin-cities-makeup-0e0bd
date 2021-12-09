@@ -305,7 +305,7 @@ bottomSections:
         altText: null
         caption: null
     spacing: 1
-    columns: 3
+    columns: 4
     aspectRatio: auto
     imageSizePx: 400
     showCaption: false
