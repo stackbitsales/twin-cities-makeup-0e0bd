@@ -232,7 +232,7 @@ sections:
     actions:
       - type: Button
         label: Contact us
-        url: /
+        url: /contact
         style: primary
     backgroundImage: null
     styles:
