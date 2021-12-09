@@ -89,7 +89,7 @@ sections:
           hideLabel: true
           defaultValue: Do you have airbrushing experience?
           options:
-            - New York
+            - 'Yes'
             - San Francisco
           isRequired: false
           width: full
