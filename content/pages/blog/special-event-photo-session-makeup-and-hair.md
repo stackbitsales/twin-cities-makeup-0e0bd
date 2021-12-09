@@ -10,7 +10,7 @@ excerpt: >-
   multiple looks can be done depending upon request.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Aga-and-John-Wedding-333x500.jpeg
   altText: Special Event & Photo Session Makeup And Hair
   caption: ''
 bottomSections: []

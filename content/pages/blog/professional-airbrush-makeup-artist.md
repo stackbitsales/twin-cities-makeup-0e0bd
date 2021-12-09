@@ -11,8 +11,8 @@ excerpt: >-
   flawless, radiant complexion that every woman wants.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  url: /images/Jeannine-Marie-Photography-450x600.png
+  altText: Benefits of Airbrush Makeup
   caption: ''
 bottomSections: []
 layout: PostLayout

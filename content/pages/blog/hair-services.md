@@ -8,7 +8,7 @@ excerpt: >-
   trained and certified.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/minneapolis-bridal-makeup-twincitiesmakeup-1024x683.jpeg
   altText: Hair Services
   caption: ''
 bottomSections: []
