@@ -82,7 +82,7 @@ sections:
             - Makeup Artist
             - Stylist
             - Both
-          isRequired: false
+          isRequired: true
           width: full
           type: SelectFormControl
         - name: airbrushing-experience
