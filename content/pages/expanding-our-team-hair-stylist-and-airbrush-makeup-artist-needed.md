@@ -144,7 +144,7 @@ sections:
         - name: additional-comments
           label: Additional Comments
           hideLabel: true
-          placeholder: Please describe
+          placeholder: Write any additional comments
           isRequired: false
           width: full
           type: TextareaFormControl
