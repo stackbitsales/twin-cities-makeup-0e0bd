@@ -2,8 +2,8 @@
 title: Lisa Reinhardt & Simplee Photography Featured Photoshoot!
 date: '2021-11-25'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  “Twisty Tree Roots on the bank of a River” featured on Rock N Roll Bride –
+  Hair & Makeup by Lisa Reinhardt
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
