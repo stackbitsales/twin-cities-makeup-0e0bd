@@ -37,6 +37,8 @@ sections:
     posts:
       - content/pages/blog/flawless-throughout-entire-night.md
       - content/pages/blog/relaxed-non-stressful.md
+      - >-
+        content/pages/blog/highly-recommend-site-services-lisas-makeup-artistry.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
