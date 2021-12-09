@@ -124,7 +124,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: city
+        - name: photos
           label: Can you provide current photos of your work?
           hideLabel: true
           defaultValue: 'Yes, I can provide links to an online gallery'
