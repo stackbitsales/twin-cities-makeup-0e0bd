@@ -16,12 +16,10 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/img021.72121105\_std.jpg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Most women don’t have the time to apply false lashes, so there is no surprise that more and more women are getting eyelash extensions. Recently, Mink Eyelash Extensions have become the biggest thing in eyelash technology. Formerly reserved for celebrities (like [Beyonce](http://www.stylelist.com/read/beyonces-obsession-mink-eyelashes/)), these lashes are now affordable for the mainstream market.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Mink Eyelash Extensions are made with 100% real Mink Fur to create a full, but natural look! They’re brushed off live minks (without harming them) and hand selected to give you the softest and curliest lashes. They’re realistic, elegant and sexy, making it look like you were born with flawless lashes!
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Lisa Reinhardt is so excited to offer fabulous Mink Eyelash Extensions! You’ll get feathery, lighter, fuller, natural looking lashes and best of all…there is no additional up charge for the Mink lash extensions!
