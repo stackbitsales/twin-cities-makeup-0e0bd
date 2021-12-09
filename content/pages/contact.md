@@ -76,7 +76,7 @@ sections:
           type: TextFormControl
           label: Your phone number
         - name: reason-for-contact
-          hideLabel: false
+          hideLabel: true
           options:
             - Service request
             - General comment/question
