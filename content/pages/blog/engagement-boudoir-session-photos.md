@@ -11,7 +11,7 @@ bottomSections:
     elementId: ''
     customClass: ''
     images:
-     - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/engagement-boudoir-session-photos/01-mckenzie.jpeg
         altText: null
