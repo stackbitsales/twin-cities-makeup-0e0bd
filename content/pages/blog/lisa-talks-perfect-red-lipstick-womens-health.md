@@ -2,8 +2,8 @@
 title: Lisa Talks About The Perfect Red Lipstick on Women's Health
 date: '2021-12-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Women’s Health asked Lisa her tips for selecting the perfect red lipstick for
+  your skin tone. Read about what she said.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
