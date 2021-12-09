@@ -55,7 +55,7 @@ bottomSections:
         url: >-
           /images/engagement-boudoir-session-photos/10-Cassie.jpeg
         altText: null
-        caption:  null
+        caption: null
     spacing: 1
     columns: 4
     aspectRatio: auto
