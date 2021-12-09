@@ -16,6 +16,11 @@ bottomSections:
           /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image_one
         caption: 
+      - type: ImageBlock
+        url: >-
+          /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
+        altText: Image_one
+        caption: 
     spacing: 1
     columns: 4
     aspectRatio: auto
