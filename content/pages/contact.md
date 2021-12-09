@@ -59,6 +59,7 @@ sections:
           placeholder: Your first name
           isRequired: true
           width: 1/2
+          label: Your first name
         - name: last-name
           hideLabel: false
           placeholder: Your last name
