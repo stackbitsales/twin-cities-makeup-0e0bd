@@ -51,27 +51,27 @@ bottomSections:
           /images/on-location-team-photos/08-lisarslide5-e1416324507876.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/09-minneapolis-airbrush-makeup.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/10-kristen2.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/11-kellygettingready1.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/12-maggieworking.jpeg
         altText: 
         caption: 
-    - type: ImageBlock
+      - type: ImageBlock
         url: >-
           /images/on-location-team-photos/13-getready3.jpeg
         altText: 
