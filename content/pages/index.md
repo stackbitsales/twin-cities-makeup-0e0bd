@@ -147,7 +147,6 @@ sections:
   - colors: colors-h
     elementId: ''
     customClass: ''
-    title: Remote doesn’t mean alone. Here are so great features
     items:
       - type: FeaturedItem
         title: Services
