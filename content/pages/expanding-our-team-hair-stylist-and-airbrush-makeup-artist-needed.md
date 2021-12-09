@@ -116,7 +116,7 @@ sections:
           type: SelectFormControl
         - name: available-on-saturdays
           label: Are you available on Saturdays?
-          hideLabel: false
+          hideLabel: true
           defaultValue: Please choose...
           options:
             - All
