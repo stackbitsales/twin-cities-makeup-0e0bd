@@ -344,6 +344,7 @@ sections:
         label: View all reviews
         url: /
         style: secondary
+        iconPosition: right
       - type: Button
         label: Submit your review
         showIcon: true
