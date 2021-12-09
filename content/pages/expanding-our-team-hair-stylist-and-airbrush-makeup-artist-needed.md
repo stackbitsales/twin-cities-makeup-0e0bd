@@ -106,7 +106,7 @@ sections:
           type: SelectFormControl
         - name: experience-with-brides
           label: Do you have experience working with brides?
-          hideLabel: false
+          hideLabel: true
           defaultValue: Please choose...
           options:
             - New York
