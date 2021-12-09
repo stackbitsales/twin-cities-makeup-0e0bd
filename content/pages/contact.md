@@ -109,7 +109,7 @@ sections:
           defaultValue: Type of service?
           options:
             - Wedding
-            - San Francisco
+            - Other
           isRequired: false
           width: full
           type: SelectFormControl
