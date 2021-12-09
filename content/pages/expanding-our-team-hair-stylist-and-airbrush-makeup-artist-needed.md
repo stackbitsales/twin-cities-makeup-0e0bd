@@ -42,7 +42,6 @@ sections:
     quote: |
       ## Expanding Our Team
     name: Now seeking experienced hair stylists and makeup artists
-    title: Someone from the team
     styles:
       self:
         height: auto
