@@ -31,7 +31,8 @@ sections:
         justifyContent: center
     title: Photos
     colors: colors-h
-    posts: []
+    posts:
+      - content/pages/blog/bridal-makeup-hair-artistry-photos.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
