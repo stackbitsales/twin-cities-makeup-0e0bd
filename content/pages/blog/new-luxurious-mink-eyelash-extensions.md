@@ -2,8 +2,11 @@
 title: New Luxurious Mink Eyelash Extensions
 date: '2021-12-09'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Most women don’t have the time to apply false lashes, so there is no surprise
+  that more and more women are getting eyelash extensions. Recently, Mink
+  Eyelash Extensions have become the biggest thing in eyelash technology.
+  Formerly reserved for celebrities (like Beyonce), these lashes are now
+  affordable for the mainstream market. Mink Eyelash Extensions are made
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
