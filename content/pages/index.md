@@ -337,7 +337,7 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     customClass: ''
-    colors: colors-a
+    colors: colors-b
     backgroundSize: full
     actions:
       - type: Button
