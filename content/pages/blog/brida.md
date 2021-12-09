@@ -7,7 +7,7 @@ excerpt: >-
   makeup done together for the wedding day is fun and SO worth it!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/bridalparty.jpeg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
