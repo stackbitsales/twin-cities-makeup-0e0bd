@@ -15,7 +15,7 @@ bottomSections:
         url: >-
           /images/bridal-makeup-hair/1-wedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image one
-        caption: Image one caption
+        caption: 
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
         altText: Image two
