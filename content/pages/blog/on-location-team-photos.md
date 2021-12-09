@@ -3,7 +3,7 @@ title: Lisa's Beauty Team
 date: '2021-11-12'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/twin-cities-bridal-hair-lisareinhardt.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
