@@ -6,19 +6,17 @@ featuredImage:
   url: /images/twin-cities-bridal-hair-makeup-lisareinhardt.jpg
   altText: Engagement & Boudoir
   caption: ''
-bottomSections: 
+bottomSections:
   - colors: colors-a
     elementId: ''
     customClass: ''
     images:
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/01-mckenzie.jpeg
+        url: /images/engagement-boudoir-session-photos/01-mckenzie.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/02-lisaengagmentjune9th.jpeg
+        url: /images/engagement-boudoir-session-photos/02-lisaengagmentjune9th.jpeg
         altText: null
         caption: null
       - type: ImageBlock
@@ -27,33 +25,27 @@ bottomSections:
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/04-carl1.jpeg
+        url: /images/engagement-boudoir-session-photos/04-carl1.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/05-Caitlin-095.jpeg
+        url: /images/engagement-boudoir-session-photos/05-Caitlin-095.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/06-Caitlin-072.jpeg
+        url: /images/engagement-boudoir-session-photos/06-Caitlin-072.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/07-boudior-look.jpeg
+        url: /images/engagement-boudoir-session-photos/07-boudior-look.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/09-boudior-look2.jpeg
+        url: /images/engagement-boudoir-session-photos/09-boudior-look2.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/engagement-boudoir-session-photos/10-Cassie.jpeg
+        url: /images/engagement-boudoir-session-photos/10-Cassie.jpeg
         altText: null
         caption: null
     spacing: 1
@@ -84,6 +76,6 @@ bottomSections:
     type: MediaGallerySection
 layout: PostLayout
 ---
-Are you looking for professional hair and makeup for a engagement or boudoir session in the Minneapolis area? [**Contact us today and make a reservation.**](https://www.twincitiesmakeup.com/contact/)
+Are you looking for professional hair and makeup for a engagement or boudoir session in the Minneapolis area? [**Contact us today and make a reservation.**](/contact)
 
 Any of our bridal hair and makeup talents can be applied to your photo session or special day.
