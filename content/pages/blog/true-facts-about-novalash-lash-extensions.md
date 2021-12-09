@@ -1,6 +1,6 @@
 ---
 title: True Facts About Novalash Lash Extensions
-date: '2021-11-09'
+date: '2021-11-27'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
