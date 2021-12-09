@@ -23,6 +23,7 @@ sections:
         label: Book now
         url: /contact
         style: primary
+        altText: Book now
     backgroundImage: null
     styles:
       self:
