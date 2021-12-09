@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/smp-blog-feature.jpeg
-  altText: We're Featured On Style Me Pretty!
+  altText: Makeup Featured On Style Me Pretty!
   caption: ''
 bottomSections: []
 layout: PostLayout
