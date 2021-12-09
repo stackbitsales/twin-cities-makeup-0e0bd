@@ -86,8 +86,8 @@ sections:
           type: SelectFormControl
         - name: city
           label: Do you have airbrushing experience?
-          hideLabel: false
-          defaultValue: Please choose...
+          hideLabel: true
+          defaultValue: Do you have airbrushing experience?
           options:
             - New York
             - San Francisco
