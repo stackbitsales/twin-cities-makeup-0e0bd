@@ -50,6 +50,7 @@ sections:
       - content/pages/blog/great-eyelashes.md
       - content/pages/blog/worth-every-penny.md
       - content/pages/blog/amazing-2.md
+      - content/pages/blog/could-not-have-wished-for-better.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
