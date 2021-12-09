@@ -29,7 +29,7 @@ Pre-Wedding Checklist! Face it Brides you want your skin and body to be radiant 
 
 *   Minimizes the appearance of visible pores
 
-### #2. Bliss Fabulips Sugar Lip Scrub $14
+### [#2. Bliss Fabulips Sugar Lip Scrub $14](http://www.lovelyskin.com/details.asp?PID=122677\&ref=gbase\&LSAT=STPAT13\&gclid=CKjomuf797UCFUhgMgodXVcAcw)
 
 *   Polishes, nourishes and conditions chapped lips
 
@@ -37,7 +37,7 @@ Pre-Wedding Checklist! Face it Brides you want your skin and body to be radiant 
 
 *   Try a small amount on your nail beds to nourish cuticles and smooth away dead, dry skin.
 
-### #3. St. Tropez Bronzing Mousse $42 or Perfect leg spray $18
+### [#3. St. Tropez Bronzing Mousse $42 or Perfect leg spray $18](http://www.sttropeztan.com/self-tan-bronzing-mousse)
 
 *   Award-winning self tan products deliver an instant, natural-looking bronze glow
 
@@ -47,7 +47,7 @@ Pre-Wedding Checklist! Face it Brides you want your skin and body to be radiant 
 
 *   Never orange
 
-### #4. Firming Diamond Shimmer Contour Lotion $32
+### [#4. Firming Diamond Shimmer Contour Lotion $32](http://topbeautybrands.com/borba-skincare/)
 
 *   Improves skins (body) overall
 
@@ -57,7 +57,7 @@ Pre-Wedding Checklist! Face it Brides you want your skin and body to be radiant 
 
 *   You will notice a sleeker, more contoured silhouette.
 
-### #5. Dermalogica Active Moist Face Moisturizer $56
+### [#5. Dermalogica Active Moist Face Moisturizer $56](http://www.dermalogica.com/active-moist/14,default,pd.html?cgid=moisturizers\&start=0)
 
 *   Oil-free, lightweight moisturizer to hydrate combination skin
 
@@ -65,7 +65,7 @@ Pre-Wedding Checklist! Face it Brides you want your skin and body to be radiant 
 
 *   Improve skin texture
 
-### #6. Philosophy Eye Hope $49
+### [#6. Philosophy Eye Hope $49](http://www.sephora.com/eye-hope-multitasking-eye-cream-for-dark-circles-puffiness-lines-P233901)
 
 *   Eye cream provides moisture for the delicate eye area
 
