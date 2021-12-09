@@ -6,11 +6,6 @@ excerpt: >-
   only did they bring to life our expectations, but they also came to our bridal
   suit the morning of the wedding to make the day easier! I would highly
   recommend Lisa and her team to any bride looking 
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 layout: PostLayout
 ---
