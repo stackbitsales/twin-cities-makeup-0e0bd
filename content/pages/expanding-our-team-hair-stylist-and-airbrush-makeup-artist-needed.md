@@ -137,7 +137,9 @@ sections:
         - name: description
           label: Links to Online Work
           hideLabel: true
-          placeholder: Add
+          placeholder: >-
+            Please provide a link(s) to your current work (i.e. Facebook,
+            Flickr, website, online gallery, etc).
           isRequired: false
           width: full
           type: TextareaFormControl
