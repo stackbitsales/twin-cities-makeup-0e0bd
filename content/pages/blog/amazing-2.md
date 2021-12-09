@@ -1,6 +1,6 @@
 ---
 title: Excellent Experience-Flawless Makeup & Beautiful Hair!
-date: '2021-12-09'
+date: '2021-09-09'
 excerpt: >-
   "Two people from Lisa’s team did my hair and makeup along with the hair and
   makeup of my bridal party. I am SO glad I went with Lisa Reinhardt. Scheduling
