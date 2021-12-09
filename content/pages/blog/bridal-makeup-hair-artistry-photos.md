@@ -12,7 +12,7 @@ bottomSections:
     customClass: ''
     images:
       - type: ImageBlock
-        url: /images/wedding-hair-makeup-artist-twin-cities-makeup.jpeg
+        url: /images/bridal-hairwedding-hair-makeup-artist-twin-cities-makeup.jpeg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
