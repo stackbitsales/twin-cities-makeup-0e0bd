@@ -260,14 +260,6 @@ sections:
       Lisa Reinhardt has repeatedly been voted "Best Wedding & Hair Makeup
       Artist in the Twin Cities area." Lisa and her team will travel anywhere in
       Minnesota for wedding hair and makeup.
-
-
-
-      >
-
-      > I found Lisa Reinhardt through online reviews and I was not
-      disappointed! One of the things that I really loved about Lisa and her
-      team is that they work onsite. Lisa sent two of her team members to …
     actions:
       - type: Button
         label: Read more
