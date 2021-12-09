@@ -48,6 +48,7 @@ sections:
       - content/pages/blog/fabulous.md
       - content/pages/blog/unforgettable-2.md
       - content/pages/blog/great-eyelashes.md
+      - content/pages/blog/worth-every-penny.md
     type: FeaturedPostsSection
 layout: PageLayout
 ---
