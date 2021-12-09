@@ -114,7 +114,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: city
+        - name: available-on-saturdays
           label: City
           hideLabel: false
           defaultValue: Please choose...
