@@ -127,7 +127,7 @@ sections:
         - name: photos-of-work
           label: Can you provide current photos of your work?
           hideLabel: true
-          defaultValue: 'Yes, I can provide links to an online gallery'
+          defaultValue: Can you provide current photos of your work?
           options:
             - 'Yes, I can provide links to an online gallery'
             - 'Yes, I have photos I can email'
