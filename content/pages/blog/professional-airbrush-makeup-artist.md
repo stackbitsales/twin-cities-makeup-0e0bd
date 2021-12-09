@@ -71,6 +71,6 @@ Most clients find the application soothing and since brushes are not used like y
 
 There are lots of airbrush foundations on the market today. You can spend a pretty penny on them too if you do not know any better. I only carry Temptu in my professional kit for clients.
 
-Formulas from **Temptu** are **Dura **(alchohol based), **Aqua **(water based) and the so BEAUTIFUL **S/B** (silicone based). **S/B** produces a dewy finish on the skin. **Aqua** is best for sensitive skin types. Whether it’s a Bride, model, or the everyday woman, airbrush makeup always gets the best reviews!
+Formulas from **Temptu** are \*\*Dura \*\*(alchohol based), \*\*Aqua \*\*(water based) and the so BEAUTIFUL **S/B** (silicone based). **S/B** produces a dewy finish on the skin. **Aqua** is best for sensitive skin types. Whether it’s a Bride, model, or the everyday woman, airbrush makeup always gets the best reviews!
 
 [View photoshoot pictures](/photoshoots)

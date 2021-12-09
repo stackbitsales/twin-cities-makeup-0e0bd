@@ -19,23 +19,19 @@ bottomSections:
     customClass: ''
     images:
       - type: ImageBlock
-        url: >-
-          /images/photoshoots/03-trash-the-dress-paint-5.jpeg
+        url: /images/photoshoots/03-trash-the-dress-paint-5.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/photoshoots/07-anaeli-glitter.jpeg
+        url: /images/photoshoots/07-anaeli-glitter.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/photoshoots/09-LR-1033.jpeg
+        url: /images/photoshoots/09-LR-1033.jpeg
         altText: null
         caption: null
       - type: ImageBlock
-        url: >-
-          /images/photoshoots/12-itssmokinhotmodels-0954lg.jpeg
+        url: /images/photoshoots/12-itssmokinhotmodels-0954lg.jpeg
         altText: null
         caption: null
     spacing: 1
@@ -63,7 +59,7 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
-    type: MediaGallerySection      
+    type: MediaGallerySection
 layout: PostLayout
 ---
 Makeup or hair styles will be customized to clients’ specific needs and request. Multiple looks can be done depending upon the type of photo session hired for. All hired makeup artists and hair stylists have been professionally trained to work specifically for print and/or film services.
@@ -74,9 +70,9 @@ Includes, but not limited to, talent head shots, portfolio work, senior portra
 
 **Rates for specialized services:**
 
-*   Makeup & Hair Styling (on-site) $300 \**plus any parking or travel fees \*\*any additional looks $100 *
+*   Makeup & Hair Styling (on-site) $300 \*\*plus any parking or travel fees \*\*any additional looks $100 \*
 
-*   Makeup & Hair Styling (in-studio) $165 *\*additional fees will apply for false lashes (add $15) and airbrush* (add $15)*                              *
+*   Makeup & Hair Styling (in-studio) $165 *\*additional fees will apply for false lashes (add $15) and airbrush* (add $15)\*                              \*
 
 **Production Rates:**
 
@@ -86,7 +82,4 @@ Includes, but not limited to, talent head shots, portfolio work, senior portra
 
 *   Half-Day rate (up to 5 hrs) $575
 
-
-
-[*View more photoshoot pictures*](https://www.twincitiesmakeup.com/photos/photoshoots/)
-
+[*View more photoshoot pictures*](/blog/photoshoots/)
