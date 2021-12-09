@@ -17,7 +17,7 @@ author: content/data/team/hilary-ouse.json
 ---
 Featured NOW:
 
-One of my very favorite Bride’s recently submitted her eye-catching wedding photos to a lovely wedding website called Wedding Chicks! We could NOT be more excited! Lisa did the Bride’s [**airbrush makeup**](https://www.twincitiesmakeup.com/bridal-makeup-and-hair-styling/) application with [**eyelash extensions**](https://www.twincitiesmakeup.com/eyelash-extensions/) and makeup for her bridal party! These ladies were all so pretty and SO much fun to get ready! She had 10 bridesmaids! The photos really show off Caitlin and Daniel’s simply gorgeous wedding with full attention to every detail….. yet still was totally romantic! It had the perfect feel for a vintage, rustic, autumn Minnesota Wedding.
+One of my very favorite Bride’s recently submitted her eye-catching wedding photos to a lovely wedding website called Wedding Chicks! We could NOT be more excited! Lisa did the Bride’s [**airbrush makeup**](/bridal-makeup-and-hair-styling) application with [**eyelash extensions**](/eyelash-extensions) and makeup for her bridal party! These ladies were all so pretty and SO much fun to get ready! She had 10 bridesmaids! The photos really show off Caitlin and Daniel’s simply gorgeous wedding with full attention to every detail….. yet still was totally romantic! It had the perfect feel for a vintage, rustic, autumn Minnesota Wedding.
 
 ![](/images/lisa-reinhardt-wedding-makeup.jpeg)
 
