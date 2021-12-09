@@ -1,5 +1,5 @@
 ---
-title: Crown Plaza Minneapolis WEdding | Makeup & Hair Design
+title: Crown Plaza Minneapolis Wedding | Makeup & Hair Design
 date: '2021-12-03'
 excerpt: >-
   This past summer my team and I were lucky to work with several amazing bridal
