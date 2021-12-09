@@ -12,11 +12,11 @@ featuredImage:
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
-What a way to bring in the New Year with style by getting [married on NYE in Minneapolis](http://blog.ericvestphotography.com/windows-on-minnesota-wedding-stew-alex-minneapolis-wedding-photographer/)? That’s just what Alex & Stew did for their Minneapolis wedding. Lisa Reinhardt and her team joined in on the celebration and made the bridal party look great with a [**bridal party makeup application**](https://www.twincitiesmakeup.com/wedding-rates/).
+What a way to bring in the New Year with style by getting [married on NYE in Minneapolis](http://blog.ericvestphotography.com/windows-on-minnesota-wedding-stew-alex-minneapolis-wedding-photographer/)? That’s just what Alex & Stew did for their Minneapolis wedding. Lisa Reinhardt and her team joined in on the celebration and made the bridal party look great with a [**bridal party makeup application**](/wedding-rates).
 
 ![](/images/minneapolis-bridal-makeup2-twincitiesmakeup.jpg)
 
-[Lisa and two others from her team](https://www.twincitiesmakeup.com/photos/on-location-team-photos/) got together with the bride and her bridal party for an airbrush application session.
+[Lisa and two others from her team](/on-location-team-photos) got together with the bride and her bridal party for an airbrush application session.
 
 ![](/images/minneapolis-bridal-makeup-twincitiesmakeup.jpg)
 
@@ -56,4 +56,4 @@ Prior to the wedding, the bride received a full set of false eyelashes to get th
 
 *   **Suit:** [The Black Tux](https://theblacktux.com/)
 
-*   **Rings:** [Grayson & Co. Jewelers](http://www.ironmountainjeweler.com/)****
+*   **Rings:** [Grayson & Co. Jewelers](http://www.ironmountainjeweler.com/)\*\*\*\*
