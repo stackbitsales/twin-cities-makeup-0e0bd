@@ -40,7 +40,7 @@ export default function HeroSection(props) {
             style={{
                 borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
             }}
-         >
+        >
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     <div
@@ -90,7 +90,7 @@ function heroBody(props) {
         <div>
             {props.badge && <Badge {...props.badge} data-sb-field-path=".badge" />}
             {props.title && (
-                <h2 className={classNames('h1', styles.title ? mapStyles(styles.title) : null, { 'mt-4': props.badge?.label })} data-sb-field-path=".title">
+                <h2 className={classNames('h1', 'pros', styles.title ? mapStyles(styles.title) : null, { 'mt-4': props.badge?.label })} data-sb-field-path=".title">
                     {props.title}
                 </h2>
             )}
