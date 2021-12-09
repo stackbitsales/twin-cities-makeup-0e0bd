@@ -196,7 +196,7 @@ sections:
     customClass: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: REserve you
     subtitle: ''
     badge:
       label: This is the badge
