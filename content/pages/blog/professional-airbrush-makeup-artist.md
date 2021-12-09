@@ -71,4 +71,4 @@ There are lots of airbrush foundations on the market today. You can spend a pret
 
 Formulas from **Temptu** are **Dura** (alchohol based), **Aqua** (water based) and the so BEAUTIFUL **S/B** (silicone based). **S/B** produces a dewy finish on the skin. **Aqua** is best for sensitive skin types. Whether it’s a Bride, model, or the everyday woman, airbrush makeup always gets the best reviews!
 
-[View photoshoot pictures](/photoshoots)
+[View photoshoot pictures](/blog/photoshoots)
