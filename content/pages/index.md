@@ -98,7 +98,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/raves.png
-          altText: 'Twin Cities '
+          altText: 'Twin Cities Makeup '
         styles:
           title:
             textAlign: center
