@@ -9,11 +9,6 @@ excerpt: >-
 
 
   – Katie L, 4/11/2016 from theknot.com
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 layout: PostLayout
 ---
