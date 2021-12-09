@@ -176,7 +176,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-0
+          - pt-9
           - pb-0
           - pl-9
           - pr-9
