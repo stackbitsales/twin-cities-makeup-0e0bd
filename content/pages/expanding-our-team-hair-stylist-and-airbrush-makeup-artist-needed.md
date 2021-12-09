@@ -36,10 +36,7 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "Currently seeking new talent for our expanding team! If you want to work in a great environment with lots of friendly girls and wonderful clients please fill out the form below. You will need\_**availability\_**for at least 1 Saturday a month and some Friday’s & Sunday’s.\n\n*   Airbrush Makeup Artist (Must own airbrush machine/ water based airbrush foundation\_AND have previous airbrush training)\n\n*   Hair Stylist (2-4 years of updo styling\_experience is required)\n\n*   Prior experience with Brides and their bridal parties is a must (portfolio\_pictures will be\_required)\n\n*   Technical interview will be set up after contacted; you will need to supply\_your own\_model\n"
     actions:
       - type: Button
         label: Sign Up
