@@ -127,7 +127,7 @@ sections:
         - name: city
           label: Can you provide current photos of your work?
           hideLabel: true
-          defaultValue: Please choose...
+          defaultValue: 'Yes, I can provide links to an online gallery'
           options:
             - New York
             - San Francisco
