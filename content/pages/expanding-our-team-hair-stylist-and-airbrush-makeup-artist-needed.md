@@ -74,11 +74,6 @@ sections:
           width: full
           type: TextFormControl
           label: Phone
-        - type: TextFormControl
-          name: address
-          placeholder: Your home address
-          isRequired: 'false'
-          width: full
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
