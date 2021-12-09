@@ -4,7 +4,7 @@ date: '2021-08-31'
 featuredImage:
   type: ImageBlock
   url: /images/twin-cities-makeup-artist-for-weddings-photo.jpeg
-  altText: Post thumbnail image
+  altText: Bridal
   caption: ''
 bottomSections: []
 layout: PostLayout
