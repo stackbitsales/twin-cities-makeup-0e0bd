@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function VideoSection(props) {
+export default function YouTubeSection(props) {
 
     let videoLink;
     let youTubeID;
