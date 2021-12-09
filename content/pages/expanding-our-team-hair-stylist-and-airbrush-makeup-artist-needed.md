@@ -121,7 +121,7 @@ sections:
           options:
             - All
             - Most
-            - lorem-ipsum
+            - Sometimes
           isRequired: false
           width: full
           type: SelectFormControl
