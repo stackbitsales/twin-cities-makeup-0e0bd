@@ -6,7 +6,7 @@ export default function SubmitReviewsSection(props) {
         <div className="flex justify-center">
             <img className="mr-10" src="/images/theknot-logo.jpeg"></img>
             <img className="mr-10" src="/images/weddingwire-logo.jpeg"></img>
-            <img className="mr-10" src="/images/facebook-logo.jpeg"></img>
+            <img className="" src="/images/facebook-logo.jpeg"></img>
         </div>
     );
 }
