@@ -134,7 +134,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: description
+        - name: links-to-online-work
           label: Links to Online Work
           hideLabel: true
           placeholder: >-
