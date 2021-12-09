@@ -6,7 +6,9 @@ date: '2021-11-24'
 featuredImage:
   type: ImageBlock
   url: /images/novalash.jpeg
-  altText: Post thumbnail image
+  altText: >-
+    Minneapolis Eyelash Extension Professional - Why I Use Novalash Eyelash
+    Extensions
   caption: ''
 bottomSections: []
 layout: PostLayout
