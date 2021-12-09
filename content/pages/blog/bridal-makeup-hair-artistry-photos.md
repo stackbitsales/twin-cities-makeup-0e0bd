@@ -31,7 +31,7 @@ bottomSections:
     columns: 4
     aspectRatio: '16:9'
     imageSizePx: 300
-    showCaption: true
+    showCaption: false
     enableHover: true
     styles:
       self:
