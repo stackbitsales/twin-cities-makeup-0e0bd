@@ -204,9 +204,8 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Will travel anywhere in Minnesota
     actions:
       - type: Button
         label: Sign Up
