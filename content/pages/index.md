@@ -95,6 +95,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        link: /raves
     actions: []
     columns: 3
     enableHover: false
